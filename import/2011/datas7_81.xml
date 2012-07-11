@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2011-07-01 2011-07-30 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2011-07-01 mediatype=1 cnt=500 until=2011-07-30 </description>
+    <language>ja</language>
+    <openSearch:totalResults>83</openSearch:totalResults>
+    <openSearch:startIndex>82</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>感染症週報 : 感染症発生動向調査</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094438-00</link>
+<description>
+<![CDATA[<p>13,厚生労働省</p>
+<ul><li>タイトル： 感染症週報 : 感染症発生動向調査</li>
+<li>責任表示： 国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</li>
+</ul>]]>
+</description>
+      <author>国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094438-00</guid>
+      <dc:title>感染症週報 : 感染症発生動向調査</dc:title>
+      <dc:creator>国立感染症研究所</dc:creator>
+      <dc:creator>厚生労働省健康局結核感染症課</dc:creator>
+      <dc:creator>厚生労働省大臣官房統計情報部</dc:creator>
+      <dcndl:volume>13</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-07-08</dcterms:issued>
+    </item>
+    <item>
+      <title>各国議会 日本関係情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096094-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 各国議会 日本関係情報</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096094-00</guid>
+      <dc:title>各国議会 日本関係情報</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-07</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2011-12-01 2011-12-30 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2011-12-01 mediatype=1 cnt=500 until=2011-12-30 </description>
+    <language>ja</language>
+    <openSearch:totalResults>105</openSearch:totalResults>
+    <openSearch:startIndex>81</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>国立国会図書館月報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000092288-00</link>
+<description>
+<![CDATA[<p>2011年,国立国会図書館</p>
+<ul><li>タイトル： 国立国会図書館月報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000092288-00</guid>
+      <dc:title>国立国会図書館月報</dc:title>
+      <dcndl:volume>2011年</dcndl:volume>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-20</dcterms:issued>
+      <dcterms:isPartOf>13493027</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>英国キャメロン連立内閣の政権運営</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094183-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 英国キャメロン連立内閣の政権運営</li>
+<li>責任表示： 濱野雄太,</li>
+</ul>]]>
+</description>
+      <author>濱野雄太,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094183-00</guid>
+      <dc:title>英国キャメロン連立内閣の政権運営</dc:title>
+      <dc:creator>濱野雄太</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dc:subject>政治/行政/内閣</dc:subject>
+      <dc:subject>イギリス</dc:subject>
+    </item>
+    <item>
+      <title>国リハニュース : 国立障害者リハビリテーションセンター広報誌</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094378-00</link>
+<description>
+<![CDATA[<p>平成23年,厚生労働省</p>
+<ul><li>タイトル： 国リハニュース : 国立障害者リハビリテーションセンター広報誌</li>
+<li>責任表示： 国立障害者リハビリテーションセンター管理部企画課,</li>
+</ul>]]>
+</description>
+      <author>国立障害者リハビリテーションセンター管理部企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094378-00</guid>
+      <dc:title>国リハニュース : 国立障害者リハビリテーションセンター広報誌</dc:title>
+      <dc:creator>国立障害者リハビリテーションセンター管理部企画課</dc:creator>
+      <dcndl:volume>平成23年</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096064-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096064-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-09</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096424-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096424-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-02</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096699-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096699-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-14</dcterms:issued>
+    </item>
+    <item>
+      <title>資料保存 環境保護と経費削減を考慮した資料保存 IFLA/PAC主催オープン・セッション</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023326360-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 資料保存 環境保護と経費削減を考慮した資料保存 IFLA/PAC主催オープン・セッション</li>
+<li>タイトル（読み）： シリョウ ホゾン カンキョウ ホゴ ト ケイヒ サクゲン オ コウリョ シタ シリョウ ホゾン IFLA/PAC シュサイ オープン ・ セッション</li>
+<li>シリーズ名： 世界図書館情報会議 : 第77回国際図書館連盟(IFLA)大会 図書館を越える図書館 : みんなのための統合、革新、情報</li>
+<li>シリーズ名（読み）： セカイ トショカン ジョウホウ カイギ : ダイ77カイ コクサイ トショカン レンメイ(IFLA)タイカイ トショカン オ コエル トショカン : ミンナ ノ タメ ノ トウゴウ 、 カクシン 、 ジョウホウ</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023326360-00</guid>
+      <pubDate>Tue, 17 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>資料保存 環境保護と経費削減を考慮した資料保存 IFLA/PAC主催オープン・セッション</dc:title>
+      <dcndl:titleTranscription>シリョウ ホゾン カンキョウ ホゴ ト ケイヒ サクゲン オ コウリョ シタ シリョウ ホゾン IFLA/PAC シュサイ オープン ・ セッション</dcndl:titleTranscription>
+      <dcndl:seriesTitle>世界図書館情報会議 : 第77回国際図書館連盟(IFLA)大会 図書館を越える図書館 : みんなのための統合、革新、情報</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>セカイ トショカン ジョウホウ カイギ : ダイ77カイ コクサイ トショカン レンメイ(IFLA)タイカイ トショカン オ コエル トショカン : ミンナ ノ タメ ノ トウゴウ 、 カクシン 、 ジョウホウ</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>アジア情報室通報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000089485-00</link>
+<description>
+<![CDATA[<p>9,国立国会図書館</p>
+<ul><li>タイトル： アジア情報室通報</li>
+<li>責任表示： 国立国会図書館関西館アジア情報課,</li>
+</ul>]]>
+</description>
+      <author>国立国会図書館関西館アジア情報課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000089485-00</guid>
+      <dc:title>アジア情報室通報</dc:title>
+      <dc:creator>国立国会図書館関西館アジア情報課</dc:creator>
+      <dcndl:volume>9</dcndl:volume>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12</dcterms:issued>
+      <dcterms:isPartOf>18840256</dcterms:isPartOf>
+      <dcterms:isPartOf>13482149</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>英国における内閣の機能と補佐機構</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094490-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 英国における内閣の機能と補佐機構</li>
+<li>責任表示： 田中嘉彦,</li>
+</ul>]]>
+</description>
+      <author>田中嘉彦,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094490-00</guid>
+      <dc:title>英国における内閣の機能と補佐機構</dc:title>
+      <dc:creator>田中嘉彦</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dc:subject>政治/行政/内閣</dc:subject>
+      <dc:subject>政治/行政/行政制度</dc:subject>
+      <dc:subject>イギリス</dc:subject>
+    </item>
+    <item>
+      <title>英国の政治資金制度（資料）</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094520-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 英国の政治資金制度（資料）</li>
+<li>責任表示： 木村志穂,</li>
+</ul>]]>
+</description>
+      <author>木村志穂,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094520-00</guid>
+      <dc:title>英国の政治資金制度（資料）</dc:title>
+      <dc:creator>木村志穂</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dc:subject>政治/政治/政党</dc:subject>
+      <dc:subject>政治/政治/政治資金</dc:subject>
+      <dc:subject>イギリス</dc:subject>
+    </item>
+    <item>
+      <title>食品安全情報 : 微生物</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094748-00</link>
+<description>
+<![CDATA[<p>2011,厚生労働省</p>
+<ul><li>タイトル： 食品安全情報 : 微生物</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094748-00</guid>
+      <dc:title>食品安全情報 : 微生物</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>2011</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-26</dcterms:issued>
+    </item>
+    <item>
+      <title>食品安全情報 : 化学物質</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095051-00</link>
+<description>
+<![CDATA[<p>2011,厚生労働省</p>
+<ul><li>タイトル： 食品安全情報 : 化学物質</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095051-00</guid>
+      <dc:title>食品安全情報 : 化学物質</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>2011</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-14</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095804-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095804-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-22</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096140-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096140-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-16</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096706-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096706-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-20</dcterms:issued>
+    </item>
+    <item>
+      <title>平成23年度第3次補正予算と今後の課題 : 東日本大震災からの復興予算</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023303410-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 平成23年度第3次補正予算と今後の課題 : 東日本大震災からの復興予算</li>
+<li>タイトル（読み）： ヘイセイ 23ネンド ダイ3ジ ホセイ ヨサン ト コンゴ ノ カダイ : ヒガシニホン ダイシンサイ カラ ノ フッコウ ヨサン</li>
+<li>責任表示： 小池 拓自,依田 紀久,加藤 慶一,</li>
+</ul>]]>
+</description>
+      <author>小池 拓自,依田 紀久,加藤 慶一,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023303410-00</guid>
+      <pubDate>Wed, 11 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>平成23年度第3次補正予算と今後の課題 : 東日本大震災からの復興予算</dc:title>
+      <dcndl:titleTranscription>ヘイセイ 23ネンド ダイ3ジ ホセイ ヨサン ト コンゴ ノ カダイ : ヒガシニホン ダイシンサイ カラ ノ フッコウ ヨサン</dcndl:titleTranscription>
+      <dc:creator>小池 拓自</dc:creator>
+      <dc:creator>依田 紀久</dc:creator>
+      <dc:creator>加藤 慶一</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-01</dcterms:issued>
+      <dcterms:isPartOf>13493019</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>英国における内閣の機能と補佐機構</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023325542-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 英国における内閣の機能と補佐機構</li>
+<li>タイトル（読み）： エイコク ニ オケル ナイカク ノ キノウ ト ホサ キコウ</li>
+<li>責任表示： 田中 嘉彦,</li>
+<li>シリーズ名： 特集 英国の政治システムとその変容</li>
+<li>シリーズ名（読み）： トクシュウ エイコク ノ セイジ システム ト ソノ ヘンヨウ</li>
+</ul>]]>
+</description>
+      <author>田中 嘉彦,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023325542-00</guid>
+      <pubDate>Mon, 16 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>英国における内閣の機能と補佐機構</dc:title>
+      <dcndl:titleTranscription>エイコク ニ オケル ナイカク ノ キノウ ト ホサ キコウ</dcndl:titleTranscription>
+      <dc:creator>田中 嘉彦</dc:creator>
+      <dcndl:seriesTitle>特集 英国の政治システムとその変容</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ エイコク ノ セイジ システム ト ソノ ヘンヨウ</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>電子展示会 江戸の数学</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023325605-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 電子展示会 江戸の数学</li>
+<li>タイトル（読み）： デンシ テンジカイ エド ノ スウガク</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023325605-00</guid>
+      <pubDate>Mon, 16 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>電子展示会 江戸の数学</dc:title>
+      <dcndl:titleTranscription>デンシ テンジカイ エド ノ スウガク</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>調査と情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096150-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 調査と情報</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096150-00</guid>
+      <dc:title>調査と情報</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-15</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>外国の立法 : 立法情報・翻訳・解説</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096914-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 外国の立法 : 立法情報・翻訳・解説</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096914-00</guid>
+      <dc:title>外国の立法 : 立法情報・翻訳・解説</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097544-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097544-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-13</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097739-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097739-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-27</dcterms:issued>
+    </item>
+    <item>
+      <title>欧米主要国の議員秘書制度(第2版)</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023305271-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 欧米主要国の議員秘書制度(第2版)</li>
+<li>タイトル（読み）： オウベイ シュヨウコク ノ ギイン ヒショ セイド(ダイ2ハン)</li>
+<li>責任表示： 桐原 康栄,</li>
+</ul>]]>
+</description>
+      <author>桐原 康栄,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023305271-00</guid>
+      <pubDate>Wed, 11 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>欧米主要国の議員秘書制度(第2版)</dc:title>
+      <dcndl:titleTranscription>オウベイ シュヨウコク ノ ギイン ヒショ セイド(ダイ2ハン)</dcndl:titleTranscription>
+      <dc:creator>桐原 康栄</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-22</dcterms:issued>
+      <dcterms:isPartOf>13493019</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096061-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096061-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-05</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096418-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096418-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-15</dcterms:issued>
+    </item>
+  </channel>
+</rss>

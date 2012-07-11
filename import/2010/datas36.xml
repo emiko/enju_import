@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2010-03-06 2010-03-06 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2010-03-06 mediatype=1 cnt=500 until=2010-03-06 </description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>和歌山県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000076166-00</link>
+<description>
+<![CDATA[<p>和歌山県</p>
+<ul><li>タイトル： 和歌山県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000076166-00</guid>
+      <dc:title>和歌山県報</dc:title>
+      <dc:publisher>和歌山県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-06</dcterms:issued>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2010-07-07 2010-07-07 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2010-07-07 mediatype=1 cnt=500 until=2010-07-07 </description>
+    <language>ja</language>
+    <openSearch:totalResults>13</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>福岡県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000062381-00</link>
+<description>
+<![CDATA[<p>福岡県</p>
+<ul><li>タイトル： 福岡県公報</li>
+<li>責任表示： 福岡県総務部行政経営企画課,</li>
+</ul>]]>
+</description>
+      <author>福岡県総務部行政経営企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000062381-00</guid>
+      <dc:title>福岡県公報</dc:title>
+      <dc:creator>福岡県総務部行政経営企画課</dc:creator>
+      <dc:publisher>福岡県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-07-07</dcterms:issued>
+    </item>
+    <item>
+      <title>青森県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000053762-00</link>
+<description>
+<![CDATA[<p>平成22年,青森県</p>
+<ul><li>タイトル： 青森県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000053762-00</guid>
+      <dc:title>青森県報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>青森県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-07-07</dcterms:issued>
+    </item>
+    <item>
+      <title>東京都公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000052905-00</link>
+<description>
+<![CDATA[<p>平成22年,東京都</p>
+<ul><li>タイトル： 東京都公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000052905-00</guid>
+      <dc:title>東京都公報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>東京都</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-07-07</dcterms:issued>
+    </item>
+    <item>
+      <title>独占禁止法に関する相談事例集</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000091019-00</link>
+<description>
+<![CDATA[<p>平成21年度,公正取引委員会</p>
+<ul><li>タイトル： 独占禁止法に関する相談事例集</li>
+<li>責任表示： 公正取引委員会事務総局,</li>
+</ul>]]>
+</description>
+      <author>公正取引委員会事務総局,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000091019-00</guid>
+      <dc:title>独占禁止法に関する相談事例集</dc:title>
+      <dc:creator>公正取引委員会事務総局</dc:creator>
+      <dcndl:volume>平成21年度</dcndl:volume>
+      <dc:publisher>公正取引委員会</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-07-07</dcterms:issued>
+    </item>
+    <item>
+      <title>福岡県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000032631-00</link>
+<description>
+<![CDATA[<p>福岡県</p>
+<ul><li>タイトル： 福岡県公報</li>
+<li>責任表示： 福岡県総務部行政経営企画課,</li>
+</ul>]]>
+</description>
+      <author>福岡県総務部行政経営企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000032631-00</guid>
+      <dc:title>福岡県公報</dc:title>
+      <dc:creator>福岡県総務部行政経営企画課</dc:creator>
+      <dc:publisher>福岡県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-07-07</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000036128-00</link>
+<description>
+<![CDATA[<p>平成22年,埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000036128-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-07-07</dcterms:issued>
+    </item>
+    <item>
+      <title>宮崎県の地震活動概況</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000054321-00</link>
+<description>
+<![CDATA[<p>2010年,気象庁</p>
+<ul><li>タイトル： 宮崎県の地震活動概況</li>
+<li>責任表示： 宮崎地方気象台,</li>
+</ul>]]>
+</description>
+      <author>宮崎地方気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000054321-00</guid>
+      <dc:title>宮崎県の地震活動概況</dc:title>
+      <dc:creator>宮崎地方気象台</dc:creator>
+      <dcndl:volume>2010年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-07-07</dcterms:issued>
+    </item>
+    <item>
+      <title>青森県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000004361-00</link>
+<description>
+<![CDATA[<p>青森県</p>
+<ul><li>タイトル： 青森県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000004361-00</guid>
+      <dc:title>青森県報</dc:title>
+      <dc:publisher>青森県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-07-07</dcterms:issued>
+    </item>
+    <item>
+      <title>東京都公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000055233-00</link>
+<description>
+<![CDATA[<p>東京都</p>
+<ul><li>タイトル： 東京都公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000055233-00</guid>
+      <dc:title>東京都公報</dc:title>
+      <dc:publisher>東京都</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-07-07</dcterms:issued>
+    </item>
+    <item>
+      <title>徳島県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000084688-00</link>
+<description>
+<![CDATA[<p>徳島県</p>
+<ul><li>タイトル： 徳島県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000084688-00</guid>
+      <dc:title>徳島県報</dc:title>
+      <dc:publisher>徳島県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-07-07</dcterms:issued>
+    </item>
+    <item>
+      <title>熊本県の地震活動概況</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000039974-00</link>
+<description>
+<![CDATA[<p>2010年,気象庁</p>
+<ul><li>タイトル： 熊本県の地震活動概況</li>
+<li>責任表示： 熊本地方気象台,</li>
+</ul>]]>
+</description>
+      <author>熊本地方気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000039974-00</guid>
+      <dc:title>熊本県の地震活動概況</dc:title>
+      <dc:creator>熊本地方気象台</dc:creator>
+      <dcndl:volume>2010年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-07-07</dcterms:issued>
+    </item>
+    <item>
+      <title>青森県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000071067-00</link>
+<description>
+<![CDATA[<p>平成22年,青森県</p>
+<ul><li>タイトル： 青森県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000071067-00</guid>
+      <dc:title>青森県報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>青森県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-07-07</dcterms:issued>
+    </item>
+    <item>
+      <title>島根県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000053840-00</link>
+<description>
+<![CDATA[<p>平成22年,島根県</p>
+<ul><li>タイトル： 島根県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000053840-00</guid>
+      <dc:title>島根県報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>島根県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-07-07</dcterms:issued>
+    </item>
+  </channel>
+</rss>

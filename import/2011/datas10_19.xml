@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2011-10-01 2011-10-30 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2011-10-01 mediatype=1 cnt=500 until=2011-10-30 </description>
+    <language>ja</language>
+    <openSearch:totalResults>103</openSearch:totalResults>
+    <openSearch:startIndex>20</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096704-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096704-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-25</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097400-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097400-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-11</dcterms:issued>
+    </item>
+    <item>
+      <title>今月の一冊 国立国会図書館の蔵書から 民報--東京発の中国同盟会機関誌</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11281045-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 今月の一冊 国立国会図書館の蔵書から 民報--東京発の中国同盟会機関誌</li>
+<li>タイトル（読み）： コンゲツ ノ イッサツ コクリツ コッカイ トショカン ノ ゾウショ カラ ミンポウ トウキョウハツ ノ チュウゴク ドウメイカイ キカンシ</li>
+<li>責任表示： 湯野 基生,</li>
+</ul>]]>
+</description>
+      <author>湯野 基生,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11281045-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>今月の一冊 国立国会図書館の蔵書から 民報--東京発の中国同盟会機関誌</dc:title>
+      <dcndl:titleTranscription>コンゲツ ノ イッサツ コクリツ コッカイ トショカン ノ ゾウショ カラ ミンポウ トウキョウハツ ノ チュウゴク ドウメイカイ キカンシ</dcndl:titleTranscription>
+      <dc:creator>湯野 基生</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>食品安全情報 : 化学物質</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094000-00</link>
+<description>
+<![CDATA[<p>2011,厚生労働省</p>
+<ul><li>タイトル： 食品安全情報 : 化学物質</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094000-00</guid>
+      <dc:title>食品安全情報 : 化学物質</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>2011</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-05</dcterms:issued>
+    </item>
+    <item>
+      <title>行歯会だより</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095056-00</link>
+<description>
+<![CDATA[<p>2011年,厚生労働省</p>
+<ul><li>タイトル： 行歯会だより</li>
+<li>責任表示： 国立保健医療科学院,全国行政歯科技術職連絡会,</li>
+</ul>]]>
+</description>
+      <author>国立保健医療科学院,全国行政歯科技術職連絡会,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095056-00</guid>
+      <dc:title>行歯会だより</dc:title>
+      <dc:creator>国立保健医療科学院</dc:creator>
+      <dc:creator>全国行政歯科技術職連絡会</dc:creator>
+      <dcndl:volume>2011年</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097050-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097050-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-14</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097674-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097674-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-27</dcterms:issued>
+    </item>
+    <item>
+      <title>アメリカ 債務上限引上げと財政赤字削減の予算コントロール法成立</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097971-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： アメリカ 債務上限引上げと財政赤字削減の予算コントロール法成立</li>
+<li>責任表示： 廣瀬淳子,</li>
+</ul>]]>
+</description>
+      <author>廣瀬淳子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097971-00</guid>
+      <dc:title>アメリカ 債務上限引上げと財政赤字削減の予算コントロール法成立</dc:title>
+      <dc:creator>廣瀬淳子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>日本関係情報 アメリカ 国際的な子の奪取に関する下院公聴会</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11275162-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 日本関係情報 アメリカ 国際的な子の奪取に関する下院公聴会</li>
+<li>タイトル（読み）： ニホン カンケイ ジョウホウ アメリカ コクサイテキ ナ コ ノ ダッシュ ニ カンスル カイン コウチョウカイ</li>
+<li>責任表示： 新田 紀子,</li>
+</ul>]]>
+</description>
+      <author>新田 紀子,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11275162-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>日本関係情報 アメリカ 国際的な子の奪取に関する下院公聴会</dc:title>
+      <dcndl:titleTranscription>ニホン カンケイ ジョウホウ アメリカ コクサイテキ ナ コ ノ ダッシュ ニ カンスル カイン コウチョウカイ</dcndl:titleTranscription>
+      <dc:creator>新田 紀子</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>消防の動き</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000092676-00</link>
+<description>
+<![CDATA[<p>消防庁</p>
+<ul><li>タイトル： 消防の動き</li>
+<li>責任表示： 消防庁総務課,</li>
+</ul>]]>
+</description>
+      <author>消防庁総務課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000092676-00</guid>
+      <dc:title>消防の動き</dc:title>
+      <dc:creator>消防庁総務課</dc:creator>
+      <dc:publisher>消防庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-01</dcterms:issued>
+    </item>
+    <item>
+      <title>秋田県大潟村における戸別所得補償制度導入の意義と課題</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094106-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 秋田県大潟村における戸別所得補償制度導入の意義と課題</li>
+<li>責任表示： 長濱健一郎,</li>
+</ul>]]>
+</description>
+      <author>長濱健一郎,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094106-00</guid>
+      <dc:title>秋田県大潟村における戸別所得補償制度導入の意義と課題</dc:title>
+      <dc:creator>長濱健一郎</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>イギリス 2011年欧州連合法の制定</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096056-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： イギリス 2011年欧州連合法の制定</li>
+<li>責任表示： 河島太朗,</li>
+</ul>]]>
+</description>
+      <author>河島太朗,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096056-00</guid>
+      <dc:title>イギリス 2011年欧州連合法の制定</dc:title>
+      <dc:creator>河島太朗</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096416-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096416-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-26</dcterms:issued>
+    </item>
+    <item>
+      <title>新潟県における農家直接所得補償の動向 : 戸別所得補償制度と新潟版所得保障モデル事業を軸として</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094608-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 新潟県における農家直接所得補償の動向 : 戸別所得補償制度と新潟版所得保障モデル事業を軸として</li>
+<li>責任表示： 小寺正一,</li>
+</ul>]]>
+</description>
+      <author>小寺正一,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094608-00</guid>
+      <dc:title>新潟県における農家直接所得補償の動向 : 戸別所得補償制度と新潟版所得保障モデル事業を軸として</dc:title>
+      <dc:creator>小寺正一</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>食品安全情報 : 微生物</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095175-00</link>
+<description>
+<![CDATA[<p>2011,厚生労働省</p>
+<ul><li>タイトル： 食品安全情報 : 微生物</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095175-00</guid>
+      <dc:title>食品安全情報 : 微生物</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>2011</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-05</dcterms:issued>
+    </item>
+    <item>
+      <title>レファレンス</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095512-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： レファレンス</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095512-00</guid>
+      <dc:title>レファレンス</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>感染症週報 : 感染症発生動向調査</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095545-00</link>
+<description>
+<![CDATA[<p>13,厚生労働省</p>
+<ul><li>タイトル： 感染症週報 : 感染症発生動向調査</li>
+<li>責任表示： 国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</li>
+</ul>]]>
+</description>
+      <author>国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095545-00</guid>
+      <dc:title>感染症週報 : 感染症発生動向調査</dc:title>
+      <dc:creator>国立感染症研究所</dc:creator>
+      <dc:creator>厚生労働省健康局結核感染症課</dc:creator>
+      <dc:creator>厚生労働省大臣官房統計情報部</dc:creator>
+      <dcndl:volume>13</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-17</dcterms:issued>
+    </item>
+    <item>
+      <title>アメリカ 債務上限引上げと財政赤字削減の予算コントロール法成立</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11275093-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： アメリカ 債務上限引上げと財政赤字削減の予算コントロール法成立</li>
+<li>タイトル（読み）： アメリカ サイム ジョウゲン ヒキアゲ ト ザイセイ アカジ サクゲン ノ ヨサン コントロールホウ セイリツ</li>
+<li>責任表示： 廣瀬 淳子,</li>
+</ul>]]>
+</description>
+      <author>廣瀬 淳子,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11275093-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>アメリカ 債務上限引上げと財政赤字削減の予算コントロール法成立</dc:title>
+      <dcndl:titleTranscription>アメリカ サイム ジョウゲン ヒキアゲ ト ザイセイ アカジ サクゲン ノ ヨサン コントロールホウ セイリツ</dcndl:titleTranscription>
+      <dc:creator>廣瀬 淳子</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>図書館の復興とその支援--大震災を越えて</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11281049-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 図書館の復興とその支援--大震災を越えて</li>
+<li>タイトル（読み）： トショカン ノ フッコウ ト ソノ シエン ダイ シンサイ オ コエテ</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11281049-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>図書館の復興とその支援--大震災を越えて</dc:title>
+      <dcndl:titleTranscription>トショカン ノ フッコウ ト ソノ シエン ダイ シンサイ オ コエテ</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>平成23年度[国立国会図書館]の組織の再編</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11281052-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 平成23年度[国立国会図書館]の組織の再編</li>
+<li>タイトル（読み）： ヘイセイ 23ネンド コクリツ コッカイ トショカン ノ ソシキ ノ サイヘン</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11281052-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>平成23年度[国立国会図書館]の組織の再編</dc:title>
+      <dcndl:titleTranscription>ヘイセイ 23ネンド コクリツ コッカイ トショカン ノ ソシキ ノ サイヘン</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>言葉のエッセイ(第9回)異物の同化</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11281085-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 言葉のエッセイ(第9回)異物の同化</li>
+<li>タイトル（読み）： コトバ ノ エッセイ ダイ9カイ イブツ ノ ドウカ</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11281085-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>言葉のエッセイ(第9回)異物の同化</dc:title>
+      <dcndl:titleTranscription>コトバ ノ エッセイ ダイ9カイ イブツ ノ ドウカ</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>タイ 新首相の施政方針演説と憲法改正の動き</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096086-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： タイ 新首相の施政方針演説と憲法改正の動き</li>
+<li>責任表示： 大友有,</li>
+</ul>]]>
+</description>
+      <author>大友有,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096086-00</guid>
+      <dc:title>タイ 新首相の施政方針演説と憲法改正の動き</dc:title>
+      <dc:creator>大友有</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096691-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096691-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-07</dcterms:issued>
+    </item>
+    <item>
+      <title>フランス 生命倫理関連法の制定</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097513-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： フランス 生命倫理関連法の制定</li>
+<li>責任表示： 服部有希,</li>
+</ul>]]>
+</description>
+      <author>服部有希,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097513-00</guid>
+      <dc:title>フランス 生命倫理関連法の制定</dc:title>
+      <dc:creator>服部有希</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>ドイツ 議員法及び連邦議会議事規則の改正</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097708-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： ドイツ 議員法及び連邦議会議事規則の改正</li>
+<li>責任表示： 渡辺富久子,</li>
+</ul>]]>
+</description>
+      <author>渡辺富久子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097708-00</guid>
+      <dc:title>ドイツ 議員法及び連邦議会議事規則の改正</dc:title>
+      <dc:creator>渡辺富久子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>アメリカ 特許法改正--先発明主義から先願主義へ</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11275100-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： アメリカ 特許法改正--先発明主義から先願主義へ</li>
+<li>タイトル（読み）： アメリカ トッキョホウ カイセイ センハツメイ シュギ カラ センガン シュギ エ</li>
+<li>責任表示： 井樋 三枝子,</li>
+</ul>]]>
+</description>
+      <author>井樋 三枝子,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11275100-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>アメリカ 特許法改正--先発明主義から先願主義へ</dc:title>
+      <dcndl:titleTranscription>アメリカ トッキョホウ カイセイ センハツメイ シュギ カラ センガン シュギ エ</dcndl:titleTranscription>
+      <dc:creator>井樋 三枝子</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>「農業者戸別所得補償制度」をめぐる水田地帯の実態--秋田県潟上市の事例から</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11280960-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 「農業者戸別所得補償制度」をめぐる水田地帯の実態--秋田県潟上市の事例から</li>
+<li>タイトル（読み）： ノウギョウシャ コベツ ショトク ホショウ セイド オ メグル スイデン チタイ ノ ジッタイ アキタケン カタガミシ ノ ジレイ カラ</li>
+<li>責任表示： 佐藤 加寿子,</li>
+<li>シリーズ名： 特集 農業者直接所得補償制度の評価と課題</li>
+<li>シリーズ名（読み）： トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</li>
+</ul>]]>
+</description>
+      <author>佐藤 加寿子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11280960-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>「農業者戸別所得補償制度」をめぐる水田地帯の実態--秋田県潟上市の事例から</dc:title>
+      <dcndl:titleTranscription>ノウギョウシャ コベツ ショトク ホショウ セイド オ メグル スイデン チタイ ノ ジッタイ アキタケン カタガミシ ノ ジレイ カラ</dcndl:titleTranscription>
+      <dc:creator>佐藤 加寿子</dc:creator>
+      <dcndl:seriesTitle>特集 農業者直接所得補償制度の評価と課題</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>館内スコープ デジタル化事業のアナログな苦労</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11281062-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 館内スコープ デジタル化事業のアナログな苦労</li>
+<li>タイトル（読み）： カン ナイ スコープ デジタルカ ジギョウ ノ アナログ ナ クロウ</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11281062-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>館内スコープ デジタル化事業のアナログな苦労</dc:title>
+      <dcndl:titleTranscription>カン ナイ スコープ デジタルカ ジギョウ ノ アナログ ナ クロウ</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>食品安全情報 : 微生物</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095499-00</link>
+<description>
+<![CDATA[<p>2011,厚生労働省</p>
+<ul><li>タイトル： 食品安全情報 : 微生物</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095499-00</guid>
+      <dc:title>食品安全情報 : 微生物</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>2011</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-19</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095796-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095796-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-03</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096423-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096423-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-14</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096698-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096698-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-21</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096926-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096926-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-25</dcterms:issued>
+    </item>
+    <item>
+      <title>フランス 生命倫理関連法の制定</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11275110-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： フランス 生命倫理関連法の制定</li>
+<li>タイトル（読み）： フランス セイメイ リンリ カンレンホウ ノ セイテイ</li>
+<li>責任表示： 服部 有希,</li>
+</ul>]]>
+</description>
+      <author>服部 有希,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11275110-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>フランス 生命倫理関連法の制定</dc:title>
+      <dcndl:titleTranscription>フランス セイメイ リンリ カンレンホウ ノ セイテイ</dcndl:titleTranscription>
+      <dc:creator>服部 有希</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>特集 農業者直接所得補償制度の評価と課題</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11280901-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 特集 農業者直接所得補償制度の評価と課題</li>
+<li>タイトル（読み）： トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11280901-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>特集 農業者直接所得補償制度の評価と課題</dc:title>
+      <dcndl:titleTranscription>トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:description>記事種別: 特集</dcterms:description>
+    </item>
+    <item>
+      <title>国立国会図書館の風景--建築50年 東京本館</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11281069-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 国立国会図書館の風景--建築50年 東京本館</li>
+<li>タイトル（読み）： コクリツ コッカイ トショカン ノ フウケイ ケンチク 50ネン トウキョウホンカン</li>
+<li>責任表示： 井田 敦彦,</li>
+</ul>]]>
+</description>
+      <author>井田 敦彦,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11281069-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>国立国会図書館の風景--建築50年 東京本館</dc:title>
+      <dcndl:titleTranscription>コクリツ コッカイ トショカン ノ フウケイ ケンチク 50ネン トウキョウホンカン</dcndl:titleTranscription>
+      <dc:creator>井田 敦彦</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096705-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096705-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-28</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097665-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097665-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-04</dcterms:issued>
+    </item>
+    <item>
+      <title>ドイツ 議員法及び連邦議会議事規則の改正</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11275117-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： ドイツ 議員法及び連邦議会議事規則の改正</li>
+<li>タイトル（読み）： ドイツ ギインホウ オヨビ レンポウ ギカイ ギジ キソク ノ カイセイ</li>
+<li>責任表示： 渡辺 富久子,</li>
+</ul>]]>
+</description>
+      <author>渡辺 富久子,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11275117-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>ドイツ 議員法及び連邦議会議事規則の改正</dc:title>
+      <dcndl:titleTranscription>ドイツ ギインホウ オヨビ レンポウ ギカイ ギジ キソク ノ カイセイ</dcndl:titleTranscription>
+      <dc:creator>渡辺 富久子</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>EUの直接所得補償制度の評価と課題--東欧の視点から</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11280944-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： EUの直接所得補償制度の評価と課題--東欧の視点から</li>
+<li>タイトル（読み）： EU ノ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ トウオウ ノ シテン カラ</li>
+<li>責任表示： 千年 篤,</li>
+<li>シリーズ名： 特集 農業者直接所得補償制度の評価と課題</li>
+<li>シリーズ名（読み）： トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</li>
+</ul>]]>
+</description>
+      <author>千年 篤,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11280944-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>EUの直接所得補償制度の評価と課題--東欧の視点から</dc:title>
+      <dcndl:titleTranscription>EU ノ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ トウオウ ノ シテン カラ</dcndl:titleTranscription>
+      <dc:creator>千年 篤</dc:creator>
+      <dcndl:seriesTitle>特集 農業者直接所得補償制度の評価と課題</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096407-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096407-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-06</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097675-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097675-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-28</dcterms:issued>
+    </item>
+    <item>
+      <title>各国議会 日本関係情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097972-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 各国議会 日本関係情報</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097972-00</guid>
+      <dc:title>各国議会 日本関係情報</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>韓国 家庭内暴力及び児童虐待への対応を強化</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11275127-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 韓国 家庭内暴力及び児童虐待への対応を強化</li>
+<li>タイトル（読み）： カンコク カテイ ナイ ボウリョク オヨビ ジドウ ギャクタイ エ ノ タイオウ オ キョウカ</li>
+<li>責任表示： 藤原 夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原 夏人,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11275127-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>韓国 家庭内暴力及び児童虐待への対応を強化</dc:title>
+      <dcndl:titleTranscription>カンコク カテイ ナイ ボウリョク オヨビ ジドウ ギャクタイ エ ノ タイオウ オ キョウカ</dcndl:titleTranscription>
+      <dc:creator>藤原 夏人</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>数字で見る国立国会図書館--『国立国会図書館年報 平成22年度』から</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11281056-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 数字で見る国立国会図書館--『国立国会図書館年報 平成22年度』から</li>
+<li>タイトル（読み）： スウジ デ ミル コクリツ コッカイ トショカン コクリツ コッカイ トショカン ネンポウ ヘイセイ 22ネンド カラ</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11281056-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>数字で見る国立国会図書館--『国立国会図書館年報 平成22年度』から</dc:title>
+      <dcndl:titleTranscription>スウジ デ ミル コクリツ コッカイ トショカン コクリツ コッカイ トショカン ネンポウ ヘイセイ 22ネンド カラ</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>感染症週報 : 感染症発生動向調査</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094440-00</link>
+<description>
+<![CDATA[<p>13,厚生労働省</p>
+<ul><li>タイトル： 感染症週報 : 感染症発生動向調査</li>
+<li>責任表示： 国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</li>
+</ul>]]>
+</description>
+      <author>国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094440-00</guid>
+      <dc:title>感染症週報 : 感染症発生動向調査</dc:title>
+      <dc:creator>国立感染症研究所</dc:creator>
+      <dc:creator>厚生労働省健康局結核感染症課</dc:creator>
+      <dc:creator>厚生労働省大臣官房統計情報部</dc:creator>
+      <dcndl:volume>13</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-28</dcterms:issued>
+    </item>
+    <item>
+      <title>医薬品安全性情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094473-00</link>
+<description>
+<![CDATA[<p>9,厚生労働省</p>
+<ul><li>タイトル： 医薬品安全性情報</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094473-00</guid>
+      <dc:title>医薬品安全性情報</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>9</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-27</dcterms:issued>
+    </item>
+    <item>
+      <title>中国 コンピュータ犯罪に関する司法解釈</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095760-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 中国 コンピュータ犯罪に関する司法解釈</li>
+<li>責任表示： 宮尾恵美,</li>
+</ul>]]>
+</description>
+      <author>宮尾恵美,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095760-00</guid>
+      <dc:title>中国 コンピュータ犯罪に関する司法解釈</dc:title>
+      <dc:creator>宮尾恵美</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>タイ 新首相の施政方針演説と憲法改正の動き</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11275140-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： タイ 新首相の施政方針演説と憲法改正の動き</li>
+<li>タイトル（読み）： タイ シン シュショウ ノ シセイ ホウシン エンゼツ ト ケンポウ カイセイ ノ ウゴキ</li>
+<li>責任表示： 大友 有,</li>
+</ul>]]>
+</description>
+      <author>大友 有,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11275140-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>タイ 新首相の施政方針演説と憲法改正の動き</dc:title>
+      <dcndl:titleTranscription>タイ シン シュショウ ノ シセイ ホウシン エンゼツ ト ケンポウ カイセイ ノ ウゴキ</dcndl:titleTranscription>
+      <dc:creator>大友 有</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>EUの直接所得補償制度の評価と課題 : フランスを中心に</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094018-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： EUの直接所得補償制度の評価と課題 : フランスを中心に</li>
+<li>責任表示： 石井圭一,</li>
+</ul>]]>
+</description>
+      <author>石井圭一,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094018-00</guid>
+      <dc:title>EUの直接所得補償制度の評価と課題 : フランスを中心に</dc:title>
+      <dc:creator>石井圭一</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>戸別所得補償制度の課題と展望 : 水田農業政策の展開過程</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094153-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 戸別所得補償制度の課題と展望 : 水田農業政策の展開過程</li>
+<li>責任表示： 安藤光義,</li>
+</ul>]]>
+</description>
+      <author>安藤光義,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094153-00</guid>
+      <dc:title>戸別所得補償制度の課題と展望 : 水田農業政策の展開過程</dc:title>
+      <dc:creator>安藤光義</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>韓国 家庭内暴力及び児童虐待への対応を強化</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096034-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 韓国 家庭内暴力及び児童虐待への対応を強化</li>
+<li>責任表示： 藤原夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原夏人,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096034-00</guid>
+      <dc:title>韓国 家庭内暴力及び児童虐待への対応を強化</dc:title>
+      <dc:creator>藤原夏人</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096133-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096133-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-17</dcterms:issued>
+    </item>
+    <item>
+      <title>ニュージーランド カンタベリー地震復旧関係立法</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11275150-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： ニュージーランド カンタベリー地震復旧関係立法</li>
+<li>タイトル（読み）： ニュージーランド カンタベリー ジシン フッキュウ カンケイ リッポウ</li>
+<li>責任表示： 矢部 明宏,</li>
+</ul>]]>
+</description>
+      <author>矢部 明宏,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11275150-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>ニュージーランド カンタベリー地震復旧関係立法</dc:title>
+      <dcndl:titleTranscription>ニュージーランド カンタベリー ジシン フッキュウ カンケイ リッポウ</dcndl:titleTranscription>
+      <dc:creator>矢部 明宏</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>調査と情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096077-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 調査と情報</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096077-00</guid>
+      <dc:title>調査と情報</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-04</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>秋田県大潟村における戸別所得補償制度導入の意義と課題</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11280951-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 秋田県大潟村における戸別所得補償制度導入の意義と課題</li>
+<li>タイトル（読み）： アキタケン オオガタムラ ニ オケル コベツ ショトク ホショウ セイド ドウニュウ ノ イギ ト カダイ</li>
+<li>責任表示： 長濱 健一郎,</li>
+<li>シリーズ名： 特集 農業者直接所得補償制度の評価と課題</li>
+<li>シリーズ名（読み）： トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</li>
+</ul>]]>
+</description>
+      <author>長濱 健一郎,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11280951-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>秋田県大潟村における戸別所得補償制度導入の意義と課題</dc:title>
+      <dcndl:titleTranscription>アキタケン オオガタムラ ニ オケル コベツ ショトク ホショウ セイド ドウニュウ ノ イギ ト カダイ</dcndl:titleTranscription>
+      <dc:creator>長濱 健一郎</dc:creator>
+      <dcndl:seriesTitle>特集 農業者直接所得補償制度の評価と課題</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>感染症週報 : 感染症発生動向調査</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094272-00</link>
+<description>
+<![CDATA[<p>13,厚生労働省</p>
+<ul><li>タイトル： 感染症週報 : 感染症発生動向調査</li>
+<li>責任表示： 国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</li>
+</ul>]]>
+</description>
+      <author>国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094272-00</guid>
+      <dc:title>感染症週報 : 感染症発生動向調査</dc:title>
+      <dc:creator>国立感染症研究所</dc:creator>
+      <dc:creator>厚生労働省健康局結核感染症課</dc:creator>
+      <dc:creator>厚生労働省大臣官房統計情報部</dc:creator>
+      <dcndl:volume>13</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-21</dcterms:issued>
+    </item>
+    <item>
+      <title>EU 消費者の権利強化指令成立の見通し</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096656-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： EU 消費者の権利強化指令成立の見通し</li>
+<li>責任表示： 植月献二,</li>
+</ul>]]>
+</description>
+      <author>植月献二,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096656-00</guid>
+      <dc:title>EU 消費者の権利強化指令成立の見通し</dc:title>
+      <dc:creator>植月献二</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096920-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096920-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-12</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097679-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097679-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-21</dcterms:issued>
+    </item>
+    <item>
+      <title>韓国 従軍慰安婦及び原爆被害者に関する違憲決定</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097709-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 韓国 従軍慰安婦及び原爆被害者に関する違憲決定</li>
+<li>責任表示： 藤原夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原夏人,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097709-00</guid>
+      <dc:title>韓国 従軍慰安婦及び原爆被害者に関する違憲決定</dc:title>
+      <dc:creator>藤原夏人</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>日本関係情報 韓国 東海表記を求める決議</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11275167-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 日本関係情報 韓国 東海表記を求める決議</li>
+<li>タイトル（読み）： ニホン カンケイ ジョウホウ カンコク トウカイ ヒョウキ オ モトメル ケツギ</li>
+<li>責任表示： 藤原 夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原 夏人,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11275167-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>日本関係情報 韓国 東海表記を求める決議</dc:title>
+      <dcndl:titleTranscription>ニホン カンケイ ジョウホウ カンコク トウカイ ヒョウキ オ モトメル ケツギ</dcndl:titleTranscription>
+      <dc:creator>藤原 夏人</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>戸別所得補償制度の課題と展望--水田農業政策の展開過程</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11280925-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 戸別所得補償制度の課題と展望--水田農業政策の展開過程</li>
+<li>タイトル（読み）： コベツ ショトク ホショウ セイド ノ カダイ ト テンボウ スイデン ノウギョウ セイサク ノ テンカイ カテイ</li>
+<li>責任表示： 安藤 光義,</li>
+<li>シリーズ名： 特集 農業者直接所得補償制度の評価と課題</li>
+<li>シリーズ名（読み）： トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</li>
+</ul>]]>
+</description>
+      <author>安藤 光義,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11280925-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>戸別所得補償制度の課題と展望--水田農業政策の展開過程</dc:title>
+      <dcndl:titleTranscription>コベツ ショトク ホショウ セイド ノ カダイ ト テンボウ スイデン ノウギョウ セイサク ノ テンカイ カテイ</dcndl:titleTranscription>
+      <dc:creator>安藤 光義</dc:creator>
+      <dcndl:seriesTitle>特集 農業者直接所得補償制度の評価と課題</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>本屋にない本 『横浜・関東大震災の記憶 報告書』[横浜市史資料室編・刊]</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11281096-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 本屋にない本 『横浜・関東大震災の記憶 報告書』[横浜市史資料室編・刊]</li>
+<li>タイトル（読み）： ホンヤ ニ ナイ ホン ヨコハマ カントウ ダイ シンサイ ノ キオク ホウコクショ ヨコハマシシ シリョウシツヘン カン</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11281096-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>本屋にない本 『横浜・関東大震災の記憶 報告書』[横浜市史資料室編・刊]</dc:title>
+      <dcndl:titleTranscription>ホンヤ ニ ナイ ホン ヨコハマ カントウ ダイ シンサイ ノ キオク ホウコクショ ヨコハマシシ シリョウシツヘン カン</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:description>記事種別: 書評</dcterms:description>
+    </item>
+    <item>
+      <title>日本農業・農村革進の課題と展望</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094606-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 日本農業・農村革進の課題と展望</li>
+<li>責任表示： 矢口克也,</li>
+</ul>]]>
+</description>
+      <author>矢口克也,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094606-00</guid>
+      <dc:title>日本農業・農村革進の課題と展望</dc:title>
+      <dc:creator>矢口克也</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095797-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095797-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-11</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096127-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096127-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-05</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096927-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096927-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-18</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097395-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097395-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-19</dcterms:issued>
+    </item>
+    <item>
+      <title>イギリス 2011年欧州連合法の制定</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11275108-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： イギリス 2011年欧州連合法の制定</li>
+<li>タイトル（読み）： イギリス 2011ネン オウシュウ レンゴウホウ ノ セイテイ</li>
+<li>責任表示： 河島 太朗,</li>
+</ul>]]>
+</description>
+      <author>河島 太朗,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11275108-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>イギリス 2011年欧州連合法の制定</dc:title>
+      <dcndl:titleTranscription>イギリス 2011ネン オウシュウ レンゴウホウ ノ セイテイ</dcndl:titleTranscription>
+      <dc:creator>河島 太朗</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>新潟県における農家直接所得補償の動向--戸別所得補償制度と新潟版所得保障モデル事業を軸として</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11280971-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 新潟県における農家直接所得補償の動向--戸別所得補償制度と新潟版所得保障モデル事業を軸として</li>
+<li>タイトル（読み）： ニイガタケン ニ オケル ノウカ チョクセツ ショトク ホショウ ノ ドウコウ コベツ ショトク ホショウ セイド ト ニイガタバン ショトク ホショウ モデル ジギョウ オ ジク ト シテ</li>
+<li>責任表示： 小寺 正一,</li>
+<li>シリーズ名： 特集 農業者直接所得補償制度の評価と課題</li>
+<li>シリーズ名（読み）： トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</li>
+</ul>]]>
+</description>
+      <author>小寺 正一,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11280971-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>新潟県における農家直接所得補償の動向--戸別所得補償制度と新潟版所得保障モデル事業を軸として</dc:title>
+      <dcndl:titleTranscription>ニイガタケン ニ オケル ノウカ チョクセツ ショトク ホショウ ノ ドウコウ コベツ ショトク ホショウ セイド ト ニイガタバン ショトク ホショウ モデル ジギョウ オ ジク ト シテ</dcndl:titleTranscription>
+      <dc:creator>小寺 正一</dc:creator>
+      <dcndl:seriesTitle>特集 農業者直接所得補償制度の評価と課題</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>感染症週報 : 感染症発生動向調査</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000093978-00</link>
+<description>
+<![CDATA[<p>13,厚生労働省</p>
+<ul><li>タイトル： 感染症週報 : 感染症発生動向調査</li>
+<li>責任表示： 国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</li>
+</ul>]]>
+</description>
+      <author>国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000093978-00</guid>
+      <dc:title>感染症週報 : 感染症発生動向調査</dc:title>
+      <dc:creator>国立感染症研究所</dc:creator>
+      <dc:creator>厚生労働省健康局結核感染症課</dc:creator>
+      <dc:creator>厚生労働省大臣官房統計情報部</dc:creator>
+      <dcndl:volume>13</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-07</dcterms:issued>
+    </item>
+    <item>
+      <title>食品安全情報 : 化学物質</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094292-00</link>
+<description>
+<![CDATA[<p>2011,厚生労働省</p>
+<ul><li>タイトル： 食品安全情報 : 化学物質</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094292-00</guid>
+      <dc:title>食品安全情報 : 化学物質</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>2011</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-19</dcterms:issued>
+    </item>
+    <item>
+      <title>島根県における戸別所得補償と集落営農</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095510-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 島根県における戸別所得補償と集落営農</li>
+<li>責任表示： 中野真里,</li>
+</ul>]]>
+</description>
+      <author>中野真里,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095510-00</guid>
+      <dc:title>島根県における戸別所得補償と集落営農</dc:title>
+      <dc:creator>中野真里</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>韓国 東海表記を求める決議</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095774-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 韓国 東海表記を求める決議</li>
+<li>責任表示： 藤原夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原夏人,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095774-00</guid>
+      <dc:title>韓国 東海表記を求める決議</dc:title>
+      <dc:creator>藤原夏人</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>ニュージーランド カンタベリー地震復旧関係立法</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096368-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： ニュージーランド カンタベリー地震復旧関係立法</li>
+<li>責任表示： 矢部明宏,</li>
+</ul>]]>
+</description>
+      <author>矢部明宏,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096368-00</guid>
+      <dc:title>ニュージーランド カンタベリー地震復旧関係立法</dc:title>
+      <dc:creator>矢部明宏</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>ロシア 妊娠中絶への規制強化の動き</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11275121-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： ロシア 妊娠中絶への規制強化の動き</li>
+<li>タイトル（読み）： ロシア ニンシン チュウゼツ エ ノ キセイ キョウカ ノ ウゴキ</li>
+<li>責任表示： 小泉 悠,</li>
+</ul>]]>
+</description>
+      <author>小泉 悠,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11275121-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>ロシア 妊娠中絶への規制強化の動き</dc:title>
+      <dcndl:titleTranscription>ロシア ニンシン チュウゼツ エ ノ キセイ キョウカ ノ ウゴキ</dcndl:titleTranscription>
+      <dc:creator>小泉 悠</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>日本農業・農村革進の課題と展望</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11280912-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 日本農業・農村革進の課題と展望</li>
+<li>タイトル（読み）： ニホン ノウギョウ ノウソン カク シン ノ カダイ ト テンボウ</li>
+<li>責任表示： 矢口 克也,</li>
+<li>シリーズ名： 特集 農業者直接所得補償制度の評価と課題</li>
+<li>シリーズ名（読み）： トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</li>
+</ul>]]>
+</description>
+      <author>矢口 克也,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11280912-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>日本農業・農村革進の課題と展望</dc:title>
+      <dcndl:titleTranscription>ニホン ノウギョウ ノウソン カク シン ノ カダイ ト テンボウ</dcndl:titleTranscription>
+      <dc:creator>矢口 克也</dc:creator>
+      <dcndl:seriesTitle>特集 農業者直接所得補償制度の評価と課題</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>島根県における戸別所得補償と集落営農</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11280981-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 島根県における戸別所得補償と集落営農</li>
+<li>タイトル（読み）： シマネケン ニ オケル コベツ ショトク ホショウ ト シュウラク エイノウ</li>
+<li>責任表示： 中野 真里,</li>
+<li>シリーズ名： 特集 農業者直接所得補償制度の評価と課題</li>
+<li>シリーズ名（読み）： トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</li>
+</ul>]]>
+</description>
+      <author>中野 真里,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11280981-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>島根県における戸別所得補償と集落営農</dc:title>
+      <dcndl:titleTranscription>シマネケン ニ オケル コベツ ショトク ホショウ ト シュウラク エイノウ</dcndl:titleTranscription>
+      <dc:creator>中野 真里</dc:creator>
+      <dcndl:seriesTitle>特集 農業者直接所得補償制度の評価と課題</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>外国の立法 : 立法情報・翻訳・解説</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096051-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 外国の立法 : 立法情報・翻訳・解説</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096051-00</guid>
+      <dc:title>外国の立法 : 立法情報・翻訳・解説</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>本屋にない本 『文化財たちの「復興」 博物館がみた新潟県中越沖地震 平成22年度夏季特別展』[柏崎市立博物館、柏崎ふるさと人物館刊]</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11281093-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 本屋にない本 『文化財たちの「復興」 博物館がみた新潟県中越沖地震 平成22年度夏季特別展』[柏崎市立博物館、柏崎ふるさと人物館刊]</li>
+<li>タイトル（読み）： ホンヤ ニ ナイ ホン ブンカザイ タチ ノ フッコウ ハクブツカン ガ ミタ ニイガタケン チュウエツオキ ジシン ヘイセイ 22ネンド カキ トクベツテン カシワザキ シリツ ハクブツカン カシワザキ フルサト ジンブツカンカン</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11281093-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>本屋にない本 『文化財たちの「復興」 博物館がみた新潟県中越沖地震 平成22年度夏季特別展』[柏崎市立博物館、柏崎ふるさと人物館刊]</dc:title>
+      <dcndl:titleTranscription>ホンヤ ニ ナイ ホン ブンカザイ タチ ノ フッコウ ハクブツカン ガ ミタ ニイガタケン チュウエツオキ ジシン ヘイセイ 22ネンド カキ トクベツテン カシワザキ シリツ ハクブツカン カシワザキ フルサト ジンブツカンカン</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:description>記事種別: 書評</dcterms:description>
+    </item>
+    <item>
+      <title>国リハニュース : 国立障害者リハビリテーションセンター広報誌</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095329-00</link>
+<description>
+<![CDATA[<p>平成23年,厚生労働省</p>
+<ul><li>タイトル： 国リハニュース : 国立障害者リハビリテーションセンター広報誌</li>
+<li>責任表示： 国立障害者リハビリテーションセンター管理部企画課,</li>
+</ul>]]>
+</description>
+      <author>国立障害者リハビリテーションセンター管理部企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095329-00</guid>
+      <dc:title>国リハニュース : 国立障害者リハビリテーションセンター広報誌</dc:title>
+      <dc:creator>国立障害者リハビリテーションセンター管理部企画課</dc:creator>
+      <dcndl:volume>平成23年</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>連携事業の成果の報告にあたって</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095725-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 連携事業の成果の報告にあたって</li>
+<li>責任表示： 矢口克也,</li>
+</ul>]]>
+</description>
+      <author>矢口克也,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095725-00</guid>
+      <dc:title>連携事業の成果の報告にあたって</dc:title>
+      <dc:creator>矢口克也</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>首都直下地震と首都機能をめぐる課題</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097950-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 首都直下地震と首都機能をめぐる課題</li>
+<li>責任表示： 山口広文,</li>
+</ul>]]>
+</description>
+      <author>山口広文,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097950-00</guid>
+      <dc:title>首都直下地震と首都機能をめぐる課題</dc:title>
+      <dc:creator>山口広文</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-04</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+  </channel>
+</rss>

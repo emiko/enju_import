@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2011-11-01 2011-11-30 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2011-11-01 mediatype=1 cnt=500 until=2011-11-30 </description>
+    <language>ja</language>
+    <openSearch:totalResults>119</openSearch:totalResults>
+    <openSearch:startIndex>82</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>国リハニュース : 国立障害者リハビリテーションセンター広報誌</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094080-00</link>
+<description>
+<![CDATA[<p>平成23年,厚生労働省</p>
+<ul><li>タイトル： 国リハニュース : 国立障害者リハビリテーションセンター広報誌</li>
+<li>責任表示： 国立障害者リハビリテーションセンター管理部企画課,</li>
+</ul>]]>
+</description>
+      <author>国立障害者リハビリテーションセンター管理部企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094080-00</guid>
+      <dc:title>国リハニュース : 国立障害者リハビリテーションセンター広報誌</dc:title>
+      <dc:creator>国立障害者リハビリテーションセンター管理部企画課</dc:creator>
+      <dcndl:volume>平成23年</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+    </item>
+    <item>
+      <title>医薬品安全性情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094833-00</link>
+<description>
+<![CDATA[<p>9,厚生労働省</p>
+<ul><li>タイトル： 医薬品安全性情報</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094833-00</guid>
+      <dc:title>医薬品安全性情報</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>9</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-24</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096956-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096956-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-09</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097421-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097421-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-29</dcterms:issued>
+    </item>
+    <item>
+      <title>原子力の平和的利用及びその危険に対する防護に関する法律(原子力法)(抄)</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023273671-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 原子力の平和的利用及びその危険に対する防護に関する法律(原子力法)(抄)</li>
+<li>タイトル（読み）： ゲンシリョク ノ ヘイワテキ リヨウ オヨビ ソノ キケン ニ タイスル ボウゴ ニ カンスル ホウリツ(ゲンシリョクホウ)(ショウ)</li>
+<li>責任表示： 山口 和人 訳,</li>
+</ul>]]>
+</description>
+      <author>山口 和人 訳,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023273671-00</guid>
+      <pubDate>Fri, 06 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>原子力の平和的利用及びその危険に対する防護に関する法律(原子力法)(抄)</dc:title>
+      <dcndl:titleTranscription>ゲンシリョク ノ ヘイワテキ リヨウ オヨビ ソノ キケン ニ タイスル ボウゴ ニ カンスル ホウリツ(ゲンシリョクホウ)(ショウ)</dcndl:titleTranscription>
+      <dc:creator>山口 和人 訳</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-00</dcterms:issued>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>ドイツの経済成長戦略 : EUの「リスボン戦略」と「欧州2020」におけるドイツの「改革計画」</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094021-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： ドイツの経済成長戦略 : EUの「リスボン戦略」と「欧州2020」におけるドイツの「改革計画」</li>
+<li>責任表示： 伊藤白,</li>
+</ul>]]>
+</description>
+      <author>伊藤白,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094021-00</guid>
+      <dc:title>ドイツの経済成長戦略 : EUの「リスボン戦略」と「欧州2020」におけるドイツの「改革計画」</dc:title>
+      <dc:creator>伊藤白</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dc:subject>経済/税・金融・経済/経済一般</dc:subject>
+      <dc:subject>ドイツ</dc:subject>
+    </item>
+    <item>
+      <title>行歯会だより</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095206-00</link>
+<description>
+<![CDATA[<p>2011年,厚生労働省</p>
+<ul><li>タイトル： 行歯会だより</li>
+<li>責任表示： 国立保健医療科学院,全国行政歯科技術職連絡会,</li>
+</ul>]]>
+</description>
+      <author>国立保健医療科学院,全国行政歯科技術職連絡会,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095206-00</guid>
+      <dc:title>行歯会だより</dc:title>
+      <dc:creator>国立保健医療科学院</dc:creator>
+      <dc:creator>全国行政歯科技術職連絡会</dc:creator>
+      <dcndl:volume>2011年</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096559-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096559-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-08</dcterms:issued>
+    </item>
+    <item>
+      <title>韓国の自殺予防法</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023273780-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 韓国の自殺予防法</li>
+<li>タイトル（読み）： カンコク ノ ジサツ ヨボウホウ</li>
+<li>責任表示： 藤原 夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原 夏人,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023273780-00</guid>
+      <pubDate>Fri, 06 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>韓国の自殺予防法</dc:title>
+      <dcndl:titleTranscription>カンコク ノ ジサツ ヨボウホウ</dcndl:titleTranscription>
+      <dc:creator>藤原 夏人</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-00</dcterms:issued>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>中国における薬物依存からの回復政策</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023273807-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 中国における薬物依存からの回復政策</li>
+<li>タイトル（読み）： チュウゴク ニ オケル ヤクブツ イソン カラ ノ カイフク セイサク</li>
+<li>責任表示： 宮尾 恵美,</li>
+</ul>]]>
+</description>
+      <author>宮尾 恵美,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023273807-00</guid>
+      <pubDate>Fri, 06 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>中国における薬物依存からの回復政策</dc:title>
+      <dcndl:titleTranscription>チュウゴク ニ オケル ヤクブツ イソン カラ ノ カイフク セイサク</dcndl:titleTranscription>
+      <dc:creator>宮尾 恵美</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-00</dcterms:issued>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>ドイツの経済成長戦略 : EUの｢リスボン戦略｣と｢欧州2020｣におけるドイツの｢改革計画｣</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023273810-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： ドイツの経済成長戦略 : EUの｢リスボン戦略｣と｢欧州2020｣におけるドイツの｢改革計画｣</li>
+<li>タイトル（読み）： ドイツ ノ ケイザイ セイチョウ センリャク : EU ノ 「 リスボン センリャク 」 ト 「 オウシュウ 2020 」 ニ オケル ドイツ ノ 「 カイカク ケイカク 」</li>
+<li>責任表示： 伊藤 白,</li>
+</ul>]]>
+</description>
+      <author>伊藤 白,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023273810-00</guid>
+      <pubDate>Fri, 06 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>ドイツの経済成長戦略 : EUの｢リスボン戦略｣と｢欧州2020｣におけるドイツの｢改革計画｣</dc:title>
+      <dcndl:titleTranscription>ドイツ ノ ケイザイ セイチョウ センリャク : EU ノ 「 リスボン センリャク 」 ト 「 オウシュウ 2020 」 ニ オケル ドイツ ノ 「 カイカク ケイカク 」</dcndl:titleTranscription>
+      <dc:creator>伊藤 白</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>食品安全情報 : 微生物</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095609-00</link>
+<description>
+<![CDATA[<p>2011,厚生労働省</p>
+<ul><li>タイトル： 食品安全情報 : 微生物</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095609-00</guid>
+      <dc:title>食品安全情報 : 微生物</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>2011</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-02</dcterms:issued>
+    </item>
+    <item>
+      <title>イギリス 2011年警察改革及び社会責任法の制定</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095780-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： イギリス 2011年警察改革及び社会責任法の制定</li>
+<li>責任表示： 河島太朗,</li>
+</ul>]]>
+</description>
+      <author>河島太朗,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095780-00</guid>
+      <dc:title>イギリス 2011年警察改革及び社会責任法の制定</dc:title>
+      <dc:creator>河島太朗</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dc:subject>政治/司法・法務/警察</dc:subject>
+      <dc:subject>政治/司法・法務/刑事法制</dc:subject>
+      <dc:subject>政治/外交・安全保障/国際機関・国際法</dc:subject>
+      <dc:subject>イギリス</dc:subject>
+    </item>
+    <item>
+      <title>スウェーデン 電力不足時の安定供給に関する新制度</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096679-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： スウェーデン 電力不足時の安定供給に関する新制度</li>
+<li>責任表示： 井樋三枝子,</li>
+</ul>]]>
+</description>
+      <author>井樋三枝子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096679-00</guid>
+      <dc:title>スウェーデン 電力不足時の安定供給に関する新制度</dc:title>
+      <dc:creator>井樋三枝子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dc:subject>経済/通商・産業/資源エネルギー</dc:subject>
+      <dc:subject>経済/通商・産業/産業一般</dc:subject>
+      <dc:subject>北欧</dc:subject>
+    </item>
+    <item>
+      <title>武器輸出三原則 : その現況と見直し論議</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096808-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 武器輸出三原則 : その現況と見直し論議</li>
+<li>責任表示： 冨田圭一郎,</li>
+</ul>]]>
+</description>
+      <author>冨田圭一郎,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096808-00</guid>
+      <dc:title>武器輸出三原則 : その現況と見直し論議</dc:title>
+      <dc:creator>冨田圭一郎</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-01</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dc:subject>政治/外交・安全保障/防衛・安全保障</dc:subject>
+      <dc:subject>経済/通商・産業/通商</dc:subject>
+      <dc:subject>日本</dc:subject>
+      <dc:subject>アメリカ</dc:subject>
+    </item>
+    <item>
+      <title>EU 使用済燃料及び放射性廃棄物の管理の枠組みを策定する指令</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097375-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： EU 使用済燃料及び放射性廃棄物の管理の枠組みを策定する指令</li>
+<li>責任表示： 植月献二,</li>
+</ul>]]>
+</description>
+      <author>植月献二,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097375-00</guid>
+      <dc:title>EU 使用済燃料及び放射性廃棄物の管理の枠組みを策定する指令</dc:title>
+      <dc:creator>植月献二</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dc:subject>経済/通商・産業/資源エネルギー</dc:subject>
+      <dc:subject>経済/環境/環境保全・公害</dc:subject>
+      <dc:subject>EU</dc:subject>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097870-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097870-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-15</dcterms:issued>
+    </item>
+    <item>
+      <title>立法情報 スウェーデン 電力不足時の安定供給に関する新制度</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023269753-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 立法情報 スウェーデン 電力不足時の安定供給に関する新制度</li>
+<li>タイトル（読み）： リッポウ ジョウホウ スウェーデン デンリョク ブソクジ ノ アンテイ キョウキュウ ニ カンスル シン セイド</li>
+<li>責任表示： 井樋 三枝子,</li>
+</ul>]]>
+</description>
+      <author>井樋 三枝子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023269753-00</guid>
+      <pubDate>Wed, 04 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>立法情報 スウェーデン 電力不足時の安定供給に関する新制度</dc:title>
+      <dcndl:titleTranscription>リッポウ ジョウホウ スウェーデン デンリョク ブソクジ ノ アンテイ キョウキュウ ニ カンスル シン セイド</dcndl:titleTranscription>
+      <dc:creator>井樋 三枝子</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+    </item>
+    <item>
+      <title>自殺予防及び生命尊重文化醸成のための法律</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023273790-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 自殺予防及び生命尊重文化醸成のための法律</li>
+<li>タイトル（読み）： ジサツ ヨボウ オヨビ セイメイ ソンチョウ ブンカ ジョウセイ ノ タメ ノ ホウリツ</li>
+<li>責任表示： 藤原 夏人 訳,</li>
+</ul>]]>
+</description>
+      <author>藤原 夏人 訳,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023273790-00</guid>
+      <pubDate>Fri, 06 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>自殺予防及び生命尊重文化醸成のための法律</dc:title>
+      <dcndl:titleTranscription>ジサツ ヨボウ オヨビ セイメイ ソンチョウ ブンカ ジョウセイ ノ タメ ノ ホウリツ</dcndl:titleTranscription>
+      <dc:creator>藤原 夏人 訳</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-00</dcterms:issued>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>薬物依存治療条例</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023273817-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 薬物依存治療条例</li>
+<li>タイトル（読み）： ヤクブツ イソン チリョウ ジョウレイ</li>
+<li>責任表示： 宮尾 恵美 訳,</li>
+</ul>]]>
+</description>
+      <author>宮尾 恵美 訳,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023273817-00</guid>
+      <pubDate>Fri, 06 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>薬物依存治療条例</dc:title>
+      <dcndl:titleTranscription>ヤクブツ イソン チリョウ ジョウレイ</dcndl:titleTranscription>
+      <dc:creator>宮尾 恵美 訳</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-00</dcterms:issued>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096722-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096722-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-02</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097187-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097187-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-17</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097415-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097415-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-22</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096729-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096729-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-11</dcterms:issued>
+    </item>
+    <item>
+      <title>域内電力市場の共通規定を定め、併せて、指令2003/54/ECを廃止する2009年7月13日の欧州議会及び理事会指令2009/72/EC(抄)</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023273507-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 域内電力市場の共通規定を定め、併せて、指令2003/54/ECを廃止する2009年7月13日の欧州議会及び理事会指令2009/72/EC(抄)</li>
+<li>タイトル（読み）： イキ ナイ デンリョク シジョウ ノ キョウツウ キテイ オ サダメ 、 アワセテ 、 シレイ 2003/54/EC オ ハイシ スル 2009ネン 7ガツ 13ニチ ノ オウシュウ ギカイ オヨビ リジカイ シレイ 2009/72/EC(ショウ)</li>
+<li>責任表示： 植月 献二 訳,</li>
+</ul>]]>
+</description>
+      <author>植月 献二 訳,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023273507-00</guid>
+      <pubDate>Fri, 06 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>域内電力市場の共通規定を定め、併せて、指令2003/54/ECを廃止する2009年7月13日の欧州議会及び理事会指令2009/72/EC(抄)</dc:title>
+      <dcndl:titleTranscription>イキ ナイ デンリョク シジョウ ノ キョウツウ キテイ オ サダメ 、 アワセテ 、 シレイ 2003/54/EC オ ハイシ スル 2009ネン 7ガツ 13ニチ ノ オウシュウ ギカイ オヨビ リジカイ シレイ 2009/72/EC(ショウ)</dcndl:titleTranscription>
+      <dc:creator>植月 献二 訳</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-00</dcterms:issued>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>国の行政組織編成権の分配</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023273738-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 国の行政組織編成権の分配</li>
+<li>タイトル（読み）： クニ ノ ギョウセイ ソシキ ヘンセイケン ノ ブンパイ</li>
+<li>責任表示： 吉本 紀,</li>
+</ul>]]>
+</description>
+      <author>吉本 紀,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023273738-00</guid>
+      <pubDate>Fri, 06 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>国の行政組織編成権の分配</dc:title>
+      <dcndl:titleTranscription>クニ ノ ギョウセイ ソシキ ヘンセイケン ノ ブンパイ</dcndl:titleTranscription>
+      <dc:creator>吉本 紀</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097864-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097864-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-28</dcterms:issued>
+    </item>
+    <item>
+      <title>立法情報 イギリス 2011年警察改革及び社会責任法の制定</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023269747-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 立法情報 イギリス 2011年警察改革及び社会責任法の制定</li>
+<li>タイトル（読み）： リッポウ ジョウホウ イギリス 2011ネン ケイサツ カイカク オヨビ シャカイ セキニンホウ ノ セイテイ</li>
+<li>責任表示： 河島 太朗,</li>
+</ul>]]>
+</description>
+      <author>河島 太朗,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023269747-00</guid>
+      <pubDate>Wed, 04 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>立法情報 イギリス 2011年警察改革及び社会責任法の制定</dc:title>
+      <dcndl:titleTranscription>リッポウ ジョウホウ イギリス 2011ネン ケイサツ カイカク オヨビ シャカイ セキニンホウ ノ セイテイ</dcndl:titleTranscription>
+      <dc:creator>河島 太朗</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+    </item>
+    <item>
+      <title>同性婚に関する州等の規定 : 連邦、ワシントンDC、コネチカット州、アイオワ州、マサチューセッツ州、ニューハンプシャー州、ニューヨーク州及びバーモント州(2011年7月24日現在)</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023273418-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 同性婚に関する州等の規定 : 連邦、ワシントンDC、コネチカット州、アイオワ州、マサチューセッツ州、ニューハンプシャー州、ニューヨーク州及びバーモント州(2011年7月24日現在)</li>
+<li>タイトル（読み）： ドウセイコン ニ カンスル シュウ トウ ノ キテイ : レンポウ 、 ワシントン DC 、 コネチカットシュウ 、 アイオワシュウ 、 マサチューセッツシュウ 、 ニューハンプシャーシュウ 、 ニューヨークシュウ オヨビ バーモントシュウ(2011ネン 7ガツ 24ニチ ゲンザイ)</li>
+<li>責任表示： 井樋 三枝子 訳,</li>
+</ul>]]>
+</description>
+      <author>井樋 三枝子 訳,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023273418-00</guid>
+      <pubDate>Fri, 06 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>同性婚に関する州等の規定 : 連邦、ワシントンDC、コネチカット州、アイオワ州、マサチューセッツ州、ニューハンプシャー州、ニューヨーク州及びバーモント州(2011年7月24日現在)</dc:title>
+      <dcndl:titleTranscription>ドウセイコン ニ カンスル シュウ トウ ノ キテイ : レンポウ 、 ワシントン DC 、 コネチカットシュウ 、 アイオワシュウ 、 マサチューセッツシュウ 、 ニューハンプシャーシュウ 、 ニューヨークシュウ オヨビ バーモントシュウ(2011ネン 7ガツ 24ニチ ゲンザイ)</dcndl:titleTranscription>
+      <dc:creator>井樋 三枝子 訳</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-00</dcterms:issued>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>フランスのインターネット違法ダウンロード規制法 : 著作権の保護と表現の自由の均衡をめぐって</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023273616-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： フランスのインターネット違法ダウンロード規制法 : 著作権の保護と表現の自由の均衡をめぐって</li>
+<li>タイトル（読み）： フランス ノ インターネット イホウ ダウンロード キセイホウ : チョサクケン ノ ホゴ ト ヒョウゲン ノ ジユウ ノ キンコウ オ メグッテ</li>
+<li>責任表示： 服部 有希,</li>
+</ul>]]>
+</description>
+      <author>服部 有希,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023273616-00</guid>
+      <pubDate>Fri, 06 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>フランスのインターネット違法ダウンロード規制法 : 著作権の保護と表現の自由の均衡をめぐって</dc:title>
+      <dcndl:titleTranscription>フランス ノ インターネット イホウ ダウンロード キセイホウ : チョサクケン ノ ホゴ ト ヒョウゲン ノ ジユウ ノ キンコウ オ メグッテ</dcndl:titleTranscription>
+      <dc:creator>服部 有希</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-12-00</dcterms:issued>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>国の地方出先機関の見直しをめぐる議論</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023273751-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 国の地方出先機関の見直しをめぐる議論</li>
+<li>タイトル（読み）： クニ ノ チホウ デサキ キカン ノ ミナオシ オ メグル ギロン</li>
+<li>責任表示： 原田 光隆,</li>
+</ul>]]>
+</description>
+      <author>原田 光隆,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023273751-00</guid>
+      <pubDate>Fri, 06 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>国の地方出先機関の見直しをめぐる議論</dc:title>
+      <dcndl:titleTranscription>クニ ノ チホウ デサキ キカン ノ ミナオシ オ メグル ギロン</dcndl:titleTranscription>
+      <dc:creator>原田 光隆</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>立法情報 中国 太湖流域管理条例の制定</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023269757-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 立法情報 中国 太湖流域管理条例の制定</li>
+<li>タイトル（読み）： リッポウ ジョウホウ チュウゴク タイコ リュウイキ カンリ ジョウレイ ノ セイテイ</li>
+<li>責任表示： 宮尾 恵美,</li>
+</ul>]]>
+</description>
+      <author>宮尾 恵美,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023269757-00</guid>
+      <pubDate>Wed, 04 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>立法情報 中国 太湖流域管理条例の制定</dc:title>
+      <dcndl:titleTranscription>リッポウ ジョウホウ チュウゴク タイコ リュウイキ カンリ ジョウレイ ノ セイテイ</dcndl:titleTranscription>
+      <dc:creator>宮尾 恵美</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+    </item>
+    <item>
+      <title>日本関係情報 韓国 日本企業に対する入札制限を求める意見の委員会採択</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023269760-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 日本関係情報 韓国 日本企業に対する入札制限を求める意見の委員会採択</li>
+<li>タイトル（読み）： ニホン カンケイ ジョウホウ カンコク ニホン キギョウ ニ タイスル ニュウサツ セイゲン オ モトメル イケン ノ イインカイ サイタク</li>
+<li>責任表示： 菊池 勇次,</li>
+</ul>]]>
+</description>
+      <author>菊池 勇次,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023269760-00</guid>
+      <pubDate>Wed, 04 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>日本関係情報 韓国 日本企業に対する入札制限を求める意見の委員会採択</dc:title>
+      <dcndl:titleTranscription>ニホン カンケイ ジョウホウ カンコク ニホン キギョウ ニ タイスル ニュウサツ セイゲン オ モトメル イケン ノ イインカイ サイタク</dcndl:titleTranscription>
+      <dc:creator>菊池 勇次</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+    </item>
+    <item>
+      <title>スウェーデン及びフィンランドの行政監視機関 : 法務監察長官と議会オンブズマン</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023273794-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： スウェーデン及びフィンランドの行政監視機関 : 法務監察長官と議会オンブズマン</li>
+<li>タイトル（読み）： スウェーデン オヨビ フィンランド ノ ギョウセイ カンシ キカン : ホウム カンサツ チョウカン ト ギカイ オンブズマン</li>
+<li>責任表示： 大迫 丈志,</li>
+</ul>]]>
+</description>
+      <author>大迫 丈志,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023273794-00</guid>
+      <pubDate>Fri, 06 Jan 2012 09:00:00 +0900</pubDate>
+      <dc:title>スウェーデン及びフィンランドの行政監視機関 : 法務監察長官と議会オンブズマン</dc:title>
+      <dcndl:titleTranscription>スウェーデン オヨビ フィンランド ノ ギョウセイ カンシ キカン : ホウム カンサツ チョウカン ト ギカイ オンブズマン</dcndl:titleTranscription>
+      <dc:creator>大迫 丈志</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>スウェーデン及びフィンランドの行政監視機関 : 法務監察長官と議会オンブズマン</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094111-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： スウェーデン及びフィンランドの行政監視機関 : 法務監察長官と議会オンブズマン</li>
+<li>責任表示： 大迫丈志,</li>
+</ul>]]>
+</description>
+      <author>大迫丈志,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094111-00</guid>
+      <dc:title>スウェーデン及びフィンランドの行政監視機関 : 法務監察長官と議会オンブズマン</dc:title>
+      <dc:creator>大迫丈志</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dc:subject>政治/行政/行政制度</dc:subject>
+      <dc:subject>日本</dc:subject>
+      <dc:subject>北欧</dc:subject>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096553-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096553-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-14</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096957-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096957-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-18</dcterms:issued>
+    </item>
+    <item>
+      <title>調査と情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097059-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 調査と情報</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097059-00</guid>
+      <dc:title>調査と情報</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-11-01</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+  </channel>
+</rss>

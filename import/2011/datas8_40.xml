@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2011-08-01 2011-08-30 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2011-08-01 mediatype=1 cnt=500 until=2011-08-30 </description>
+    <language>ja</language>
+    <openSearch:totalResults>80</openSearch:totalResults>
+    <openSearch:startIndex>41</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>イギリス 2010年公務員等退職年金法の制定と公務員年金改革の動向</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097526-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： イギリス 2010年公務員等退職年金法の制定と公務員年金改革の動向</li>
+<li>責任表示： 河島太朗,</li>
+</ul>]]>
+</description>
+      <author>河島太朗,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097526-00</guid>
+      <dc:title>イギリス 2010年公務員等退職年金法の制定と公務員年金改革の動向</dc:title>
+      <dc:creator>河島太朗</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>アメリカ 福島原発事故を受けたNRCタスクフォースによる提言</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11209369-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： アメリカ 福島原発事故を受けたNRCタスクフォースによる提言</li>
+<li>タイトル（読み）： アメリカ フク シマゲンパツ ジコ オ ウケタ NRC タスクフォース ニ ヨル テイゲン</li>
+<li>責任表示： 井樋 三枝子,</li>
+</ul>]]>
+</description>
+      <author>井樋 三枝子,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11209369-00</guid>
+      <pubDate>Fri, 02 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>アメリカ 福島原発事故を受けたNRCタスクフォースによる提言</dc:title>
+      <dcndl:titleTranscription>アメリカ フク シマゲンパツ ジコ オ ウケタ NRC タスクフォース ニ ヨル テイゲン</dcndl:titleTranscription>
+      <dc:creator>井樋 三枝子</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000036137-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000036137-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-05</dcterms:issued>
+    </item>
+    <item>
+      <title>国立国会図書館年報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000091035-00</link>
+<description>
+<![CDATA[<p>平成22年度,国立国会図書館</p>
+<ul><li>タイトル： 国立国会図書館年報</li>
+<li>責任表示： 国立国会図書館総務部,</li>
+</ul>]]>
+</description>
+      <author>国立国会図書館総務部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000091035-00</guid>
+      <dc:title>国立国会図書館年報</dc:title>
+      <dc:creator>国立国会図書館総務部</dc:creator>
+      <dcndl:volume>平成22年度</dcndl:volume>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-30</dcterms:issued>
+      <dcterms:isPartOf>13490621</dcterms:isPartOf>
+      <dcterms:isPartOf>0385325X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>総務省</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000091893-00</link>
+<description>
+<![CDATA[<p>2011,総務省</p>
+<ul><li>タイトル： 総務省</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000091893-00</guid>
+      <dc:title>総務省</dc:title>
+      <dcndl:volume>2011</dcndl:volume>
+      <dc:publisher>総務省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-01</dcterms:issued>
+    </item>
+    <item>
+      <title>アメリカ ニューヨーク州同性婚法成立</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095776-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： アメリカ ニューヨーク州同性婚法成立</li>
+<li>責任表示： 井樋三枝子,</li>
+</ul>]]>
+</description>
+      <author>井樋三枝子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095776-00</guid>
+      <dc:title>アメリカ ニューヨーク州同性婚法成立</dc:title>
+      <dc:creator>井樋三枝子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>フランス 選挙運動費用及び政治活動の資金的・金銭的透明性に関する法律</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11209409-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： フランス 選挙運動費用及び政治活動の資金的・金銭的透明性に関する法律</li>
+<li>タイトル（読み）： フランス センキョ ウンドウ ヒヨウ オヨビ セイジ カツドウ ノ シキンテキ キンセンテキ トウメイセイ ニ カンスル ホウリツ</li>
+<li>責任表示： 服部 有希,</li>
+</ul>]]>
+</description>
+      <author>服部 有希,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11209409-00</guid>
+      <pubDate>Fri, 02 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>フランス 選挙運動費用及び政治活動の資金的・金銭的透明性に関する法律</dc:title>
+      <dcndl:titleTranscription>フランス センキョ ウンドウ ヒヨウ オヨビ セイジ カツドウ ノ シキンテキ キンセンテキ トウメイセイ ニ カンスル ホウリツ</dcndl:titleTranscription>
+      <dc:creator>服部 有希</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+    </item>
+    <item>
+      <title>感染症週報 : 感染症発生動向調査</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094271-00</link>
+<description>
+<![CDATA[<p>13,厚生労働省</p>
+<ul><li>タイトル： 感染症週報 : 感染症発生動向調査</li>
+<li>責任表示： 国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</li>
+</ul>]]>
+</description>
+      <author>国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094271-00</guid>
+      <dc:title>感染症週報 : 感染症発生動向調査</dc:title>
+      <dc:creator>国立感染症研究所</dc:creator>
+      <dc:creator>厚生労働省健康局結核感染症課</dc:creator>
+      <dc:creator>厚生労働省大臣官房統計情報部</dc:creator>
+      <dcndl:volume>13</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-19</dcterms:issued>
+    </item>
+    <item>
+      <title>農法的視点からみた水田農業再構築の課題</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095522-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 農法的視点からみた水田農業再構築の課題</li>
+<li>責任表示： 矢口克也,</li>
+</ul>]]>
+</description>
+      <author>矢口克也,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095522-00</guid>
+      <dc:title>農法的視点からみた水田農業再構築の課題</dc:title>
+      <dc:creator>矢口克也</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>ロシア 国家決済システムに関する連邦法</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096053-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： ロシア 国家決済システムに関する連邦法</li>
+<li>責任表示： 小泉悠,</li>
+</ul>]]>
+</description>
+      <author>小泉悠,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096053-00</guid>
+      <dc:title>ロシア 国家決済システムに関する連邦法</dc:title>
+      <dc:creator>小泉悠</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>EU 人身取引に関する指令の制定</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11209389-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： EU 人身取引に関する指令の制定</li>
+<li>タイトル（読み）： EU ジンシン トリヒキ ニ カンスル シレイ ノ セイテイ</li>
+<li>責任表示： 矢部 明宏,</li>
+</ul>]]>
+</description>
+      <author>矢部 明宏,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11209389-00</guid>
+      <pubDate>Fri, 02 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>EU 人身取引に関する指令の制定</dc:title>
+      <dcndl:titleTranscription>EU ジンシン トリヒキ ニ カンスル シレイ ノ セイテイ</dcndl:titleTranscription>
+      <dc:creator>矢部 明宏</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000079860-00</link>
+<description>
+<![CDATA[<p>平成23年,埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000079860-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dcndl:volume>平成23年</dcndl:volume>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-02</dcterms:issued>
+    </item>
+    <item>
+      <title>韓国 原子力安全委員会の独立</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097718-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 韓国 原子力安全委員会の独立</li>
+<li>責任表示： 藤原夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原夏人,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097718-00</guid>
+      <dc:title>韓国 原子力安全委員会の独立</dc:title>
+      <dc:creator>藤原夏人</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>スポーツ政策の現状と課題--「スポーツ基本法」の成立をめぐって</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11208967-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： スポーツ政策の現状と課題--「スポーツ基本法」の成立をめぐって</li>
+<li>タイトル（読み）： スポーツ セイサク ノ ゲンジョウ ト カダイ スポーツ キホンホウ ノ セイリツ オ メグッテ</li>
+<li>責任表示： 澤田 大祐,</li>
+</ul>]]>
+</description>
+      <author>澤田 大祐,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11208967-00</guid>
+      <pubDate>Fri, 02 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>スポーツ政策の現状と課題--「スポーツ基本法」の成立をめぐって</dc:title>
+      <dcndl:titleTranscription>スポーツ セイサク ノ ゲンジョウ ト カダイ スポーツ キホンホウ ノ セイリツ オ メグッテ</dcndl:titleTranscription>
+      <dc:creator>澤田 大祐</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-25</dcterms:issued>
+      <dcterms:isPartOf>13493019</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>韓国 原子力安全委員会の独立</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11209429-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 韓国 原子力安全委員会の独立</li>
+<li>タイトル（読み）： カンコク ゲンシリョク アンゼン イインカイ ノ ドクリツ</li>
+<li>責任表示： 藤原 夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原 夏人,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11209429-00</guid>
+      <pubDate>Fri, 02 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>韓国 原子力安全委員会の独立</dc:title>
+      <dcndl:titleTranscription>カンコク ゲンシリョク アンゼン イインカイ ノ ドクリツ</dcndl:titleTranscription>
+      <dc:creator>藤原 夏人</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+    </item>
+    <item>
+      <title>感染症週報 : 感染症発生動向調査</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000093911-00</link>
+<description>
+<![CDATA[<p>13,厚生労働省</p>
+<ul><li>タイトル： 感染症週報 : 感染症発生動向調査</li>
+<li>責任表示： 国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</li>
+</ul>]]>
+</description>
+      <author>国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000093911-00</guid>
+      <dc:title>感染症週報 : 感染症発生動向調査</dc:title>
+      <dc:creator>国立感染症研究所</dc:creator>
+      <dc:creator>厚生労働省健康局結核感染症課</dc:creator>
+      <dc:creator>厚生労働省大臣官房統計情報部</dc:creator>
+      <dcndl:volume>13</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-26</dcterms:issued>
+    </item>
+    <item>
+      <title>アメリカ 南シナ海における領有権紛争に関する決議</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096040-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： アメリカ 南シナ海における領有権紛争に関する決議</li>
+<li>責任表示： 新田紀子,</li>
+</ul>]]>
+</description>
+      <author>新田紀子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096040-00</guid>
+      <dc:title>アメリカ 南シナ海における領有権紛争に関する決議</dc:title>
+      <dc:creator>新田紀子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>EU 人身取引に関する指令の制定</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096675-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： EU 人身取引に関する指令の制定</li>
+<li>責任表示： 矢部明宏,</li>
+</ul>]]>
+</description>
+      <author>矢部明宏,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096675-00</guid>
+      <dc:title>EU 人身取引に関する指令の制定</dc:title>
+      <dc:creator>矢部明宏</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>諸外国の選挙制度 : 類型・具体例・制度一覧</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097500-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 諸外国の選挙制度 : 類型・具体例・制度一覧</li>
+<li>責任表示： 佐藤令,</li>
+</ul>]]>
+</description>
+      <author>佐藤令,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097500-00</guid>
+      <dc:title>諸外国の選挙制度 : 類型・具体例・制度一覧</dc:title>
+      <dc:creator>佐藤令</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-25</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>英国の内閣委員会制度</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11214051-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 英国の内閣委員会制度</li>
+<li>タイトル（読み）： エイコク ノ ナイカク イインカイ セイド</li>
+<li>責任表示： 濱野 雄太,</li>
+</ul>]]>
+</description>
+      <author>濱野 雄太,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11214051-00</guid>
+      <pubDate>Fri, 09 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>英国の内閣委員会制度</dc:title>
+      <dcndl:titleTranscription>エイコク ノ ナイカク イインカイ セイド</dcndl:titleTranscription>
+      <dc:creator>濱野 雄太</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>ソフトウェア特許の範囲拡大が企業の研究開発活動に与える影響</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000092829-00</link>
+<description>
+<![CDATA[<p>文部科学省</p>
+<ul><li>タイトル： ソフトウェア特許の範囲拡大が企業の研究開発活動に与える影響</li>
+<li>責任表示： 科学技術政策研究所,山内勇,大西宏一郎,米山茂美,</li>
+<li>シリーズ名： Discussion paper. 76</li>
+</ul>]]>
+</description>
+      <author>科学技術政策研究所,山内勇,大西宏一郎,米山茂美,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000092829-00</guid>
+      <dc:title>ソフトウェア特許の範囲拡大が企業の研究開発活動に与える影響</dc:title>
+      <dc:creator>科学技術政策研究所</dc:creator>
+      <dc:creator>山内勇</dc:creator>
+      <dc:creator>大西宏一郎</dc:creator>
+      <dc:creator>米山茂美</dc:creator>
+      <dcndl:seriesTitle>Discussion paper. 76</dcndl:seriesTitle>
+      <dc:publisher>文部科学省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+    </item>
+    <item>
+      <title>ドイツ 脱原発のための原子力法改正</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11209416-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： ドイツ 脱原発のための原子力法改正</li>
+<li>タイトル（読み）： ドイツ ダツゲンパツ ノ タメ ノ ゲンシリョクホウ カイセイ</li>
+<li>責任表示： 渡辺 富久子,</li>
+</ul>]]>
+</description>
+      <author>渡辺 富久子,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11209416-00</guid>
+      <pubDate>Fri, 02 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>ドイツ 脱原発のための原子力法改正</dc:title>
+      <dcndl:titleTranscription>ドイツ ダツゲンパツ ノ タメ ノ ゲンシリョクホウ カイセイ</dcndl:titleTranscription>
+      <dc:creator>渡辺 富久子</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000035975-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000035975-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-16</dcterms:issued>
+    </item>
+    <item>
+      <title>日本関係情報 韓国 独島領土守護対策特別委員会の活動期間を再延長</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11209459-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 日本関係情報 韓国 独島領土守護対策特別委員会の活動期間を再延長</li>
+<li>タイトル（読み）： ニホン カンケイ ジョウホウ カンコク ドクトウ リョウド シュゴ タイサク トクベツ イインカイ ノ カツドウ キカン オ サイエンチョウ</li>
+<li>責任表示： 藤原 夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原 夏人,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11209459-00</guid>
+      <pubDate>Fri, 02 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>日本関係情報 韓国 独島領土守護対策特別委員会の活動期間を再延長</dc:title>
+      <dcndl:titleTranscription>ニホン カンケイ ジョウホウ カンコク ドクトウ リョウド シュゴ タイサク トクベツ イインカイ ノ カツドウ キカン オ サイエンチョウ</dcndl:titleTranscription>
+      <dc:creator>藤原 夏人</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+    </item>
+    <item>
+      <title>論文の被引用件数から見る卓越研究者のキャリアパスに関する国際比較</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000093215-00</link>
+<description>
+<![CDATA[<p>文部科学省</p>
+<ul><li>タイトル： 論文の被引用件数から見る卓越研究者のキャリアパスに関する国際比較</li>
+<li>責任表示： 科学技術政策研究所,加藤真紀,</li>
+<li>シリーズ名： Discussion paper. 78</li>
+</ul>]]>
+</description>
+      <author>科学技術政策研究所,加藤真紀,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000093215-00</guid>
+      <dc:title>論文の被引用件数から見る卓越研究者のキャリアパスに関する国際比較</dc:title>
+      <dc:creator>科学技術政策研究所</dc:creator>
+      <dc:creator>加藤真紀</dc:creator>
+      <dcndl:seriesTitle>Discussion paper. 78</dcndl:seriesTitle>
+      <dc:publisher>文部科学省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+    </item>
+    <item>
+      <title>食品安全情報 : 化学物質</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094939-00</link>
+<description>
+<![CDATA[<p>2011,厚生労働省</p>
+<ul><li>タイトル： 食品安全情報 : 化学物質</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094939-00</guid>
+      <dc:title>食品安全情報 : 化学物質</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>2011</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-10</dcterms:issued>
+    </item>
+    <item>
+      <title>外国の立法 : 立法情報・翻訳・解説</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096397-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 外国の立法 : 立法情報・翻訳・解説</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096397-00</guid>
+      <dc:title>外国の立法 : 立法情報・翻訳・解説</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>中国 行政強制法の制定</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11209436-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 中国 行政強制法の制定</li>
+<li>タイトル（読み）： チュウゴク ギョウセイ キョウセイホウ ノ セイテイ</li>
+<li>責任表示： 宮尾 恵美,</li>
+</ul>]]>
+</description>
+      <author>宮尾 恵美,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11209436-00</guid>
+      <pubDate>Fri, 02 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>中国 行政強制法の制定</dc:title>
+      <dcndl:titleTranscription>チュウゴク ギョウセイ キョウセイホウ ノ セイテイ</dcndl:titleTranscription>
+      <dc:creator>宮尾 恵美</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+    </item>
+    <item>
+      <title>地方における課税自主権の拡大に伴う経済的効果</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11213998-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 地方における課税自主権の拡大に伴う経済的効果</li>
+<li>タイトル（読み）： チホウ ニ オケル カゼイ ジシュケン ノ カクダイ ニ トモナウ ケイザイテキ コウカ</li>
+<li>責任表示： 深澤 映司,</li>
+</ul>]]>
+</description>
+      <author>深澤 映司,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11213998-00</guid>
+      <pubDate>Fri, 09 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>地方における課税自主権の拡大に伴う経済的効果</dc:title>
+      <dcndl:titleTranscription>チホウ ニ オケル カゼイ ジシュケン ノ カクダイ ニ トモナウ ケイザイテキ コウカ</dcndl:titleTranscription>
+      <dc:creator>深澤 映司</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>感染症週報 : 感染症発生動向調査</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095087-00</link>
+<description>
+<![CDATA[<p>13,厚生労働省</p>
+<ul><li>タイトル： 感染症週報 : 感染症発生動向調査</li>
+<li>責任表示： 国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</li>
+</ul>]]>
+</description>
+      <author>国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095087-00</guid>
+      <dc:title>感染症週報 : 感染症発生動向調査</dc:title>
+      <dc:creator>国立感染症研究所</dc:creator>
+      <dc:creator>厚生労働省健康局結核感染症課</dc:creator>
+      <dc:creator>厚生労働省大臣官房統計情報部</dc:creator>
+      <dcndl:volume>13</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-05</dcterms:issued>
+    </item>
+    <item>
+      <title>韓国 サハリン韓国人に関して日本の謝罪、賠償等を求める決議</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095777-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 韓国 サハリン韓国人に関して日本の謝罪、賠償等を求める決議</li>
+<li>責任表示： 藤原夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原夏人,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095777-00</guid>
+      <dc:title>韓国 サハリン韓国人に関して日本の謝罪、賠償等を求める決議</dc:title>
+      <dc:creator>藤原夏人</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>食品安全情報 : 化学物質</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095173-00</link>
+<description>
+<![CDATA[<p>2011,厚生労働省</p>
+<ul><li>タイトル： 食品安全情報 : 化学物質</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095173-00</guid>
+      <dc:title>食品安全情報 : 化学物質</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>2011</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-24</dcterms:issued>
+    </item>
+    <item>
+      <title>ドイツ 脱原発のための原子力法改正</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097722-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： ドイツ 脱原発のための原子力法改正</li>
+<li>責任表示： 渡辺富久子,</li>
+</ul>]]>
+</description>
+      <author>渡辺富久子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097722-00</guid>
+      <dc:title>ドイツ 脱原発のための原子力法改正</dc:title>
+      <dc:creator>渡辺富久子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>EU指令と我が国の運転免許制度</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11213962-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： EU指令と我が国の運転免許制度</li>
+<li>タイトル（読み）： EU シレイ ト ワガクニ ノ ウンテン メンキョ セイド</li>
+<li>責任表示： 末井 誠史,</li>
+</ul>]]>
+</description>
+      <author>末井 誠史,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11213962-00</guid>
+      <pubDate>Fri, 09 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>EU指令と我が国の運転免許制度</dc:title>
+      <dcndl:titleTranscription>EU シレイ ト ワガクニ ノ ウンテン メンキョ セイド</dcndl:titleTranscription>
+      <dc:creator>末井 誠史</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>各国議会 日本関係情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096401-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 各国議会 日本関係情報</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096401-00</guid>
+      <dc:title>各国議会 日本関係情報</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>フランス 選挙運動費用及び政治活動の資金的・金銭的透明性に関する法律</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097534-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： フランス 選挙運動費用及び政治活動の資金的・金銭的透明性に関する法律</li>
+<li>責任表示： 服部有希,</li>
+</ul>]]>
+</description>
+      <author>服部有希,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097534-00</guid>
+      <dc:title>フランス 選挙運動費用及び政治活動の資金的・金銭的透明性に関する法律</dc:title>
+      <dc:creator>服部有希</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>英国の内閣委員会制度</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094167-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 英国の内閣委員会制度</li>
+<li>責任表示： 濱野雄太,</li>
+</ul>]]>
+</description>
+      <author>濱野雄太,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094167-00</guid>
+      <dc:title>英国の内閣委員会制度</dc:title>
+      <dc:creator>濱野雄太</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>平成23年度第2次補正予算と今後の課題</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11187890-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 平成23年度第2次補正予算と今後の課題</li>
+<li>タイトル（読み）： ヘイセイ 23ネンド ダイ2ジ ホセイ ヨサン ト コンゴ ノ カダイ</li>
+<li>責任表示： 松浦 茂,</li>
+</ul>]]>
+</description>
+      <author>松浦 茂,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11187890-00</guid>
+      <pubDate>Fri, 19 Aug 2011 09:00:00 +0900</pubDate>
+      <dc:title>平成23年度第2次補正予算と今後の課題</dc:title>
+      <dcndl:titleTranscription>ヘイセイ 23ネンド ダイ2ジ ホセイ ヨサン ト コンゴ ノ カダイ</dcndl:titleTranscription>
+      <dc:creator>松浦 茂</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-10</dcterms:issued>
+      <dcterms:isPartOf>13493019</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>日本関係情報 韓国 サハリン韓国人に関して日本の謝罪、賠償等を求める決議</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11209453-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 日本関係情報 韓国 サハリン韓国人に関して日本の謝罪、賠償等を求める決議</li>
+<li>タイトル（読み）： ニホン カンケイ ジョウホウ カンコク サハリン カンコクジン ニ カンシテ ニホン ノ シャザイ バイショウ トウ オ モトメル ケツギ</li>
+<li>責任表示： 藤原 夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原 夏人,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11209453-00</guid>
+      <pubDate>Fri, 02 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>日本関係情報 韓国 サハリン韓国人に関して日本の謝罪、賠償等を求める決議</dc:title>
+      <dcndl:titleTranscription>ニホン カンケイ ジョウホウ カンコク サハリン カンコクジン ニ カンシテ ニホン ノ シャザイ バイショウ トウ オ モトメル ケツギ</dcndl:titleTranscription>
+      <dc:creator>藤原 夏人</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+    </item>
+    <item>
+      <title>地方における課税自主権の拡大に伴う経済的効果</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095659-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 地方における課税自主権の拡大に伴う経済的効果</li>
+<li>責任表示： 深澤映司,</li>
+</ul>]]>
+</description>
+      <author>深澤映司,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095659-00</guid>
+      <dc:title>地方における課税自主権の拡大に伴う経済的効果</dc:title>
+      <dc:creator>深澤映司</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+  </channel>
+</rss>

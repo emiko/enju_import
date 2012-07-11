@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2010-08-01 2010-08-01 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2010-08-01 mediatype=1 cnt=500 until=2010-08-01 </description>
+    <language>ja</language>
+    <openSearch:totalResults>45</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>本屋にない本 『戦中「学級日誌」-- 戦争下の小学生が考えたこと 大津市歴史博物館蔵』[龍谷大学国際文化学部刊]</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I10809712-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 本屋にない本 『戦中「学級日誌」-- 戦争下の小学生が考えたこと 大津市歴史博物館蔵』[龍谷大学国際文化学部刊]</li>
+<li>タイトル（読み）： ホンヤ ニ ナイ ホン セン チュウ ガッキュウ ニッシ センソウ カ ノ ショウガクセイ ガ カンガエタ コト オオツシ レキシ ハクブツカンゾウ リュウコク ダイガク コクサイ ブンカガクブカン</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I10809712-00</guid>
+      <pubDate>Fri, 17 Sep 2010 09:00:00 +0900</pubDate>
+      <dc:title>本屋にない本 『戦中「学級日誌」-- 戦争下の小学生が考えたこと 大津市歴史博物館蔵』[龍谷大学国際文化学部刊]</dc:title>
+      <dcndl:titleTranscription>ホンヤ ニ ナイ ホン セン チュウ ガッキュウ ニッシ センソウ カ ノ ショウガクセイ ガ カンガエタ コト オオツシ レキシ ハクブツカンゾウ リュウコク ダイガク コクサイ ブンカガクブカン</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:description>記事種別: 書評</dcterms:description>
+    </item>
+    <item>
+      <title>総務省</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000091555-00</link>
+<description>
+<![CDATA[<p>2010,総務省</p>
+<ul><li>タイトル： 総務省</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000091555-00</guid>
+      <dc:title>総務省</dc:title>
+      <dcndl:volume>2010</dcndl:volume>
+      <dc:publisher>総務省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08-01</dcterms:issued>
+    </item>
+    <item>
+      <title>大学における産学連携施策の影響の検討</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000092460-00</link>
+<description>
+<![CDATA[<p>文部科学省</p>
+<ul><li>タイトル： 大学における産学連携施策の影響の検討</li>
+<li>責任表示： 科学技術政策研究所,柴山創太郎,阪彩香,</li>
+<li>シリーズ名： Discussion paper. 66</li>
+</ul>]]>
+</description>
+      <author>科学技術政策研究所,柴山創太郎,阪彩香,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000092460-00</guid>
+      <dc:title>大学における産学連携施策の影響の検討</dc:title>
+      <dc:creator>科学技術政策研究所</dc:creator>
+      <dc:creator>柴山創太郎</dc:creator>
+      <dc:creator>阪彩香</dc:creator>
+      <dcndl:seriesTitle>Discussion paper. 66</dcndl:seriesTitle>
+      <dc:publisher>文部科学省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+    </item>
+    <item>
+      <title>中国 オゾン層破壊物質管理条例の制定</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097993-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 中国 オゾン層破壊物質管理条例の制定</li>
+<li>責任表示： 宮尾恵美,</li>
+</ul>]]>
+</description>
+      <author>宮尾恵美,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097993-00</guid>
+      <dc:title>中国 オゾン層破壊物質管理条例の制定</dc:title>
+      <dc:creator>宮尾恵美</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>本の森を歩く(第4回)外国人の明治日本紀行</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I10809722-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 本の森を歩く(第4回)外国人の明治日本紀行</li>
+<li>タイトル（読み）： ホン ノ モリ オ アルク ダイ4カイ ガイコクジン ノ メイジ ニホン キコウ</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I10809722-00</guid>
+      <pubDate>Fri, 17 Sep 2010 09:00:00 +0900</pubDate>
+      <dc:title>本の森を歩く(第4回)外国人の明治日本紀行</dc:title>
+      <dcndl:titleTranscription>ホン ノ モリ オ アルク ダイ4カイ ガイコクジン ノ メイジ ニホン キコウ</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>日本の水資源 : 概要版</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000093754-00</link>
+<description>
+<![CDATA[<p>平成22年版,国土交通省</p>
+<ul><li>タイトル： 日本の水資源 : 概要版</li>
+<li>責任表示： 国土交通省土地・水資源局水資源部,</li>
+</ul>]]>
+</description>
+      <author>国土交通省土地・水資源局水資源部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000093754-00</guid>
+      <dc:title>日本の水資源 : 概要版</dc:title>
+      <dc:creator>国土交通省土地・水資源局水資源部</dc:creator>
+      <dcndl:volume>平成22年版</dcndl:volume>
+      <dc:publisher>国土交通省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+    </item>
+    <item>
+      <title>アメリカ メキシコ湾原油流出事故対策法案</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097703-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： アメリカ メキシコ湾原油流出事故対策法案</li>
+<li>責任表示： 廣瀬淳子,</li>
+</ul>]]>
+</description>
+      <author>廣瀬淳子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097703-00</guid>
+      <dc:title>アメリカ メキシコ湾原油流出事故対策法案</dc:title>
+      <dc:creator>廣瀬淳子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>基礎年金の改革をめぐる論点</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I10811555-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 基礎年金の改革をめぐる論点</li>
+<li>タイトル（読み）： キソ ネンキン ノ カイカク オ メグル ロンテン</li>
+<li>責任表示： 中川 秀空,</li>
+</ul>]]>
+</description>
+      <author>中川 秀空,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I10811555-00</guid>
+      <pubDate>Fri, 17 Sep 2010 09:00:00 +0900</pubDate>
+      <dc:title>基礎年金の改革をめぐる論点</dc:title>
+      <dcndl:titleTranscription>キソ ネンキン ノ カイカク オ メグル ロンテン</dcndl:titleTranscription>
+      <dc:creator>中川 秀空</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>韓国 性暴力犯罪者性衝動薬物治療法の成立</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097713-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 韓国 性暴力犯罪者性衝動薬物治療法の成立</li>
+<li>責任表示： 藤原夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原夏人,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097713-00</guid>
+      <dc:title>韓国 性暴力犯罪者性衝動薬物治療法の成立</dc:title>
+      <dc:creator>藤原夏人</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>日本の財政関係資料</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000091219-00</link>
+<description>
+<![CDATA[<p>平成22年,財務省</p>
+<ul><li>タイトル： 日本の財政関係資料</li>
+<li>責任表示： 財務省主計局調査課,</li>
+</ul>]]>
+</description>
+      <author>財務省主計局調査課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000091219-00</guid>
+      <dc:title>日本の財政関係資料</dc:title>
+      <dc:creator>財務省主計局調査課</dc:creator>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>財務省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+    </item>
+    <item>
+      <title>ウェブサイトを未来に伝える--改正国立国会図書館法によるインターネット資料収集保存事業</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I10809716-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： ウェブサイトを未来に伝える--改正国立国会図書館法によるインターネット資料収集保存事業</li>
+<li>タイトル（読み）： ウェブサイト オ ミライ ニ ツタエル カイセイ コクリツ コッカイ トショカンホウ ニ ヨル インターネット シリョウ シュウシュウ ホゾン ジギョウ</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I10809716-00</guid>
+      <pubDate>Fri, 17 Sep 2010 09:00:00 +0900</pubDate>
+      <dc:title>ウェブサイトを未来に伝える--改正国立国会図書館法によるインターネット資料収集保存事業</dc:title>
+      <dcndl:titleTranscription>ウェブサイト オ ミライ ニ ツタエル カイセイ コクリツ コッカイ トショカンホウ ニ ヨル インターネット シリョウ シュウシュウ ホゾン ジギョウ</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>県民だより奈良</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000090800-00</link>
+<description>
+<![CDATA[<p>2010,奈良県</p>
+<ul><li>タイトル： 県民だより奈良</li>
+<li>責任表示： 奈良県広報公聴課,</li>
+</ul>]]>
+</description>
+      <author>奈良県広報公聴課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000090800-00</guid>
+      <dc:title>県民だより奈良</dc:title>
+      <dc:creator>奈良県広報公聴課</dc:creator>
+      <dcndl:volume>2010</dcndl:volume>
+      <dc:publisher>奈良県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08-01</dcterms:issued>
+    </item>
+    <item>
+      <title>英国における情報通信政策の最近の動向--「デジタル・ブリテン」報告書と「2010年デジタル経済法」を中心に</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I10811552-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 英国における情報通信政策の最近の動向--「デジタル・ブリテン」報告書と「2010年デジタル経済法」を中心に</li>
+<li>タイトル（読み）： エイコク ニ オケル ジョウホウ ツウシン セイサク ノ サイキン ノ ドウコウ デジタル ブリテン ホウコクショ ト 2010ネン デジタル ケイザイホウ オ チュウシン ニ</li>
+<li>責任表示： 山口 広文,</li>
+</ul>]]>
+</description>
+      <author>山口 広文,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I10811552-00</guid>
+      <pubDate>Fri, 17 Sep 2010 09:00:00 +0900</pubDate>
+      <dc:title>英国における情報通信政策の最近の動向--「デジタル・ブリテン」報告書と「2010年デジタル経済法」を中心に</dc:title>
+      <dcndl:titleTranscription>エイコク ニ オケル ジョウホウ ツウシン セイサク ノ サイキン ノ ドウコウ デジタル ブリテン ホウコクショ ト 2010ネン デジタル ケイザイホウ オ チュウシン ニ</dcndl:titleTranscription>
+      <dc:creator>山口 広文</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>イギリス 保守・自民連立政権合意</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096115-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： イギリス 保守・自民連立政権合意</li>
+<li>責任表示： 河島太朗,</li>
+</ul>]]>
+</description>
+      <author>河島太朗,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096115-00</guid>
+      <dc:title>イギリス 保守・自民連立政権合意</dc:title>
+      <dc:creator>河島太朗</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>アメリカ 日米相互協力及び安全保障条約50周年を記念する決議</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096392-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： アメリカ 日米相互協力及び安全保障条約50周年を記念する決議</li>
+<li>責任表示： 高木綾,</li>
+</ul>]]>
+</description>
+      <author>高木綾,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096392-00</guid>
+      <dc:title>アメリカ 日米相互協力及び安全保障条約50周年を記念する決議</dc:title>
+      <dc:creator>高木綾</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>NPOの寄附税制の拡充について</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094023-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： NPOの寄附税制の拡充について</li>
+<li>責任表示： 加藤慶一,</li>
+</ul>]]>
+</description>
+      <author>加藤慶一,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094023-00</guid>
+      <dc:title>NPOの寄附税制の拡充について</dc:title>
+      <dc:creator>加藤慶一</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>DPRI newsletter</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000092927-00</link>
+<description>
+<![CDATA[<p>京都大学防災研究所</p>
+<ul><li>タイトル： DPRI newsletter</li>
+<li>責任表示： 広報出版企画室広報・出版専門委員会,</li>
+</ul>]]>
+</description>
+      <author>広報出版企画室広報・出版専門委員会,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000092927-00</guid>
+      <dc:title>DPRI newsletter</dc:title>
+      <dc:creator>広報出版企画室広報・出版専門委員会</dc:creator>
+      <dc:publisher>京都大学防災研究所</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+    </item>
+    <item>
+      <title>イタリア 「メイド・イン・イタリー」のラベル貼付に関する法律の制定</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096684-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： イタリア 「メイド・イン・イタリー」のラベル貼付に関する法律の制定</li>
+<li>責任表示： 萩原愛一,</li>
+</ul>]]>
+</description>
+      <author>萩原愛一,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096684-00</guid>
+      <dc:title>イタリア 「メイド・イン・イタリー」のラベル貼付に関する法律の制定</dc:title>
+      <dc:creator>萩原愛一</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>キルギス キルギスの新憲法が成立</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097506-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： キルギス キルギスの新憲法が成立</li>
+<li>責任表示： 堀内賢志,</li>
+</ul>]]>
+</description>
+      <author>堀内賢志,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097506-00</guid>
+      <dc:title>キルギス キルギスの新憲法が成立</dc:title>
+      <dc:creator>堀内賢志</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>佐賀県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000048503-00</link>
+<description>
+<![CDATA[<p>平成22年8月分目録,佐賀県</p>
+<ul><li>タイトル： 佐賀県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000048503-00</guid>
+      <dc:title>佐賀県公報</dc:title>
+      <dcndl:volume>平成22年8月分目録</dcndl:volume>
+      <dc:publisher>佐賀県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+    </item>
+    <item>
+      <title>香川県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000088936-00</link>
+<description>
+<![CDATA[<p>平成22年8月分目録,香川県</p>
+<ul><li>タイトル： 香川県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000088936-00</guid>
+      <dc:title>香川県報</dc:title>
+      <dcndl:volume>平成22年8月分目録</dcndl:volume>
+      <dc:publisher>香川県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+    </item>
+    <item>
+      <title>漁政の窓 : 水産庁施策広報誌</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000093382-00</link>
+<description>
+<![CDATA[<p>64,水産庁</p>
+<ul><li>タイトル： 漁政の窓 : 水産庁施策広報誌</li>
+<li>責任表示： 水産庁漁政部漁政課広報班,</li>
+</ul>]]>
+</description>
+      <author>水産庁漁政部漁政課広報班,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000093382-00</guid>
+      <dc:title>漁政の窓 : 水産庁施策広報誌</dc:title>
+      <dc:creator>水産庁漁政部漁政課広報班</dc:creator>
+      <dcndl:volume>64</dcndl:volume>
+      <dc:publisher>水産庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+    </item>
+    <item>
+      <title>アメリカ 金融規制改革法</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097965-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： アメリカ 金融規制改革法</li>
+<li>責任表示： 井樋三枝子,</li>
+</ul>]]>
+</description>
+      <author>井樋三枝子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097965-00</guid>
+      <dc:title>アメリカ 金融規制改革法</dc:title>
+      <dc:creator>井樋三枝子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>短信</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095786-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 短信</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095786-00</guid>
+      <dc:title>短信</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>アメリカ 日米関係に関する上院公聴会</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096116-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： アメリカ 日米関係に関する上院公聴会</li>
+<li>責任表示： 高木綾,</li>
+</ul>]]>
+</description>
+      <author>高木綾,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096116-00</guid>
+      <dc:title>アメリカ 日米関係に関する上院公聴会</dc:title>
+      <dc:creator>高木綾</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>通過議案要旨集 : 第175回国会(臨時会) : 速報版</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000089537-00</link>
+<description>
+<![CDATA[<p>衆議院</p>
+<ul><li>タイトル： 通過議案要旨集 : 第175回国会(臨時会) : 速報版</li>
+<li>責任表示： 衆議院調査局,</li>
+</ul>]]>
+</description>
+      <author>衆議院調査局,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000089537-00</guid>
+      <dc:title>通過議案要旨集 : 第175回国会(臨時会) : 速報版</dc:title>
+      <dc:creator>衆議院調査局</dc:creator>
+      <dc:publisher>衆議院</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+    </item>
+    <item>
+      <title>英国における情報通信政策の最近の動向 : 「デジタル・ブリテン」報告書と「2010年デジタル経済法」を中心に</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095730-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 英国における情報通信政策の最近の動向 : 「デジタル・ブリテン」報告書と「2010年デジタル経済法」を中心に</li>
+<li>責任表示： 山口広文,</li>
+</ul>]]>
+</description>
+      <author>山口広文,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095730-00</guid>
+      <dc:title>英国における情報通信政策の最近の動向 : 「デジタル・ブリテン」報告書と「2010年デジタル経済法」を中心に</dc:title>
+      <dc:creator>山口広文</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>科学技術動向</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000093198-00</link>
+<description>
+<![CDATA[<p>文部科学省</p>
+<ul><li>タイトル： 科学技術動向</li>
+<li>責任表示： 科学技術動向研究センター,</li>
+</ul>]]>
+</description>
+      <author>科学技術動向研究センター,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000093198-00</guid>
+      <dc:title>科学技術動向</dc:title>
+      <dc:creator>科学技術動向研究センター</dc:creator>
+      <dc:publisher>文部科学省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13493663</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>レファレンス</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095648-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： レファレンス</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095648-00</guid>
+      <dc:title>レファレンス</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>アメリカ トヨタ車の安全性に関する情報更新のための公聴会</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096649-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： アメリカ トヨタ車の安全性に関する情報更新のための公聴会</li>
+<li>責任表示： 高木綾,</li>
+</ul>]]>
+</description>
+      <author>高木綾,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096649-00</guid>
+      <dc:title>アメリカ トヨタ車の安全性に関する情報更新のための公聴会</dc:title>
+      <dc:creator>高木綾</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>各国議会 日本関係情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097507-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 各国議会 日本関係情報</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097507-00</guid>
+      <dc:title>各国議会 日本関係情報</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>NPOの寄附税制の拡充について</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I10811557-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： NPOの寄附税制の拡充について</li>
+<li>タイトル（読み）： NPO ノ キフ ゼイセイ ノ カクジュウ ニ ツイテ</li>
+<li>責任表示： 加藤 慶一,</li>
+</ul>]]>
+</description>
+      <author>加藤 慶一,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I10811557-00</guid>
+      <pubDate>Fri, 17 Sep 2010 09:00:00 +0900</pubDate>
+      <dc:title>NPOの寄附税制の拡充について</dc:title>
+      <dcndl:titleTranscription>NPO ノ キフ ゼイセイ ノ カクジュウ ニ ツイテ</dcndl:titleTranscription>
+      <dc:creator>加藤 慶一</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>外国の立法 : 立法情報・翻訳・解説</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097520-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 外国の立法 : 立法情報・翻訳・解説</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097520-00</guid>
+      <dc:title>外国の立法 : 立法情報・翻訳・解説</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>今月の一冊 国立国会図書館の蔵書から 都紀行--幕末、幕臣の京都滞在日記</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I10809681-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 今月の一冊 国立国会図書館の蔵書から 都紀行--幕末、幕臣の京都滞在日記</li>
+<li>タイトル（読み）： コンゲツ ノ イッサツ コクリツ コッカイ トショカン ノ ゾウショ カラ ミヤコ キコウ バクマツ バクシン ノ キョウト タイザイ ニッキ</li>
+<li>責任表示： 川本 勉,</li>
+</ul>]]>
+</description>
+      <author>川本 勉,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I10809681-00</guid>
+      <pubDate>Fri, 17 Sep 2010 09:00:00 +0900</pubDate>
+      <dc:title>今月の一冊 国立国会図書館の蔵書から 都紀行--幕末、幕臣の京都滞在日記</dc:title>
+      <dcndl:titleTranscription>コンゲツ ノ イッサツ コクリツ コッカイ トショカン ノ ゾウショ カラ ミヤコ キコウ バクマツ バクシン ノ キョウト タイザイ ニッキ</dcndl:titleTranscription>
+      <dc:creator>川本 勉</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>終戦の詔書--史料で読み解く二つの疑問</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I10809691-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 終戦の詔書--史料で読み解く二つの疑問</li>
+<li>タイトル（読み）： シュウセン ノ ショウショ シリョウ デ ヨミ トク フタツ ノ ギモン</li>
+<li>責任表示： 山田 敏之,</li>
+</ul>]]>
+</description>
+      <author>山田 敏之,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I10809691-00</guid>
+      <pubDate>Fri, 17 Sep 2010 09:00:00 +0900</pubDate>
+      <dc:title>終戦の詔書--史料で読み解く二つの疑問</dc:title>
+      <dcndl:titleTranscription>シュウセン ノ ショウショ シリョウ デ ヨミ トク フタツ ノ ギモン</dcndl:titleTranscription>
+      <dc:creator>山田 敏之</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>基礎年金の改革をめぐる論点</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094163-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 基礎年金の改革をめぐる論点</li>
+<li>責任表示： 中川秀空,</li>
+</ul>]]>
+</description>
+      <author>中川秀空,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094163-00</guid>
+      <dc:title>基礎年金の改革をめぐる論点</dc:title>
+      <dc:creator>中川秀空</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>政策研ニュース</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000093202-00</link>
+<description>
+<![CDATA[<p>2010年,文部科学省</p>
+<ul><li>タイトル： 政策研ニュース</li>
+<li>責任表示： 文部科学省科学技術政策研究所広報委員会,</li>
+</ul>]]>
+</description>
+      <author>文部科学省科学技術政策研究所広報委員会,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000093202-00</guid>
+      <dc:title>政策研ニュース</dc:title>
+      <dc:creator>文部科学省科学技術政策研究所広報委員会</dc:creator>
+      <dcndl:volume>2010年</dcndl:volume>
+      <dc:publisher>文部科学省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13476335</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>EU 「強化された協力」の初適用 : 国際離婚</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095754-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： EU 「強化された協力」の初適用 : 国際離婚</li>
+<li>責任表示： 植月献二,</li>
+</ul>]]>
+</description>
+      <author>植月献二,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095754-00</guid>
+      <dc:title>EU 「強化された協力」の初適用 : 国際離婚</dc:title>
+      <dc:creator>植月献二</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>タイ 環境アセスメントと憲法 : マプタプット公害訴訟</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096054-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： タイ 環境アセスメントと憲法 : マプタプット公害訴訟</li>
+<li>責任表示： 大友有,</li>
+</ul>]]>
+</description>
+      <author>大友有,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096054-00</guid>
+      <dc:title>タイ 環境アセスメントと憲法 : マプタプット公害訴訟</dc:title>
+      <dc:creator>大友有</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>通商白書 : 概要</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095946-00</link>
+<description>
+<![CDATA[<p>平成22年版,経済産業省</p>
+<ul><li>タイトル： 通商白書 : 概要</li>
+<li>責任表示： 経済産業省通商政策局,</li>
+</ul>]]>
+</description>
+      <author>経済産業省通商政策局,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095946-00</guid>
+      <dc:title>通商白書 : 概要</dc:title>
+      <dc:creator>経済産業省通商政策局</dc:creator>
+      <dcndl:volume>平成22年版</dcndl:volume>
+      <dc:publisher>経済産業省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+    </item>
+    <item>
+      <title>ドイツ 児童ポルノサイトへのアクセスの防止に関する法律</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096381-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： ドイツ 児童ポルノサイトへのアクセスの防止に関する法律</li>
+<li>責任表示： 渡辺富久子,</li>
+</ul>]]>
+</description>
+      <author>渡辺富久子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096381-00</guid>
+      <dc:title>ドイツ 児童ポルノサイトへのアクセスの防止に関する法律</dc:title>
+      <dc:creator>渡辺富久子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>館内スコープ 現場からお伝えします。 雑誌のデジタル化作業</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I10809702-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 館内スコープ 現場からお伝えします。 雑誌のデジタル化作業</li>
+<li>タイトル（読み）： カン ナイ スコープ ゲンバ カラ オツタエシマス ザッシ ノ デジタルカ サギョウ</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I10809702-00</guid>
+      <pubDate>Fri, 17 Sep 2010 09:00:00 +0900</pubDate>
+      <dc:title>館内スコープ 現場からお伝えします。 雑誌のデジタル化作業</dc:title>
+      <dcndl:titleTranscription>カン ナイ スコープ ゲンバ カラ オツタエシマス ザッシ ノ デジタルカ サギョウ</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>日本の水資源</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000092579-00</link>
+<description>
+<![CDATA[<p>平成22年版,国土交通省</p>
+<ul><li>タイトル： 日本の水資源</li>
+<li>責任表示： 国土交通省土地・水資源局水資源部,</li>
+</ul>]]>
+</description>
+      <author>国土交通省土地・水資源局水資源部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000092579-00</guid>
+      <dc:title>日本の水資源</dc:title>
+      <dc:creator>国土交通省土地・水資源局水資源部</dc:creator>
+      <dcndl:volume>平成22年版</dcndl:volume>
+      <dc:publisher>国土交通省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+    </item>
+    <item>
+      <title>国リハニュース : 国立障害者リハビリテーションセンター広報誌</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094573-00</link>
+<description>
+<![CDATA[<p>平成22年,厚生労働省</p>
+<ul><li>タイトル： 国リハニュース : 国立障害者リハビリテーションセンター広報誌</li>
+<li>責任表示： 国立障害者リハビリテーションセンター管理部企画課,</li>
+</ul>]]>
+</description>
+      <author>国立障害者リハビリテーションセンター管理部企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094573-00</guid>
+      <dc:title>国リハニュース : 国立障害者リハビリテーションセンター広報誌</dc:title>
+      <dc:creator>国立障害者リハビリテーションセンター管理部企画課</dc:creator>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+    </item>
+    <item>
+      <title>EU　新しい欧州経済戦略の採択 : 5つの数値目標の設定</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096058-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： EU　新しい欧州経済戦略の採択 : 5つの数値目標の設定</li>
+<li>責任表示： 萩原愛一,</li>
+</ul>]]>
+</description>
+      <author>萩原愛一,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096058-00</guid>
+      <dc:title>EU　新しい欧州経済戦略の採択 : 5つの数値目標の設定</dc:title>
+      <dc:creator>萩原愛一</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-08</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+  </channel>
+</rss>

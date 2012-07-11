@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2010-09-24 2010-09-24 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2010-09-24 mediatype=1 cnt=500 until=2010-09-24 </description>
+    <language>ja</language>
+    <openSearch:totalResults>31</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>宮崎県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000010606-00</link>
+<description>
+<![CDATA[<p>宮崎県</p>
+<ul><li>タイトル： 宮崎県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000010606-00</guid>
+      <dc:title>宮崎県公報</dc:title>
+      <dc:publisher>宮崎県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>熊本県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000077940-00</link>
+<description>
+<![CDATA[<p>熊本県</p>
+<ul><li>タイトル： 熊本県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000077940-00</guid>
+      <dc:title>熊本県公報</dc:title>
+      <dc:publisher>熊本県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>徳島県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000046468-00</link>
+<description>
+<![CDATA[<p>徳島県</p>
+<ul><li>タイトル： 徳島県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000046468-00</guid>
+      <dc:title>徳島県報</dc:title>
+      <dc:publisher>徳島県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>新潟県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000009628-00</link>
+<description>
+<![CDATA[<p>平成22年,新潟県</p>
+<ul><li>タイトル： 新潟県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000009628-00</guid>
+      <dc:title>新潟県報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>新潟県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>岐阜県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000078370-00</link>
+<description>
+<![CDATA[<p>岐阜県</p>
+<ul><li>タイトル： 岐阜県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000078370-00</guid>
+      <dc:title>岐阜県公報</dc:title>
+      <dc:publisher>岐阜県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>福岡県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000013419-00</link>
+<description>
+<![CDATA[<p>福岡県</p>
+<ul><li>タイトル： 福岡県公報</li>
+<li>責任表示： 福岡県総務部行政経営企画課,</li>
+</ul>]]>
+</description>
+      <author>福岡県総務部行政経営企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000013419-00</guid>
+      <dc:title>福岡県公報</dc:title>
+      <dc:creator>福岡県総務部行政経営企画課</dc:creator>
+      <dc:publisher>福岡県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>茨城県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000029658-00</link>
+<description>
+<![CDATA[<p>茨城県</p>
+<ul><li>タイトル： 茨城県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000029658-00</guid>
+      <dc:title>茨城県報</dc:title>
+      <dc:publisher>茨城県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000079859-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000079859-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>独立行政法人鉄道建設・運輸施設整備支援機構の特例業務勘定における利益剰余金につき、国庫納付が可能な資金の額を把握し、将来においても、余裕資金が生じていないか適時に検討することとするとともに、これらの資金が国庫に納付されることとなるように適切な制度を整備するよう国土交通大臣に対して意見を表示したもの</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000091192-00</link>
+<description>
+<![CDATA[<p>会計検査院</p>
+<ul><li>タイトル： 独立行政法人鉄道建設・運輸施設整備支援機構の特例業務勘定における利益剰余金につき、国庫納付が可能な資金の額を把握し、将来においても、余裕資金が生じていないか適時に検討することとするとともに、これらの資金が国庫に納付されることとなるように適切な制度を整備するよう国土交通大臣に対して意見を表示したもの</li>
+<li>シリーズ名： 国会及び内閣に対する報告. 平成22年報告6</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000091192-00</guid>
+      <dc:title>独立行政法人鉄道建設・運輸施設整備支援機構の特例業務勘定における利益剰余金につき、国庫納付が可能な資金の額を把握し、将来においても、余裕資金が生じていないか適時に検討することとするとともに、これらの資金が国庫に納付されることとなるように適切な制度を整備するよう国土交通大臣に対して意見を表示したもの</dc:title>
+      <dcndl:seriesTitle>国会及び内閣に対する報告. 平成22年報告6</dcndl:seriesTitle>
+      <dc:publisher>会計検査院</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>和歌山県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000076330-00</link>
+<description>
+<![CDATA[<p>和歌山県</p>
+<ul><li>タイトル： 和歌山県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000076330-00</guid>
+      <dc:title>和歌山県報</dc:title>
+      <dc:publisher>和歌山県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>山口県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000020949-00</link>
+<description>
+<![CDATA[<p>平成22年,山口県</p>
+<ul><li>タイトル： 山口県報</li>
+<li>責任表示： 山口県,</li>
+</ul>]]>
+</description>
+      <author>山口県,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000020949-00</guid>
+      <dc:title>山口県報</dc:title>
+      <dc:creator>山口県</dc:creator>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>山口県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>山口県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000007028-00</link>
+<description>
+<![CDATA[<p>山口県</p>
+<ul><li>タイトル： 山口県報</li>
+<li>責任表示： 山口県,</li>
+</ul>]]>
+</description>
+      <author>山口県,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000007028-00</guid>
+      <dc:title>山口県報</dc:title>
+      <dc:creator>山口県</dc:creator>
+      <dc:publisher>山口県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>高知県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000030411-00</link>
+<description>
+<![CDATA[<p>高知県</p>
+<ul><li>タイトル： 高知県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000030411-00</guid>
+      <dc:title>高知県公報</dc:title>
+      <dc:publisher>高知県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>栃木県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000081778-00</link>
+<description>
+<![CDATA[<p>栃木県</p>
+<ul><li>タイトル： 栃木県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000081778-00</guid>
+      <dc:title>栃木県公報</dc:title>
+      <dc:publisher>栃木県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>岐阜県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000047430-00</link>
+<description>
+<![CDATA[<p>岐阜県</p>
+<ul><li>タイトル： 岐阜県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000047430-00</guid>
+      <dc:title>岐阜県公報</dc:title>
+      <dc:publisher>岐阜県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>佐賀県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000000841-00</link>
+<description>
+<![CDATA[<p>佐賀県</p>
+<ul><li>タイトル： 佐賀県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000000841-00</guid>
+      <dc:title>佐賀県公報</dc:title>
+      <dc:publisher>佐賀県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>青森県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000044357-00</link>
+<description>
+<![CDATA[<p>青森県</p>
+<ul><li>タイトル： 青森県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000044357-00</guid>
+      <dc:title>青森県報</dc:title>
+      <dc:publisher>青森県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>島根県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000076826-00</link>
+<description>
+<![CDATA[<p>島根県</p>
+<ul><li>タイトル： 島根県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000076826-00</guid>
+      <dc:title>島根県報</dc:title>
+      <dc:publisher>島根県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>奈良県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000092016-00</link>
+<description>
+<![CDATA[<p>奈良県</p>
+<ul><li>タイトル： 奈良県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000092016-00</guid>
+      <dc:title>奈良県公報</dc:title>
+      <dc:publisher>奈良県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>秋田県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000027477-00</link>
+<description>
+<![CDATA[<p>秋田県</p>
+<ul><li>タイトル： 秋田県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000027477-00</guid>
+      <dc:title>秋田県公報</dc:title>
+      <dc:publisher>秋田県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>香川県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000047180-00</link>
+<description>
+<![CDATA[<p>香川県</p>
+<ul><li>タイトル： 香川県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000047180-00</guid>
+      <dc:title>香川県報</dc:title>
+      <dc:publisher>香川県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>青森県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000047573-00</link>
+<description>
+<![CDATA[<p>平成22年,青森県</p>
+<ul><li>タイトル： 青森県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000047573-00</guid>
+      <dc:title>青森県報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>青森県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>株式会社整理回収機構が保有する平成11、12両年度の整理回収業務から生じた利益に係る資金について、その有効活用を図るため、預金保険機構を通じて国に納付させるなど、国の財政に寄与する方策を検討するよう内閣府特命担当大臣に対して意見を表示したもの : 会計検査院法第30条の2の規定に基づく報告書</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000091049-00</link>
+<description>
+<![CDATA[<p>会計検査院</p>
+<ul><li>タイトル： 株式会社整理回収機構が保有する平成11、12両年度の整理回収業務から生じた利益に係る資金について、その有効活用を図るため、預金保険機構を通じて国に納付させるなど、国の財政に寄与する方策を検討するよう内閣府特命担当大臣に対して意見を表示したもの : 会計検査院法第30条の2の規定に基づく報告書</li>
+<li>シリーズ名： 国会及び内閣に対する報告. 平成22年報告5</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000091049-00</guid>
+      <dc:title>株式会社整理回収機構が保有する平成11、12両年度の整理回収業務から生じた利益に係る資金について、その有効活用を図るため、預金保険機構を通じて国に納付させるなど、国の財政に寄与する方策を検討するよう内閣府特命担当大臣に対して意見を表示したもの : 会計検査院法第30条の2の規定に基づく報告書</dc:title>
+      <dcndl:seriesTitle>国会及び内閣に対する報告. 平成22年報告5</dcndl:seriesTitle>
+      <dc:publisher>会計検査院</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>鳥取県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000086758-00</link>
+<description>
+<![CDATA[<p>鳥取県</p>
+<ul><li>タイトル： 鳥取県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000086758-00</guid>
+      <dc:title>鳥取県公報</dc:title>
+      <dc:publisher>鳥取県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>福島県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000019102-00</link>
+<description>
+<![CDATA[<p>福島県</p>
+<ul><li>タイトル： 福島県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000019102-00</guid>
+      <dc:title>福島県報</dc:title>
+      <dc:publisher>福島県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>石川県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000072611-00</link>
+<description>
+<![CDATA[<p>石川県</p>
+<ul><li>タイトル： 石川県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000072611-00</guid>
+      <dc:title>石川県公報</dc:title>
+      <dc:publisher>石川県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>国立国会図書館年報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000091627-00</link>
+<description>
+<![CDATA[<p>平成21年度,国立国会図書館</p>
+<ul><li>タイトル： 国立国会図書館年報</li>
+<li>責任表示： 国立国会図書館総務部,</li>
+</ul>]]>
+</description>
+      <author>国立国会図書館総務部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000091627-00</guid>
+      <dc:title>国立国会図書館年報</dc:title>
+      <dc:creator>国立国会図書館総務部</dc:creator>
+      <dcndl:volume>平成21年度</dcndl:volume>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+      <dcterms:isPartOf>13490621</dcterms:isPartOf>
+      <dcterms:isPartOf>0385325X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>長野県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000055745-00</link>
+<description>
+<![CDATA[<p>長野県</p>
+<ul><li>タイトル： 長野県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000055745-00</guid>
+      <dc:title>長野県報</dc:title>
+      <dc:publisher>長野県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>大分県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000076996-00</link>
+<description>
+<![CDATA[<p>大分県</p>
+<ul><li>タイトル： 大分県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000076996-00</guid>
+      <dc:title>大分県報</dc:title>
+      <dc:publisher>大分県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>鳥取県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000016366-00</link>
+<description>
+<![CDATA[<p>平成22年,鳥取県</p>
+<ul><li>タイトル： 鳥取県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000016366-00</guid>
+      <dc:title>鳥取県公報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>鳥取県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+    <item>
+      <title>東京都公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000067733-00</link>
+<description>
+<![CDATA[<p>東京都</p>
+<ul><li>タイトル： 東京都公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000067733-00</guid>
+      <dc:title>東京都公報</dc:title>
+      <dc:publisher>東京都</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-24</dcterms:issued>
+    </item>
+  </channel>
+</rss>

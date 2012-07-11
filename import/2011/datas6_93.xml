@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2011-06-01 2011-06-30 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2011-06-01 mediatype=1 cnt=500 until=2011-06-30 </description>
+    <language>ja</language>
+    <openSearch:totalResults>121</openSearch:totalResults>
+    <openSearch:startIndex>94</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>消防の動き</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000093591-00</link>
+<description>
+<![CDATA[<p>消防庁</p>
+<ul><li>タイトル： 消防の動き</li>
+<li>責任表示： 消防庁総務課,</li>
+</ul>]]>
+</description>
+      <author>消防庁総務課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000093591-00</guid>
+      <dc:title>消防の動き</dc:title>
+      <dc:creator>消防庁総務課</dc:creator>
+      <dc:publisher>消防庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-01</dcterms:issued>
+    </item>
+    <item>
+      <title>予算と法律との関係 : 予算の修正を中心として</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094619-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 予算と法律との関係 : 予算の修正を中心として</li>
+<li>責任表示： 夜久仁,</li>
+</ul>]]>
+</description>
+      <author>夜久仁,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094619-00</guid>
+      <dc:title>予算と法律との関係 : 予算の修正を中心として</dc:title>
+      <dc:creator>夜久仁</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>被災者生活支援に関する制度の現状と課題 : 東日本大震災における対応と課題</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096646-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 被災者生活支援に関する制度の現状と課題 : 東日本大震災における対応と課題</li>
+<li>責任表示： 中川秀空,</li>
+</ul>]]>
+</description>
+      <author>中川秀空,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096646-00</guid>
+      <dc:title>被災者生活支援に関する制度の現状と課題 : 東日本大震災における対応と課題</dc:title>
+      <dc:creator>中川秀空</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-02</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>研究文献レビュー：MLA連携 : アート・ドキュメンテーションからのアプローチ</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096943-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 研究文献レビュー：MLA連携 : アート・ドキュメンテーションからのアプローチ</li>
+<li>責任表示： 水谷長志,</li>
+</ul>]]>
+</description>
+      <author>水谷長志,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096943-00</guid>
+      <dc:title>研究文献レビュー：MLA連携 : アート・ドキュメンテーションからのアプローチ</dc:title>
+      <dc:creator>水谷長志</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-20</dcterms:issued>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>憲政資料室の新規公開資料から 永田秀次郎・亮一関係文書、若槻礼次郎関係文書</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11150656-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 憲政資料室の新規公開資料から 永田秀次郎・亮一関係文書、若槻礼次郎関係文書</li>
+<li>タイトル（読み）： ケンセイ シリョウシツ ノ シンキ コウカイ シリョウ カラ ナガタ ヒデジロウ リョウイチ カンケイ ブンショ ワカツキレイ ジロウ カンケイ ブンショ</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11150656-00</guid>
+      <pubDate>Fri, 22 Jul 2011 09:00:00 +0900</pubDate>
+      <dc:title>憲政資料室の新規公開資料から 永田秀次郎・亮一関係文書、若槻礼次郎関係文書</dc:title>
+      <dcndl:titleTranscription>ケンセイ シリョウシツ ノ シンキ コウカイ シリョウ カラ ナガタ ヒデジロウ リョウイチ カンケイ ブンショ ワカツキレイ ジロウ カンケイ ブンショ</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000036016-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000036016-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-14</dcterms:issued>
+    </item>
+    <item>
+      <title>食品安全情報 : 化学物質</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094005-00</link>
+<description>
+<![CDATA[<p>2011,厚生労働省</p>
+<ul><li>タイトル： 食品安全情報 : 化学物質</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094005-00</guid>
+      <dc:title>食品安全情報 : 化学物質</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>2011</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-01</dcterms:issued>
+    </item>
+    <item>
+      <title>行歯会だより</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094467-00</link>
+<description>
+<![CDATA[<p>2011年,厚生労働省</p>
+<ul><li>タイトル： 行歯会だより</li>
+<li>責任表示： 国立保健医療科学院,全国行政歯科技術職連絡会,</li>
+</ul>]]>
+</description>
+      <author>国立保健医療科学院,全国行政歯科技術職連絡会,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094467-00</guid>
+      <dc:title>行歯会だより</dc:title>
+      <dc:creator>国立保健医療科学院</dc:creator>
+      <dc:creator>全国行政歯科技術職連絡会</dc:creator>
+      <dcndl:volume>2011年</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06</dcterms:issued>
+    </item>
+    <item>
+      <title>青少年とオンラインゲーム : 中国のオンラインゲーム管理政策</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096120-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 青少年とオンラインゲーム : 中国のオンラインゲーム管理政策</li>
+<li>責任表示： 宮尾恵美,</li>
+</ul>]]>
+</description>
+      <author>宮尾恵美,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096120-00</guid>
+      <dc:title>青少年とオンラインゲーム : 中国のオンラインゲーム管理政策</dc:title>
+      <dc:creator>宮尾恵美</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>オランダの介護保障制度</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11157629-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： オランダの介護保障制度</li>
+<li>タイトル（読み）： オランダ ノ カイゴ ホショウ セイド</li>
+<li>責任表示： 大森 正博,</li>
+</ul>]]>
+</description>
+      <author>大森 正博,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11157629-00</guid>
+      <pubDate>Fri, 29 Jul 2011 09:00:00 +0900</pubDate>
+      <dc:title>オランダの介護保障制度</dc:title>
+      <dcndl:titleTranscription>オランダ ノ カイゴ ホショウ セイド</dcndl:titleTranscription>
+      <dc:creator>大森 正博</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>2008年水銀輸出禁止法 : アメリカにおける水銀規制の現状と課題</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095764-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 2008年水銀輸出禁止法 : アメリカにおける水銀規制の現状と課題</li>
+<li>責任表示： 廣瀬敦子,</li>
+</ul>]]>
+</description>
+      <author>廣瀬敦子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095764-00</guid>
+      <dc:title>2008年水銀輸出禁止法 : アメリカにおける水銀規制の現状と課題</dc:title>
+      <dc:creator>廣瀬敦子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>被災地における医療・介護--東日本大震災後の現状と課題</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11092563-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 被災地における医療・介護--東日本大震災後の現状と課題</li>
+<li>タイトル（読み）： ヒサイチ ニ オケル イリョウ カイゴ ヒガシニホン ダイ シンサイ ゴ ノ ゲンジョウ ト カダイ</li>
+<li>責任表示： 泉 眞樹子,中村 邦広,近藤 倫子,</li>
+</ul>]]>
+</description>
+      <author>泉 眞樹子,中村 邦広,近藤 倫子,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11092563-00</guid>
+      <pubDate>Fri, 10 Jun 2011 09:00:00 +0900</pubDate>
+      <dc:title>被災地における医療・介護--東日本大震災後の現状と課題</dc:title>
+      <dcndl:titleTranscription>ヒサイチ ニ オケル イリョウ カイゴ ヒガシニホン ダイ シンサイ ゴ ノ ゲンジョウ ト カダイ</dcndl:titleTranscription>
+      <dc:creator>泉 眞樹子</dc:creator>
+      <dc:creator>中村 邦広</dc:creator>
+      <dc:creator>近藤 倫子</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-02</dcterms:issued>
+      <dcterms:isPartOf>13493019</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>日本の当面する外交防衛分野の諸課題--第177回国会(常会)以降の主要な論点</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11111376-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 日本の当面する外交防衛分野の諸課題--第177回国会(常会)以降の主要な論点</li>
+<li>タイトル（読み）： ニホン ノ トウメン スル ガイコウ ボウエイ ブンヤ ノ ショ カダイ ダイ177カイ コッカイ ジョウカイ イコウ ノ シュヨウ ナ ロンテン</li>
+<li>責任表示： 国立国会図書館調査及び立法考査局外交防衛調査室課,</li>
+</ul>]]>
+</description>
+      <author>国立国会図書館調査及び立法考査局外交防衛調査室課,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11111376-00</guid>
+      <pubDate>Fri, 24 Jun 2011 09:00:00 +0900</pubDate>
+      <dc:title>日本の当面する外交防衛分野の諸課題--第177回国会(常会)以降の主要な論点</dc:title>
+      <dcndl:titleTranscription>ニホン ノ トウメン スル ガイコウ ボウエイ ブンヤ ノ ショ カダイ ダイ177カイ コッカイ ジョウカイ イコウ ノ シュヨウ ナ ロンテン</dcndl:titleTranscription>
+      <dc:creator>国立国会図書館調査及び立法考査局外交防衛調査室課</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-16</dcterms:issued>
+      <dcterms:isPartOf>13493019</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>茨城県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000029733-00</link>
+<description>
+<![CDATA[<p>茨城県</p>
+<ul><li>タイトル： 茨城県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000029733-00</guid>
+      <dc:title>茨城県報</dc:title>
+      <dc:publisher>茨城県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-20</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000059958-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000059958-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-10</dcterms:issued>
+    </item>
+    <item>
+      <title>東日本大震災後の災害廃棄物処理 : これまでの取組みと今後の課題</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095741-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 東日本大震災後の災害廃棄物処理 : これまでの取組みと今後の課題</li>
+<li>責任表示： 遠藤真弘,</li>
+</ul>]]>
+</description>
+      <author>遠藤真弘,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095741-00</guid>
+      <dc:title>東日本大震災後の災害廃棄物処理 : これまでの取組みと今後の課題</dc:title>
+      <dc:creator>遠藤真弘</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-30</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>スウェーデンにおける児童ポルノ処罰規定 : 児童ポルノ対象範囲の拡大と新たに処罰される行為</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096371-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： スウェーデンにおける児童ポルノ処罰規定 : 児童ポルノ対象範囲の拡大と新たに処罰される行為</li>
+<li>責任表示： 井樋三枝子,</li>
+</ul>]]>
+</description>
+      <author>井樋三枝子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096371-00</guid>
+      <dc:title>スウェーデンにおける児童ポルノ処罰規定 : 児童ポルノ対象範囲の拡大と新たに処罰される行為</dc:title>
+      <dc:creator>井樋三枝子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>大学図書館員の継続教育における汎用的能力の重要性</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097402-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 大学図書館員の継続教育における汎用的能力の重要性</li>
+<li>責任表示： 溝上智恵子,</li>
+</ul>]]>
+</description>
+      <author>溝上智恵子,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097402-00</guid>
+      <dc:title>大学図書館員の継続教育における汎用的能力の重要性</dc:title>
+      <dc:creator>溝上智恵子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-20</dcterms:issued>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>衆議院及び参議院における一票の格差</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11101978-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 衆議院及び参議院における一票の格差</li>
+<li>タイトル（読み）： シュウギイン オヨビ サンギイン ニ オケル イッピョウ ノ カクサ</li>
+<li>責任表示： 佐藤 令,</li>
+</ul>]]>
+</description>
+      <author>佐藤 令,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11101978-00</guid>
+      <pubDate>Fri, 17 Jun 2011 09:00:00 +0900</pubDate>
+      <dc:title>衆議院及び参議院における一票の格差</dc:title>
+      <dcndl:titleTranscription>シュウギイン オヨビ サンギイン ニ オケル イッピョウ ノ カクサ</dcndl:titleTranscription>
+      <dc:creator>佐藤 令</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-09</dcterms:issued>
+      <dcterms:isPartOf>13493019</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>東亜図書館協会(CEAL)・アジア学会(AAS)2011年年次大会に参加して--出張報告</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11141743-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 東亜図書館協会(CEAL)・アジア学会(AAS)2011年年次大会に参加して--出張報告</li>
+<li>タイトル（読み）： トウア トショカン キョウカイ CEAL アジア ガッカイ AAS 2011ネン ネンジ タイカイ ニ サンカ シテ シュッチョウ ホウコク</li>
+<li>責任表示： 鴇田 潤,</li>
+</ul>]]>
+</description>
+      <author>鴇田 潤,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11141743-00</guid>
+      <pubDate>Fri, 15 Jul 2011 09:00:00 +0900</pubDate>
+      <dc:title>東亜図書館協会(CEAL)・アジア学会(AAS)2011年年次大会に参加して--出張報告</dc:title>
+      <dcndl:titleTranscription>トウア トショカン キョウカイ CEAL アジア ガッカイ AAS 2011ネン ネンジ タイカイ ニ サンカ シテ シュッチョウ ホウコク</dcndl:titleTranscription>
+      <dc:creator>鴇田 潤</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06</dcterms:issued>
+      <dcterms:isPartOf>13482149</dcterms:isPartOf>
+      <dcterms:isPartOf>13482149</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>図書館・文書館における資料防災</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11150653-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 図書館・文書館における資料防災</li>
+<li>タイトル（読み）： トショカン ブンショカン ニ オケル シリョウ ボウサイ</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11150653-00</guid>
+      <pubDate>Fri, 22 Jul 2011 09:00:00 +0900</pubDate>
+      <dc:title>図書館・文書館における資料防災</dc:title>
+      <dcndl:titleTranscription>トショカン ブンショカン ニ オケル シリョウ ボウサイ</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>茨城県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000029644-00</link>
+<description>
+<![CDATA[<p>茨城県</p>
+<ul><li>タイトル： 茨城県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000029644-00</guid>
+      <dc:title>茨城県報</dc:title>
+      <dc:publisher>茨城県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-09</dcterms:issued>
+    </item>
+    <item>
+      <title>漁政の窓 : 水産庁施策広報誌</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000092929-00</link>
+<description>
+<![CDATA[<p>73,水産庁</p>
+<ul><li>タイトル： 漁政の窓 : 水産庁施策広報誌</li>
+<li>責任表示： 水産庁漁政部漁政課広報班,</li>
+</ul>]]>
+</description>
+      <author>水産庁漁政部漁政課広報班,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000092929-00</guid>
+      <dc:title>漁政の窓 : 水産庁施策広報誌</dc:title>
+      <dc:creator>水産庁漁政部漁政課広報班</dc:creator>
+      <dcndl:volume>73</dcndl:volume>
+      <dc:publisher>水産庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06</dcterms:issued>
+    </item>
+    <item>
+      <title>医薬品安全性情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094071-00</link>
+<description>
+<![CDATA[<p>9,厚生労働省</p>
+<ul><li>タイトル： 医薬品安全性情報</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094071-00</guid>
+      <dc:title>医薬品安全性情報</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>9</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-23</dcterms:issued>
+    </item>
+    <item>
+      <title>動向レビュー：Linked Dataの動向</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095814-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 動向レビュー：Linked Dataの動向</li>
+<li>責任表示： 武田英明,</li>
+</ul>]]>
+</description>
+      <author>武田英明,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095814-00</guid>
+      <dc:title>動向レビュー：Linked Dataの動向</dc:title>
+      <dc:creator>武田英明</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-20</dcterms:issued>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>茨城県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000034128-00</link>
+<description>
+<![CDATA[<p>茨城県</p>
+<ul><li>タイトル： 茨城県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000034128-00</guid>
+      <dc:title>茨城県報</dc:title>
+      <dc:publisher>茨城県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-27</dcterms:issued>
+    </item>
+    <item>
+      <title>調査と情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096025-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 調査と情報</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096025-00</guid>
+      <dc:title>調査と情報</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-15</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>日本の当面する外交防衛分野の諸課題 : 第177回国会（常会）以降の主要な論点</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097491-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 日本の当面する外交防衛分野の諸課題 : 第177回国会（常会）以降の主要な論点</li>
+<li>責任表示： 外交防衛調査室・課,</li>
+</ul>]]>
+</description>
+      <author>外交防衛調査室・課,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097491-00</guid>
+      <dc:title>日本の当面する外交防衛分野の諸課題 : 第177回国会（常会）以降の主要な論点</dc:title>
+      <dc:creator>外交防衛調査室・課</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-06-16</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+  </channel>
+</rss>

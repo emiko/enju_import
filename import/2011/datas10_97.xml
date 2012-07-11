@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2011-10-01 2011-10-30 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2011-10-01 mediatype=1 cnt=500 until=2011-10-30 </description>
+    <language>ja</language>
+    <openSearch:totalResults>103</openSearch:totalResults>
+    <openSearch:startIndex>98</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>島根県における戸別所得補償と集落営農</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11280981-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 島根県における戸別所得補償と集落営農</li>
+<li>タイトル（読み）： シマネケン ニ オケル コベツ ショトク ホショウ ト シュウラク エイノウ</li>
+<li>責任表示： 中野 真里,</li>
+<li>シリーズ名： 特集 農業者直接所得補償制度の評価と課題</li>
+<li>シリーズ名（読み）： トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</li>
+</ul>]]>
+</description>
+      <author>中野 真里,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11280981-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>島根県における戸別所得補償と集落営農</dc:title>
+      <dcndl:titleTranscription>シマネケン ニ オケル コベツ ショトク ホショウ ト シュウラク エイノウ</dcndl:titleTranscription>
+      <dc:creator>中野 真里</dc:creator>
+      <dcndl:seriesTitle>特集 農業者直接所得補償制度の評価と課題</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ ノウギョウシャ チョクセツ ショトク ホショウ セイド ノ ヒョウカ ト カダイ</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>外国の立法 : 立法情報・翻訳・解説</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096051-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 外国の立法 : 立法情報・翻訳・解説</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096051-00</guid>
+      <dc:title>外国の立法 : 立法情報・翻訳・解説</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>本屋にない本 『文化財たちの「復興」 博物館がみた新潟県中越沖地震 平成22年度夏季特別展』[柏崎市立博物館、柏崎ふるさと人物館刊]</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11281093-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 本屋にない本 『文化財たちの「復興」 博物館がみた新潟県中越沖地震 平成22年度夏季特別展』[柏崎市立博物館、柏崎ふるさと人物館刊]</li>
+<li>タイトル（読み）： ホンヤ ニ ナイ ホン ブンカザイ タチ ノ フッコウ ハクブツカン ガ ミタ ニイガタケン チュウエツオキ ジシン ヘイセイ 22ネンド カキ トクベツテン カシワザキ シリツ ハクブツカン カシワザキ フルサト ジンブツカンカン</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11281093-00</guid>
+      <pubDate>Fri, 28 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>本屋にない本 『文化財たちの「復興」 博物館がみた新潟県中越沖地震 平成22年度夏季特別展』[柏崎市立博物館、柏崎ふるさと人物館刊]</dc:title>
+      <dcndl:titleTranscription>ホンヤ ニ ナイ ホン ブンカザイ タチ ノ フッコウ ハクブツカン ガ ミタ ニイガタケン チュウエツオキ ジシン ヘイセイ 22ネンド カキ トクベツテン カシワザキ シリツ ハクブツカン カシワザキ フルサト ジンブツカンカン</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:description>記事種別: 書評</dcterms:description>
+    </item>
+    <item>
+      <title>国リハニュース : 国立障害者リハビリテーションセンター広報誌</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095329-00</link>
+<description>
+<![CDATA[<p>平成23年,厚生労働省</p>
+<ul><li>タイトル： 国リハニュース : 国立障害者リハビリテーションセンター広報誌</li>
+<li>責任表示： 国立障害者リハビリテーションセンター管理部企画課,</li>
+</ul>]]>
+</description>
+      <author>国立障害者リハビリテーションセンター管理部企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095329-00</guid>
+      <dc:title>国リハニュース : 国立障害者リハビリテーションセンター広報誌</dc:title>
+      <dc:creator>国立障害者リハビリテーションセンター管理部企画課</dc:creator>
+      <dcndl:volume>平成23年</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+    </item>
+    <item>
+      <title>連携事業の成果の報告にあたって</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095725-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 連携事業の成果の報告にあたって</li>
+<li>責任表示： 矢口克也,</li>
+</ul>]]>
+</description>
+      <author>矢口克也,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095725-00</guid>
+      <dc:title>連携事業の成果の報告にあたって</dc:title>
+      <dc:creator>矢口克也</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>首都直下地震と首都機能をめぐる課題</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097950-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 首都直下地震と首都機能をめぐる課題</li>
+<li>責任表示： 山口広文,</li>
+</ul>]]>
+</description>
+      <author>山口広文,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097950-00</guid>
+      <dc:title>首都直下地震と首都機能をめぐる課題</dc:title>
+      <dc:creator>山口広文</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-10-04</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+  </channel>
+</rss>

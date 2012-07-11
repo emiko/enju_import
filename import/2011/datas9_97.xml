@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2011-09-01 2011-09-30 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2011-09-01 mediatype=1 cnt=500 until=2011-09-30 </description>
+    <language>ja</language>
+    <openSearch:totalResults>124</openSearch:totalResults>
+    <openSearch:startIndex>98</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000048986-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000048986-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-30</dcterms:issued>
+    </item>
+    <item>
+      <title>感染症週報 : 感染症発生動向調査</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094721-00</link>
+<description>
+<![CDATA[<p>13,厚生労働省</p>
+<ul><li>タイトル： 感染症週報 : 感染症発生動向調査</li>
+<li>責任表示： 国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</li>
+</ul>]]>
+</description>
+      <author>国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094721-00</guid>
+      <dc:title>感染症週報 : 感染症発生動向調査</dc:title>
+      <dc:creator>国立感染症研究所</dc:creator>
+      <dc:creator>厚生労働省健康局結核感染症課</dc:creator>
+      <dc:creator>厚生労働省大臣官房統計情報部</dc:creator>
+      <dcndl:volume>13</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-09</dcterms:issued>
+    </item>
+    <item>
+      <title>EUにおける参加民主主義の進展 : EU市民発案に関する規則</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097537-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： EUにおける参加民主主義の進展 : EU市民発案に関する規則</li>
+<li>責任表示： 矢部明宏,</li>
+</ul>]]>
+</description>
+      <author>矢部明宏,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097537-00</guid>
+      <dc:title>EUにおける参加民主主義の進展 : EU市民発案に関する規則</dc:title>
+      <dc:creator>矢部明宏</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>表紙・裏表紙</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097702-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 表紙・裏表紙</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097702-00</guid>
+      <dc:title>表紙・裏表紙</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-15</dcterms:issued>
+      <dcterms:isPartOf>18849997</dcterms:isPartOf>
+      <dcterms:isPartOf>03853306</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>被災中小企業の復旧・復興支援策</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11227307-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 被災中小企業の復旧・復興支援策</li>
+<li>タイトル（読み）： ヒサイ チュウショウ キギョウ ノ フッキュウ フッコウ シエンサク</li>
+<li>責任表示： 岡田 悟,</li>
+</ul>]]>
+</description>
+      <author>岡田 悟,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11227307-00</guid>
+      <pubDate>Fri, 16 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>被災中小企業の復旧・復興支援策</dc:title>
+      <dcndl:titleTranscription>ヒサイ チュウショウ キギョウ ノ フッキュウ フッコウ シエンサク</dcndl:titleTranscription>
+      <dc:creator>岡田 悟</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-08</dcterms:issued>
+      <dcterms:isPartOf>13493019</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>医薬品安全性情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095361-00</link>
+<description>
+<![CDATA[<p>9,厚生労働省</p>
+<ul><li>タイトル： 医薬品安全性情報</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095361-00</guid>
+      <dc:title>医薬品安全性情報</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>9</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-15</dcterms:issued>
+    </item>
+    <item>
+      <title>動向レビュー：「エンベディッド・ライブラリアン」 : 図書館サービスモデルの米国における動向</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097745-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 動向レビュー：「エンベディッド・ライブラリアン」 : 図書館サービスモデルの米国における動向</li>
+<li>責任表示： 鎌田均,</li>
+</ul>]]>
+</description>
+      <author>鎌田均,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097745-00</guid>
+      <dc:title>動向レビュー：「エンベディッド・ライブラリアン」 : 図書館サービスモデルの米国における動向</dc:title>
+      <dc:creator>鎌田均</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-20</dcterms:issued>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>各加盟国が欧州委員会の実施権限の行使を統制する仕組みに関する規定及び一般原則を定める2011年2月16日の欧州議会及び理事会規則(EU) No 182/2011(抄)</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11234665-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 各加盟国が欧州委員会の実施権限の行使を統制する仕組みに関する規定及び一般原則を定める2011年2月16日の欧州議会及び理事会規則(EU) No 182/2011(抄)</li>
+<li>タイトル（読み）： カク カメイコク ガ オウシュウ イインカイ ノ ジッシ ケンゲン ノ コウシ オ トウセイ スル シクミ ニ カンスル キテイ オヨビ イッパン ゲンソク オ サダメル 2011ネン 2ガツ 16ニチ ノ オウシュウ ギカイ オヨビ リジカイ キソク EU No 182 2011 ショウ</li>
+<li>責任表示： 植月 献二 訳,</li>
+<li>シリーズ名： リスボン条約後のコミトロジー手続--欧州委員会の実施権限の行使を統制する仕組み</li>
+<li>シリーズ名（読み）： リスボン ジョウヤク ゴ ノ コミトロジー テツズキ オウシュウ イインカイ ノ ジッシ ケンゲン ノ コウシ オ トウセイ スル シクミ</li>
+</ul>]]>
+</description>
+      <author>植月 献二 訳,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11234665-00</guid>
+      <pubDate>Thu, 22 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>各加盟国が欧州委員会の実施権限の行使を統制する仕組みに関する規定及び一般原則を定める2011年2月16日の欧州議会及び理事会規則(EU) No 182/2011(抄)</dc:title>
+      <dcndl:titleTranscription>カク カメイコク ガ オウシュウ イインカイ ノ ジッシ ケンゲン ノ コウシ オ トウセイ スル シクミ ニ カンスル キテイ オヨビ イッパン ゲンソク オ サダメル 2011ネン 2ガツ 16ニチ ノ オウシュウ ギカイ オヨビ リジカイ キソク EU No 182 2011 ショウ</dcndl:titleTranscription>
+      <dc:creator>植月 献二 訳</dc:creator>
+      <dcndl:seriesTitle>リスボン条約後のコミトロジー手続--欧州委員会の実施権限の行使を統制する仕組み</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>リスボン ジョウヤク ゴ ノ コミトロジー テツズキ オウシュウ イインカイ ノ ジッシ ケンゲン ノ コウシ オ トウセイ スル シクミ</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09</dcterms:issued>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dcterms:description>記事種別: 翻訳</dcterms:description>
+    </item>
+    <item>
+      <title>本屋にない本 『窓と扉--窓と扉の向こうにある平和と幸福のために』[富田俊彦、平井良法著]</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11247670-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 本屋にない本 『窓と扉--窓と扉の向こうにある平和と幸福のために』[富田俊彦、平井良法著]</li>
+<li>タイトル（読み）： ホンヤ ニ ナイ ホン マド ト トビラ マド ト トビラ ノ ムコウニ アル ヘイワ ト コウフク ノ タメニ トミタ トシヒコ ヒライ ヨシノリ チョ</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11247670-00</guid>
+      <pubDate>Fri, 07 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>本屋にない本 『窓と扉--窓と扉の向こうにある平和と幸福のために』[富田俊彦、平井良法著]</dc:title>
+      <dcndl:titleTranscription>ホンヤ ニ ナイ ホン マド ト トビラ マド ト トビラ ノ ムコウニ アル ヘイワ ト コウフク ノ タメニ トミタ トシヒコ ヒライ ヨシノリ チョ</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:description>記事種別: 書評</dcterms:description>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000057627-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000057627-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-01</dcterms:issued>
+    </item>
+    <item>
+      <title>埼玉県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000063163-00</link>
+<description>
+<![CDATA[<p>埼玉県</p>
+<ul><li>タイトル： 埼玉県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000063163-00</guid>
+      <dc:title>埼玉県報</dc:title>
+      <dc:publisher>埼玉県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-27</dcterms:issued>
+    </item>
+    <item>
+      <title>ドイツの連帯付加税</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094015-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： ドイツの連帯付加税</li>
+<li>責任表示： 尾崎乾介,</li>
+</ul>]]>
+</description>
+      <author>尾崎乾介,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094015-00</guid>
+      <dc:title>ドイツの連帯付加税</dc:title>
+      <dc:creator>尾崎乾介</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>韓国における「取調べの可視化」</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097986-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 韓国における「取調べの可視化」</li>
+<li>責任表示： 藤原夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原夏人,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097986-00</guid>
+      <dc:title>韓国における「取調べの可視化」</dc:title>
+      <dc:creator>藤原夏人</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>被災者の生活支援と雇用対策の現状と課題</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11247644-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 被災者の生活支援と雇用対策の現状と課題</li>
+<li>タイトル（読み）： ヒサイシャ ノ セイカツ シエン ト コヨウ タイサク ノ ゲンジョウ ト カダイ</li>
+<li>責任表示： 中川 秀空,</li>
+<li>シリーズ名： 特集 東日本大震災</li>
+<li>シリーズ名（読み）： トクシュウ ヒガシニホン ダイ シンサイ</li>
+</ul>]]>
+</description>
+      <author>中川 秀空,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11247644-00</guid>
+      <pubDate>Fri, 07 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>被災者の生活支援と雇用対策の現状と課題</dc:title>
+      <dcndl:titleTranscription>ヒサイシャ ノ セイカツ シエン ト コヨウ タイサク ノ ゲンジョウ ト カダイ</dcndl:titleTranscription>
+      <dc:creator>中川 秀空</dc:creator>
+      <dcndl:seriesTitle>特集 東日本大震災</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ ヒガシニホン ダイ シンサイ</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>感染症週報 : 感染症発生動向調査</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094847-00</link>
+<description>
+<![CDATA[<p>13,厚生労働省</p>
+<ul><li>タイトル： 感染症週報 : 感染症発生動向調査</li>
+<li>責任表示： 国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</li>
+</ul>]]>
+</description>
+      <author>国立感染症研究所,厚生労働省健康局結核感染症課,厚生労働省大臣官房統計情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094847-00</guid>
+      <dc:title>感染症週報 : 感染症発生動向調査</dc:title>
+      <dc:creator>国立感染症研究所</dc:creator>
+      <dc:creator>厚生労働省健康局結核感染症課</dc:creator>
+      <dc:creator>厚生労働省大臣官房統計情報部</dc:creator>
+      <dcndl:volume>13</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:issued>
+    </item>
+    <item>
+      <title>行歯会だより</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094850-00</link>
+<description>
+<![CDATA[<p>2011年,厚生労働省</p>
+<ul><li>タイトル： 行歯会だより</li>
+<li>責任表示： 国立保健医療科学院,全国行政歯科技術職連絡会,</li>
+</ul>]]>
+</description>
+      <author>国立保健医療科学院,全国行政歯科技術職連絡会,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094850-00</guid>
+      <dc:title>行歯会だより</dc:title>
+      <dc:creator>国立保健医療科学院</dc:creator>
+      <dc:creator>全国行政歯科技術職連絡会</dc:creator>
+      <dcndl:volume>2011年</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09</dcterms:issued>
+    </item>
+    <item>
+      <title>東日本大震災と復興まちづくり : 津波防災の観点から</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095738-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 東日本大震災と復興まちづくり : 津波防災の観点から</li>
+<li>責任表示： 古川浩太郎,井家展明,長末亮,</li>
+</ul>]]>
+</description>
+      <author>古川浩太郎,井家展明,長末亮,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095738-00</guid>
+      <dc:title>東日本大震災と復興まちづくり : 津波防災の観点から</dc:title>
+      <dc:creator>古川浩太郎</dc:creator>
+      <dc:creator>井家展明</dc:creator>
+      <dc:creator>長末亮</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-22</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>アメリカの原子力政策の動向--ユッカマウンテン凍結後のバックエンド政策</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11234748-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： アメリカの原子力政策の動向--ユッカマウンテン凍結後のバックエンド政策</li>
+<li>タイトル（読み）： アメリカ ノ ゲンシリョク セイサク ノ ドウコウ ユッカマウンテン トウケツ ゴ ノ バックエンド セイサク</li>
+<li>責任表示： 井樋 三枝子,</li>
+</ul>]]>
+</description>
+      <author>井樋 三枝子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11234748-00</guid>
+      <pubDate>Thu, 22 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>アメリカの原子力政策の動向--ユッカマウンテン凍結後のバックエンド政策</dc:title>
+      <dcndl:titleTranscription>アメリカ ノ ゲンシリョク セイサク ノ ドウコウ ユッカマウンテン トウケツ ゴ ノ バックエンド セイサク</dcndl:titleTranscription>
+      <dc:creator>井樋 三枝子</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09</dcterms:issued>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>レファレンスツール紹介(24)ラオスについて調べる</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11244923-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： レファレンスツール紹介(24)ラオスについて調べる</li>
+<li>タイトル（読み）： レファレンスツール ショウカイ 24 ラオス ニ ツイテ シラベル</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11244923-00</guid>
+      <pubDate>Fri, 30 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>レファレンスツール紹介(24)ラオスについて調べる</dc:title>
+      <dcndl:titleTranscription>レファレンスツール ショウカイ 24 ラオス ニ ツイテ シラベル</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09</dcterms:issued>
+      <dcterms:isPartOf>13482149</dcterms:isPartOf>
+      <dcterms:isPartOf>13482149</dcterms:isPartOf>
+      <dcterms:description>記事種別: 文献目録</dcterms:description>
+    </item>
+    <item>
+      <title>歴史的音源の提供</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11247544-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 歴史的音源の提供</li>
+<li>タイトル（読み）： レキシテキ オンゲン ノ テイキョウ</li>
+<li>シリーズ名： 音の歴史を残す</li>
+<li>シリーズ名（読み）： オト ノ レキシ オ ノコス</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11247544-00</guid>
+      <pubDate>Fri, 07 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>歴史的音源の提供</dc:title>
+      <dcndl:titleTranscription>レキシテキ オンゲン ノ テイキョウ</dcndl:titleTranscription>
+      <dcndl:seriesTitle>音の歴史を残す</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>オト ノ レキシ オ ノコス</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>[国立国会図書館]館内サービスが変わります</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11247618-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： [国立国会図書館]館内サービスが変わります</li>
+<li>タイトル（読み）： コクリツ コッカイ トショカン カン ナイ サービス ガ カワリマス</li>
+</ul>]]>
+</description>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11247618-00</guid>
+      <pubDate>Fri, 07 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>[国立国会図書館]館内サービスが変わります</dc:title>
+      <dcndl:titleTranscription>コクリツ コッカイ トショカン カン ナイ サービス ガ カワリマス</dcndl:titleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09</dcterms:issued>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>ドイツの連帯付加税</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11247690-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： ドイツの連帯付加税</li>
+<li>タイトル（読み）： ドイツ ノ レンタイ フカゼイ</li>
+<li>責任表示： 尾崎 乾介,</li>
+<li>シリーズ名： 特集 東日本大震災</li>
+<li>シリーズ名（読み）： トクシュウ ヒガシニホン ダイ シンサイ</li>
+</ul>]]>
+</description>
+      <author>尾崎 乾介,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11247690-00</guid>
+      <pubDate>Fri, 07 Oct 2011 09:00:00 +0900</pubDate>
+      <dc:title>ドイツの連帯付加税</dc:title>
+      <dcndl:titleTranscription>ドイツ ノ レンタイ フカゼイ</dcndl:titleTranscription>
+      <dc:creator>尾崎 乾介</dc:creator>
+      <dcndl:seriesTitle>特集 東日本大震災</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ ヒガシニホン ダイ シンサイ</dcndl:seriesTitleTranscription>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09</dcterms:issued>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>医薬品安全性情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000093892-00</link>
+<description>
+<![CDATA[<p>9,厚生労働省</p>
+<ul><li>タイトル： 医薬品安全性情報</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000093892-00</guid>
+      <dc:title>医薬品安全性情報</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>9</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-29</dcterms:issued>
+    </item>
+    <item>
+      <title>リスボン条約後のコミトロジー手続 : 欧州委員会の実施権限の行使を統制する仕組み</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096686-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： リスボン条約後のコミトロジー手続 : 欧州委員会の実施権限の行使を統制する仕組み</li>
+<li>責任表示： 植月献二,</li>
+</ul>]]>
+</description>
+      <author>植月献二,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096686-00</guid>
+      <dc:title>リスボン条約後のコミトロジー手続 : 欧州委員会の実施権限の行使を統制する仕組み</dc:title>
+      <dc:creator>植月献二</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000008086-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000008086-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-12</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000019509-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000019509-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-02</dcterms:issued>
+    </item>
+    <item>
+      <title>大阪府公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000039169-00</link>
+<description>
+<![CDATA[<p>大阪府</p>
+<ul><li>タイトル： 大阪府公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000039169-00</guid>
+      <dc:title>大阪府公報</dc:title>
+      <dc:publisher>大阪府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-09-07</dcterms:issued>
+    </item>
+  </channel>
+</rss>

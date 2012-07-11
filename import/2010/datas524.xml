@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2010-05-24 2010-05-24 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2010-05-24 mediatype=1 cnt=500 until=2010-05-24 </description>
+    <language>ja</language>
+    <openSearch:totalResults>17</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>宮崎県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000007377-00</link>
+<description>
+<![CDATA[<p>平成22年,宮崎県</p>
+<ul><li>タイトル： 宮崎県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000007377-00</guid>
+      <dc:title>宮崎県公報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>宮崎県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>山梨県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000078136-00</link>
+<description>
+<![CDATA[<p>山梨県</p>
+<ul><li>タイトル： 山梨県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000078136-00</guid>
+      <dc:title>山梨県公報</dc:title>
+      <dc:publisher>山梨県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>北海道の気象</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000076693-00</link>
+<description>
+<![CDATA[<p>平成22年,気象庁</p>
+<ul><li>タイトル： 北海道の気象</li>
+<li>責任表示： 札幌管区気象台,</li>
+</ul>]]>
+</description>
+      <author>札幌管区気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000076693-00</guid>
+      <dc:title>北海道の気象</dc:title>
+      <dc:creator>札幌管区気象台</dc:creator>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>全産業活動指数、全産業供給指数</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000013802-00</link>
+<description>
+<![CDATA[<p>平成22年,経済産業省</p>
+<ul><li>タイトル： 全産業活動指数、全産業供給指数</li>
+<li>責任表示： 経済産業省経済産業政策局調査統計部,</li>
+</ul>]]>
+</description>
+      <author>経済産業省経済産業政策局調査統計部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000013802-00</guid>
+      <dc:title>全産業活動指数、全産業供給指数</dc:title>
+      <dc:creator>経済産業省経済産業政策局調査統計部</dc:creator>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>経済産業省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+      <dcterms:description>http://warp.da.ndl.go.jp/info:ndljp/pid/1052065/www.meti.go.jp/statistics/tyo/zenkatu/result-2/pdf/hv37913j.pdf</dcterms:description>
+    </item>
+    <item>
+      <title>北海道金融月報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000005506-00</link>
+<description>
+<![CDATA[<p>平成22年3月分,財務省</p>
+<ul><li>タイトル： 北海道金融月報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000005506-00</guid>
+      <dc:title>北海道金融月報</dc:title>
+      <dcndl:volume>平成22年3月分</dcndl:volume>
+      <dc:publisher>財務省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+      <dcterms:description>http://warp.da.ndl.go.jp/info:ndljp/pid/1022127/www.mof-hokkaido.go.jp/toukei/kinyuugeppou/1003/geppou_3.pdf</dcterms:description>
+      <dcterms:description>http://warp.da.ndl.go.jp/info:ndljp/pid/1022127/www.mof-hokkaido.go.jp/toukei/kinyuugeppou/1003/geppou_2.pdf</dcterms:description>
+      <dcterms:description>http://warp.da.ndl.go.jp/info:ndljp/pid/1022127/www.mof-hokkaido.go.jp/toukei/kinyuugeppou/1003/geppou_1.pdf</dcterms:description>
+    </item>
+    <item>
+      <title>宮崎県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000076852-00</link>
+<description>
+<![CDATA[<p>宮崎県</p>
+<ul><li>タイトル： 宮崎県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000076852-00</guid>
+      <dc:title>宮崎県公報</dc:title>
+      <dc:publisher>宮崎県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>青森県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000071085-00</link>
+<description>
+<![CDATA[<p>青森県</p>
+<ul><li>タイトル： 青森県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000071085-00</guid>
+      <dc:title>青森県報</dc:title>
+      <dc:publisher>青森県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>月例経済報告</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000035354-00</link>
+<description>
+<![CDATA[<p>平成22年5月,内閣府</p>
+<ul><li>タイトル： 月例経済報告</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000035354-00</guid>
+      <dc:title>月例経済報告</dc:title>
+      <dcndl:volume>平成22年5月</dcndl:volume>
+      <dc:publisher>内閣府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>月例経済報告主要経済指標</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000046684-00</link>
+<description>
+<![CDATA[<p>平成22年5月,内閣府</p>
+<ul><li>タイトル： 月例経済報告主要経済指標</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000046684-00</guid>
+      <dc:title>月例経済報告主要経済指標</dc:title>
+      <dcndl:volume>平成22年5月</dcndl:volume>
+      <dc:publisher>内閣府</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>福岡県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000032707-00</link>
+<description>
+<![CDATA[<p>福岡県</p>
+<ul><li>タイトル： 福岡県公報</li>
+<li>責任表示： 福岡県総務部行政経営企画課,</li>
+</ul>]]>
+</description>
+      <author>福岡県総務部行政経営企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000032707-00</guid>
+      <dc:title>福岡県公報</dc:title>
+      <dc:creator>福岡県総務部行政経営企画課</dc:creator>
+      <dc:publisher>福岡県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>長野県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000073110-00</link>
+<description>
+<![CDATA[<p>長野県</p>
+<ul><li>タイトル： 長野県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000073110-00</guid>
+      <dc:title>長野県報</dc:title>
+      <dc:publisher>長野県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>東京都公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000007310-00</link>
+<description>
+<![CDATA[<p>東京都</p>
+<ul><li>タイトル： 東京都公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000007310-00</guid>
+      <dc:title>東京都公報</dc:title>
+      <dc:publisher>東京都</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>茨城県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000034160-00</link>
+<description>
+<![CDATA[<p>茨城県</p>
+<ul><li>タイトル： 茨城県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000034160-00</guid>
+      <dc:title>茨城県報</dc:title>
+      <dc:publisher>茨城県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>福岡県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000062367-00</link>
+<description>
+<![CDATA[<p>福岡県</p>
+<ul><li>タイトル： 福岡県公報</li>
+<li>責任表示： 福岡県総務部行政経営企画課,</li>
+</ul>]]>
+</description>
+      <author>福岡県総務部行政経営企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000062367-00</guid>
+      <dc:title>福岡県公報</dc:title>
+      <dc:creator>福岡県総務部行政経営企画課</dc:creator>
+      <dc:publisher>福岡県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>山口県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000062598-00</link>
+<description>
+<![CDATA[<p>平成22年,山口県</p>
+<ul><li>タイトル： 山口県報</li>
+<li>責任表示： 山口県,</li>
+</ul>]]>
+</description>
+      <author>山口県,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000062598-00</guid>
+      <dc:title>山口県報</dc:title>
+      <dc:creator>山口県</dc:creator>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>山口県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>岐阜県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000088792-00</link>
+<description>
+<![CDATA[<p>岐阜県</p>
+<ul><li>タイトル： 岐阜県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000088792-00</guid>
+      <dc:title>岐阜県公報</dc:title>
+      <dc:publisher>岐阜県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+    <item>
+      <title>石川県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000086983-00</link>
+<description>
+<![CDATA[<p>平成22年,石川県</p>
+<ul><li>タイトル： 石川県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000086983-00</guid>
+      <dc:title>石川県公報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>石川県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-05-24</dcterms:issued>
+    </item>
+  </channel>
+</rss>

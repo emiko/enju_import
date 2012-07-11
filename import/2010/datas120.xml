@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2010-01-20 2010-01-20 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2010-01-20 mediatype=1 cnt=500 until=2010-01-20 </description>
+    <language>ja</language>
+    <openSearch:totalResults>13</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>福岡県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000013409-00</link>
+<description>
+<![CDATA[<p>福岡県</p>
+<ul><li>タイトル： 福岡県公報</li>
+<li>責任表示： 福岡県総務部行政経営企画課,</li>
+</ul>]]>
+</description>
+      <author>福岡県総務部行政経営企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000013409-00</guid>
+      <dc:title>福岡県公報</dc:title>
+      <dc:creator>福岡県総務部行政経営企画課</dc:creator>
+      <dc:publisher>福岡県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-20</dcterms:issued>
+    </item>
+    <item>
+      <title>徳島県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000031768-00</link>
+<description>
+<![CDATA[<p>徳島県</p>
+<ul><li>タイトル： 徳島県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000031768-00</guid>
+      <dc:title>徳島県報</dc:title>
+      <dc:publisher>徳島県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-20</dcterms:issued>
+    </item>
+    <item>
+      <title>岐阜県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000077756-00</link>
+<description>
+<![CDATA[<p>岐阜県</p>
+<ul><li>タイトル： 岐阜県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000077756-00</guid>
+      <dc:title>岐阜県公報</dc:title>
+      <dc:publisher>岐阜県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-20</dcterms:issued>
+    </item>
+    <item>
+      <title>オゾン層と紫外線</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000077076-00</link>
+<description>
+<![CDATA[<p>2009年,気象庁</p>
+<ul><li>タイトル： オゾン層と紫外線</li>
+<li>責任表示： 気象庁オゾン層情報センター,</li>
+</ul>]]>
+</description>
+      <author>気象庁オゾン層情報センター,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000077076-00</guid>
+      <dc:title>オゾン層と紫外線</dc:title>
+      <dc:creator>気象庁オゾン層情報センター</dc:creator>
+      <dcndl:volume>2009年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-20</dcterms:issued>
+    </item>
+    <item>
+      <title>福岡県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000011805-00</link>
+<description>
+<![CDATA[<p>福岡県</p>
+<ul><li>タイトル： 福岡県公報</li>
+<li>責任表示： 福岡県総務部行政経営企画課,</li>
+</ul>]]>
+</description>
+      <author>福岡県総務部行政経営企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000011805-00</guid>
+      <dc:title>福岡県公報</dc:title>
+      <dc:creator>福岡県総務部行政経営企画課</dc:creator>
+      <dc:publisher>福岡県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-20</dcterms:issued>
+    </item>
+    <item>
+      <title>第3次産業活動指数</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096625-00</link>
+<description>
+<![CDATA[<p>平成21年,経済産業省</p>
+<ul><li>タイトル： 第3次産業活動指数</li>
+<li>責任表示： 経済産業省経済産業政策局調査統計部,</li>
+</ul>]]>
+</description>
+      <author>経済産業省経済産業政策局調査統計部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096625-00</guid>
+      <dc:title>第3次産業活動指数</dc:title>
+      <dc:creator>経済産業省経済産業政策局調査統計部</dc:creator>
+      <dcndl:volume>平成21年</dcndl:volume>
+      <dc:publisher>経済産業省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-20</dcterms:issued>
+    </item>
+    <item>
+      <title>2009年（平成21年）八重山地方の天候のまとめ</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000026405-00</link>
+<description>
+<![CDATA[<p>気象庁</p>
+<ul><li>タイトル： 2009年（平成21年）八重山地方の天候のまとめ</li>
+<li>責任表示： 石垣島地方気象台,</li>
+</ul>]]>
+</description>
+      <author>石垣島地方気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000026405-00</guid>
+      <dc:title>2009年（平成21年）八重山地方の天候のまとめ</dc:title>
+      <dc:creator>石垣島地方気象台</dc:creator>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-20</dcterms:issued>
+    </item>
+    <item>
+      <title>東京都公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000068062-00</link>
+<description>
+<![CDATA[<p>東京都</p>
+<ul><li>タイトル： 東京都公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000068062-00</guid>
+      <dc:title>東京都公報</dc:title>
+      <dc:publisher>東京都</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-20</dcterms:issued>
+    </item>
+    <item>
+      <title>滋賀県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000021536-00</link>
+<description>
+<![CDATA[<p>滋賀県</p>
+<ul><li>タイトル： 滋賀県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000021536-00</guid>
+      <dc:title>滋賀県公報</dc:title>
+      <dc:publisher>滋賀県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-20</dcterms:issued>
+    </item>
+    <item>
+      <title>栃木県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000043054-00</link>
+<description>
+<![CDATA[<p>平成22年,栃木県</p>
+<ul><li>タイトル： 栃木県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000043054-00</guid>
+      <dc:title>栃木県公報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>栃木県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-20</dcterms:issued>
+    </item>
+    <item>
+      <title>青森県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000083311-00</link>
+<description>
+<![CDATA[<p>青森県</p>
+<ul><li>タイトル： 青森県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000083311-00</guid>
+      <dc:title>青森県報</dc:title>
+      <dc:publisher>青森県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-20</dcterms:issued>
+    </item>
+    <item>
+      <title>栃木県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000028096-00</link>
+<description>
+<![CDATA[<p>平成22年,栃木県</p>
+<ul><li>タイトル： 栃木県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000028096-00</guid>
+      <dc:title>栃木県公報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>栃木県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-20</dcterms:issued>
+    </item>
+    <item>
+      <title>国立国会図書館月報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000051552-00</link>
+<description>
+<![CDATA[<p>2010年,国立国会図書館</p>
+<ul><li>タイトル： 国立国会図書館月報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000051552-00</guid>
+      <dc:title>国立国会図書館月報</dc:title>
+      <dcndl:volume>2010年</dcndl:volume>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-20</dcterms:issued>
+      <dcterms:isPartOf>13493027</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2010-03-24 2010-03-24 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2010-03-24 mediatype=1 cnt=500 until=2010-03-24 </description>
+    <language>ja</language>
+    <openSearch:totalResults>19</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>徳島県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000031946-00</link>
+<description>
+<![CDATA[<p>徳島県</p>
+<ul><li>タイトル： 徳島県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000031946-00</guid>
+      <dc:title>徳島県報</dc:title>
+      <dc:publisher>徳島県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>福岡県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000033962-00</link>
+<description>
+<![CDATA[<p>福岡県</p>
+<ul><li>タイトル： 福岡県公報</li>
+<li>責任表示： 福岡県総務部行政経営企画課,</li>
+</ul>]]>
+</description>
+      <author>福岡県総務部行政経営企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000033962-00</guid>
+      <dc:title>福岡県公報</dc:title>
+      <dc:creator>福岡県総務部行政経営企画課</dc:creator>
+      <dc:publisher>福岡県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>滋賀県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000088740-00</link>
+<description>
+<![CDATA[<p>滋賀県</p>
+<ul><li>タイトル： 滋賀県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000088740-00</guid>
+      <dc:title>滋賀県公報</dc:title>
+      <dc:publisher>滋賀県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>徳島県農業気象速報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000006657-00</link>
+<description>
+<![CDATA[<p>30,気象庁</p>
+<ul><li>タイトル： 徳島県農業気象速報</li>
+<li>責任表示： 徳島県,徳島地方気象台,</li>
+</ul>]]>
+</description>
+      <author>徳島県,徳島地方気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000006657-00</guid>
+      <dc:title>徳島県農業気象速報</dc:title>
+      <dc:creator>徳島県</dc:creator>
+      <dc:creator>徳島地方気象台</dc:creator>
+      <dcndl:volume>30</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>北海道地方海氷情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000026479-00</link>
+<description>
+<![CDATA[<p>気象庁</p>
+<ul><li>タイトル： 北海道地方海氷情報</li>
+<li>責任表示： 札幌管区気象台,函館海洋気象台,</li>
+</ul>]]>
+</description>
+      <author>札幌管区気象台,函館海洋気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000026479-00</guid>
+      <dc:title>北海道地方海氷情報</dc:title>
+      <dc:creator>札幌管区気象台</dc:creator>
+      <dc:creator>函館海洋気象台</dc:creator>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>青森県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000053712-00</link>
+<description>
+<![CDATA[<p>青森県</p>
+<ul><li>タイトル： 青森県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000053712-00</guid>
+      <dc:title>青森県報</dc:title>
+      <dc:publisher>青森県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>滋賀県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000061956-00</link>
+<description>
+<![CDATA[<p>滋賀県</p>
+<ul><li>タイトル： 滋賀県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000061956-00</guid>
+      <dc:title>滋賀県公報</dc:title>
+      <dc:publisher>滋賀県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>岡山県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000087875-00</link>
+<description>
+<![CDATA[<p>平成22年,岡山県</p>
+<ul><li>タイトル： 岡山県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000087875-00</guid>
+      <dc:title>岡山県公報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>岡山県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>栃木県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000020150-00</link>
+<description>
+<![CDATA[<p>平成22年,栃木県</p>
+<ul><li>タイトル： 栃木県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000020150-00</guid>
+      <dc:title>栃木県公報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>栃木県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>気象速報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000055984-00</link>
+<description>
+<![CDATA[<p>平成22年3月21日～22日,気象庁</p>
+<ul><li>タイトル： 気象速報</li>
+<li>責任表示： 札幌管区気象台,</li>
+<li>各巻タイトル： 低気圧に関する気象速報（暴風、暴風雪、波浪）</li>
+</ul>]]>
+</description>
+      <author>札幌管区気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000055984-00</guid>
+      <dc:title>気象速報</dc:title>
+      <dc:creator>札幌管区気象台</dc:creator>
+      <dcndl:volume>平成22年3月21日～22日</dcndl:volume>
+      <dcndl:volumeTitle>低気圧に関する気象速報（暴風、暴風雪、波浪）</dcndl:volumeTitle>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>大分県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000074155-00</link>
+<description>
+<![CDATA[<p>平成22年,大分県</p>
+<ul><li>タイトル： 大分県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000074155-00</guid>
+      <dc:title>大分県報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>大分県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>滋賀県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000021541-00</link>
+<description>
+<![CDATA[<p>滋賀県</p>
+<ul><li>タイトル： 滋賀県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000021541-00</guid>
+      <dc:title>滋賀県公報</dc:title>
+      <dc:publisher>滋賀県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>三重県の気象・地震概況</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000076057-00</link>
+<description>
+<![CDATA[<p>平成22年,気象庁</p>
+<ul><li>タイトル： 三重県の気象・地震概況</li>
+<li>責任表示： 津地方気象台防災業務課,</li>
+</ul>]]>
+</description>
+      <author>津地方気象台防災業務課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000076057-00</guid>
+      <dc:title>三重県の気象・地震概況</dc:title>
+      <dc:creator>津地方気象台防災業務課</dc:creator>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>食品安全情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095601-00</link>
+<description>
+<![CDATA[<p>2010,厚生労働省</p>
+<ul><li>タイトル： 食品安全情報</li>
+<li>責任表示： 国立医薬品食品衛生研究所安全情報部,</li>
+</ul>]]>
+</description>
+      <author>国立医薬品食品衛生研究所安全情報部,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095601-00</guid>
+      <dc:title>食品安全情報</dc:title>
+      <dc:creator>国立医薬品食品衛生研究所安全情報部</dc:creator>
+      <dcndl:volume>2010</dcndl:volume>
+      <dc:publisher>厚生労働省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>東京都公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000014958-00</link>
+<description>
+<![CDATA[<p>平成22年,東京都</p>
+<ul><li>タイトル： 東京都公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000014958-00</guid>
+      <dc:title>東京都公報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>東京都</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>東京都公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000007293-00</link>
+<description>
+<![CDATA[<p>東京都</p>
+<ul><li>タイトル： 東京都公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000007293-00</guid>
+      <dc:title>東京都公報</dc:title>
+      <dc:publisher>東京都</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>福岡県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000042981-00</link>
+<description>
+<![CDATA[<p>福岡県</p>
+<ul><li>タイトル： 福岡県公報</li>
+<li>責任表示： 福岡県総務部行政経営企画課,</li>
+</ul>]]>
+</description>
+      <author>福岡県総務部行政経営企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000042981-00</guid>
+      <dc:title>福岡県公報</dc:title>
+      <dc:creator>福岡県総務部行政経営企画課</dc:creator>
+      <dc:publisher>福岡県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>大分県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000001212-00</link>
+<description>
+<![CDATA[<p>平成22年,大分県</p>
+<ul><li>タイトル： 大分県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000001212-00</guid>
+      <dc:title>大分県報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>大分県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+    <item>
+      <title>東京都公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000060311-00</link>
+<description>
+<![CDATA[<p>平成22年,東京都</p>
+<ul><li>タイトル： 東京都公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000060311-00</guid>
+      <dc:title>東京都公報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>東京都</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-03-24</dcterms:issued>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2011-08-01 2011-08-30 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2011-08-01 mediatype=1 cnt=500 until=2011-08-30 </description>
+    <language>ja</language>
+    <openSearch:totalResults>80</openSearch:totalResults>
+    <openSearch:startIndex>77</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>英国の内閣委員会制度</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000094167-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 英国の内閣委員会制度</li>
+<li>責任表示： 濱野雄太,</li>
+</ul>]]>
+</description>
+      <author>濱野雄太,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000094167-00</guid>
+      <dc:title>英国の内閣委員会制度</dc:title>
+      <dc:creator>濱野雄太</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>平成23年度第2次補正予算と今後の課題</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11187890-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 平成23年度第2次補正予算と今後の課題</li>
+<li>タイトル（読み）： ヘイセイ 23ネンド ダイ2ジ ホセイ ヨサン ト コンゴ ノ カダイ</li>
+<li>責任表示： 松浦 茂,</li>
+</ul>]]>
+</description>
+      <author>松浦 茂,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11187890-00</guid>
+      <pubDate>Fri, 19 Aug 2011 09:00:00 +0900</pubDate>
+      <dc:title>平成23年度第2次補正予算と今後の課題</dc:title>
+      <dcndl:titleTranscription>ヘイセイ 23ネンド ダイ2ジ ホセイ ヨサン ト コンゴ ノ カダイ</dcndl:titleTranscription>
+      <dc:creator>松浦 茂</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08-10</dcterms:issued>
+      <dcterms:isPartOf>13493019</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>日本関係情報 韓国 サハリン韓国人に関して日本の謝罪、賠償等を求める決議</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I11209453-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 日本関係情報 韓国 サハリン韓国人に関して日本の謝罪、賠償等を求める決議</li>
+<li>タイトル（読み）： ニホン カンケイ ジョウホウ カンコク サハリン カンコクジン ニ カンシテ ニホン ノ シャザイ バイショウ トウ オ モトメル ケツギ</li>
+<li>責任表示： 藤原 夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原 夏人,</author>
+      <category>本</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I11209453-00</guid>
+      <pubDate>Fri, 02 Sep 2011 09:00:00 +0900</pubDate>
+      <dc:title>日本関係情報 韓国 サハリン韓国人に関して日本の謝罪、賠償等を求める決議</dc:title>
+      <dcndl:titleTranscription>ニホン カンケイ ジョウホウ カンコク サハリン カンコクジン ニ カンシテ ニホン ノ シャザイ バイショウ トウ オ モトメル ケツギ</dcndl:titleTranscription>
+      <dc:creator>藤原 夏人</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+    </item>
+    <item>
+      <title>地方における課税自主権の拡大に伴う経済的効果</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095659-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 地方における課税自主権の拡大に伴う経済的効果</li>
+<li>責任表示： 深澤映司,</li>
+</ul>]]>
+</description>
+      <author>深澤映司,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095659-00</guid>
+      <dc:title>地方における課税自主権の拡大に伴う経済的効果</dc:title>
+      <dc:creator>深澤映司</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+  </channel>
+</rss>

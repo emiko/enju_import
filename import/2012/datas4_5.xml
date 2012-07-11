@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2012-04-01 2012-04-30 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2012-04-01 mediatype=1 cnt=500 until=2012-04-30 </description>
+    <language>ja</language>
+    <openSearch:totalResults>25</openSearch:totalResults>
+    <openSearch:startIndex>6</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>アメリカ 在日米軍再編・普天間基地移設をめぐる公聴会</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095785-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： アメリカ 在日米軍再編・普天間基地移設をめぐる公聴会</li>
+<li>責任表示： 新田紀子,</li>
+</ul>]]>
+</description>
+      <author>新田紀子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095785-00</guid>
+      <dc:title>アメリカ 在日米軍再編・普天間基地移設をめぐる公聴会</dc:title>
+      <dc:creator>新田紀子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dc:subject>政治/外交・安全保障/防衛・安全保障</dc:subject>
+      <dc:subject>国際</dc:subject>
+    </item>
+    <item>
+      <title>消費税の逆進性とその緩和策 : 消費税をめぐる論点(1)</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023566549-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 消費税の逆進性とその緩和策 : 消費税をめぐる論点(1)</li>
+<li>タイトル（読み）： ショウヒゼイ ノ ギャクシンセイ ト ソノ カンワサク : ショウヒゼイ オ メグル ロンテン(1)</li>
+<li>責任表示： 加藤 慶一,</li>
+</ul>]]>
+</description>
+      <author>加藤 慶一,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023566549-00</guid>
+      <pubDate>Mon, 23 Apr 2012 09:00:00 +0900</pubDate>
+      <dc:title>消費税の逆進性とその緩和策 : 消費税をめぐる論点(1)</dc:title>
+      <dcndl:titleTranscription>ショウヒゼイ ノ ギャクシンセイ ト ソノ カンワサク : ショウヒゼイ オ メグル ロンテン(1)</dcndl:titleTranscription>
+      <dc:creator>加藤 慶一</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04-17</dcterms:issued>
+      <dcterms:isPartOf>13493019</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>消費税に関する議論の概要と背景</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023532436-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 消費税に関する議論の概要と背景</li>
+<li>タイトル（読み）： ショウヒゼイ ニ カンスル ギロン ノ ガイヨウ ト ハイケイ</li>
+<li>責任表示： 加藤 慶一,</li>
+</ul>]]>
+</description>
+      <author>加藤 慶一,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023532436-00</guid>
+      <pubDate>Fri, 06 Apr 2012 09:00:00 +0900</pubDate>
+      <dc:title>消費税に関する議論の概要と背景</dc:title>
+      <dcndl:titleTranscription>ショウヒゼイ ニ カンスル ギロン ノ ガイヨウ ト ハイケイ</dcndl:titleTranscription>
+      <dc:creator>加藤 慶一</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04-03</dcterms:issued>
+      <dcterms:isPartOf>13493019</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>インターネット上の著作権侵害に関する各国の法制度</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096945-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： インターネット上の著作権侵害に関する各国の法制度</li>
+<li>責任表示： 前橋奈保子,</li>
+</ul>]]>
+</description>
+      <author>前橋奈保子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096945-00</guid>
+      <dc:title>インターネット上の著作権侵害に関する各国の法制度</dc:title>
+      <dc:creator>前橋奈保子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04-05</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dc:subject>経済/通商・産業/知的財産権</dc:subject>
+      <dc:subject>社会/教育・科学・文化/著作権</dc:subject>
+      <dc:subject>日本</dc:subject>
+      <dc:subject>イギリス</dc:subject>
+      <dc:subject>ドイツ</dc:subject>
+      <dc:subject>フランス</dc:subject>
+      <dc:subject>アメリカ</dc:subject>
+      <dc:subject>韓国</dc:subject>
+    </item>
+    <item>
+      <title>中国 クリーン生産促進法の改正</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097380-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 中国 クリーン生産促進法の改正</li>
+<li>責任表示： 宮尾恵美,</li>
+</ul>]]>
+</description>
+      <author>宮尾恵美,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097380-00</guid>
+      <dc:title>中国 クリーン生産促進法の改正</dc:title>
+      <dc:creator>宮尾恵美</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dc:subject>経済/税・金融・経済/経済一般</dc:subject>
+      <dc:subject>経済/環境/環境保全・公害</dc:subject>
+      <dc:subject>中国</dc:subject>
+    </item>
+    <item>
+      <title>消費税に関する議論の概要と背景</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096929-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 消費税に関する議論の概要と背景</li>
+<li>責任表示： 加藤慶一,</li>
+</ul>]]>
+</description>
+      <author>加藤慶一,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096929-00</guid>
+      <dc:title>消費税に関する議論の概要と背景</dc:title>
+      <dc:creator>加藤慶一</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04-03</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dc:subject>経済/税・金融・経済/国税</dc:subject>
+      <dc:subject>日本</dc:subject>
+    </item>
+    <item>
+      <title>ロシア 高等教育制度改革</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097658-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： ロシア 高等教育制度改革</li>
+<li>責任表示： 小泉悠,</li>
+</ul>]]>
+</description>
+      <author>小泉悠,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097658-00</guid>
+      <dc:title>ロシア 高等教育制度改革</dc:title>
+      <dc:creator>小泉悠</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dc:subject>社会/教育・科学・文化/学校教育</dc:subject>
+      <dc:subject>ロシア</dc:subject>
+    </item>
+    <item>
+      <title>宇宙政策の司令塔機能をめぐる議論</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097176-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 宇宙政策の司令塔機能をめぐる議論</li>
+<li>責任表示： 榎孝浩,</li>
+</ul>]]>
+</description>
+      <author>榎孝浩,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097176-00</guid>
+      <dc:title>宇宙政策の司令塔機能をめぐる議論</dc:title>
+      <dc:creator>榎孝浩</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04-05</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dc:subject>社会/教育・科学・文化/科学技術</dc:subject>
+      <dc:subject>日本</dc:subject>
+    </item>
+    <item>
+      <title>オーストラリア 議会サービス法等の改正</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097163-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： オーストラリア 議会サービス法等の改正</li>
+<li>責任表示： 矢部明宏,</li>
+</ul>]]>
+</description>
+      <author>矢部明宏,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097163-00</guid>
+      <dc:title>オーストラリア 議会サービス法等の改正</dc:title>
+      <dc:creator>矢部明宏</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dc:subject>政治/行政/行政制度</dc:subject>
+      <dc:subject>オセアニア</dc:subject>
+    </item>
+    <item>
+      <title>宇宙政策の司令塔機能をめぐる議論</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023537838-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 宇宙政策の司令塔機能をめぐる議論</li>
+<li>タイトル（読み）： ウチュウ セイサク ノ シレイトウ キノウ オ メグル ギロン</li>
+<li>責任表示： 榎 孝浩,</li>
+</ul>]]>
+</description>
+      <author>榎 孝浩,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023537838-00</guid>
+      <pubDate>Tue, 10 Apr 2012 09:00:00 +0900</pubDate>
+      <dc:title>宇宙政策の司令塔機能をめぐる議論</dc:title>
+      <dcndl:titleTranscription>ウチュウ セイサク ノ シレイトウ キノウ オ メグル ギロン</dcndl:titleTranscription>
+      <dc:creator>榎 孝浩</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04-05</dcterms:issued>
+      <dcterms:isPartOf>13493019</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>韓国 選挙をめぐる最近の動向 : SNS、在外選挙、選挙区画定</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096113-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 韓国 選挙をめぐる最近の動向 : SNS、在外選挙、選挙区画定</li>
+<li>責任表示： 藤原夏人,</li>
+</ul>]]>
+</description>
+      <author>藤原夏人,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096113-00</guid>
+      <dc:title>韓国 選挙をめぐる最近の動向 : SNS、在外選挙、選挙区画定</dc:title>
+      <dc:creator>藤原夏人</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dc:subject>政治/政治/選挙</dc:subject>
+      <dc:subject>韓国</dc:subject>
+    </item>
+    <item>
+      <title>調査と情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096539-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 調査と情報</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096539-00</guid>
+      <dc:title>調査と情報</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04-05</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>イギリス 2011年テロリズム防止調査措置法の制定</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097381-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： イギリス 2011年テロリズム防止調査措置法の制定</li>
+<li>責任表示： 河島太朗,</li>
+</ul>]]>
+</description>
+      <author>河島太朗,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097381-00</guid>
+      <dc:title>イギリス 2011年テロリズム防止調査措置法の制定</dc:title>
+      <dc:creator>河島太朗</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dc:subject>政治/憲法/人権</dc:subject>
+      <dc:subject>政治/司法・法務/刑事法制</dc:subject>
+      <dc:subject>政治/司法・法務/法務行政</dc:subject>
+      <dc:subject>政治/司法・法務/警察</dc:subject>
+      <dc:subject>イギリス</dc:subject>
+    </item>
+    <item>
+      <title>周波数オークションをめぐる議論</title>
+      <link>http://iss.ndl.go.jp/books/R000000004-I023580578-00</link>
+<description>
+<![CDATA[<p></p>
+<ul><li>タイトル： 周波数オークションをめぐる議論</li>
+<li>タイトル（読み）： シュウハスウ オークション オ メグル ギロン</li>
+<li>責任表示： 砂田 篤子,</li>
+</ul>]]>
+</description>
+      <author>砂田 篤子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R000000004-I023580578-00</guid>
+      <pubDate>Fri, 27 Apr 2012 09:00:00 +0900</pubDate>
+      <dc:title>周波数オークションをめぐる議論</dc:title>
+      <dcndl:titleTranscription>シュウハスウ オークション オ メグル ギロン</dcndl:titleTranscription>
+      <dc:creator>砂田 篤子</dc:creator>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04-24</dcterms:issued>
+      <dcterms:isPartOf>13493019</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>調査と情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096712-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 調査と情報</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096712-00</guid>
+      <dc:title>調査と情報</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04-05</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>アメリカ ワシントン州、メリーランド州同性婚法成立</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097164-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： アメリカ ワシントン州、メリーランド州同性婚法成立</li>
+<li>責任表示： 井樋三枝子,</li>
+</ul>]]>
+</description>
+      <author>井樋三枝子,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097164-00</guid>
+      <dc:title>アメリカ ワシントン州、メリーランド州同性婚法成立</dc:title>
+      <dc:creator>井樋三枝子</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dc:subject>政治/憲法/人権</dc:subject>
+      <dc:subject>政治/司法・法務/法務行政</dc:subject>
+      <dc:subject>アメリカ</dc:subject>
+    </item>
+    <item>
+      <title>各国議会 日本関係情報 2012年4月</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095784-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 各国議会 日本関係情報 2012年4月</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095784-00</guid>
+      <dc:title>各国議会 日本関係情報 2012年4月</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dc:subject>その他/その他/その他</dc:subject>
+      <dc:subject>国際</dc:subject>
+    </item>
+    <item>
+      <title>短信</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096114-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 短信</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096114-00</guid>
+      <dc:title>短信</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dc:subject>世界各国</dc:subject>
+    </item>
+    <item>
+      <title>EU 食品表示規則の制定</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096391-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： EU 食品表示規則の制定</li>
+<li>責任表示： 植月献二,</li>
+</ul>]]>
+</description>
+      <author>植月献二,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096391-00</guid>
+      <dc:title>EU 食品表示規則の制定</dc:title>
+      <dc:creator>植月献二</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04</dcterms:issued>
+      <dcterms:isPartOf>13492071</dcterms:isPartOf>
+      <dcterms:isPartOf>0433096X</dcterms:isPartOf>
+      <dc:subject>経済/通商・産業/公正取引・消費者保護</dc:subject>
+      <dc:subject>EU</dc:subject>
+    </item>
+    <item>
+      <title>調査と情報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097062-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 調査と情報</li>
+</ul>]]>
+</description>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097062-00</guid>
+      <dc:title>調査と情報</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2012-04-03</dcterms:issued>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+      <dcterms:isPartOf>13492098</dcterms:isPartOf>
+    </item>
+  </channel>
+</rss>

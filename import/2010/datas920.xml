@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2010-09-20 2010-09-20 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2010-09-20 mediatype=1 cnt=500 until=2010-09-20 </description>
+    <language>ja</language>
+    <openSearch:totalResults>8</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>国立国会図書館月報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000093777-00</link>
+<description>
+<![CDATA[<p>2010年,国立国会図書館</p>
+<ul><li>タイトル： 国立国会図書館月報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000093777-00</guid>
+      <dc:title>国立国会図書館月報</dc:title>
+      <dcndl:volume>2010年</dcndl:volume>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-20</dcterms:issued>
+      <dcterms:isPartOf>13493027</dcterms:isPartOf>
+      <dcterms:isPartOf>00279153</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>国内の公共図書館における法情報提供サービス</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097040-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 国内の公共図書館における法情報提供サービス</li>
+<li>責任表示： 日置将之,</li>
+</ul>]]>
+</description>
+      <author>日置将之,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097040-00</guid>
+      <dc:title>国内の公共図書館における法情報提供サービス</dc:title>
+      <dc:creator>日置将之</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-20</dcterms:issued>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>国立公文書館におけるデジタルアーカイブの取組みについて</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097268-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 国立公文書館におけるデジタルアーカイブの取組みについて</li>
+<li>責任表示： 八日市谷哲生,</li>
+</ul>]]>
+</description>
+      <author>八日市谷哲生,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097268-00</guid>
+      <dc:title>国立公文書館におけるデジタルアーカイブの取組みについて</dc:title>
+      <dc:creator>八日市谷哲生</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-20</dcterms:issued>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>セクシュアル・マイノリティの問題と図書館への期待</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097552-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： セクシュアル・マイノリティの問題と図書館への期待</li>
+<li>責任表示： 小澤かおる,</li>
+</ul>]]>
+</description>
+      <author>小澤かおる,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097552-00</guid>
+      <dc:title>セクシュアル・マイノリティの問題と図書館への期待</dc:title>
+      <dc:creator>小澤かおる</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-20</dcterms:issued>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>カレントアウェアネス</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096810-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： カレントアウェアネス</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096810-00</guid>
+      <dc:title>カレントアウェアネス</dc:title>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-20</dcterms:issued>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>動向レビュー：ディスカバリ・インターフェース（次世代OPAC)の実装と今後の展望</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095813-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 動向レビュー：ディスカバリ・インターフェース（次世代OPAC)の実装と今後の展望</li>
+<li>責任表示： 片岡真,</li>
+</ul>]]>
+</description>
+      <author>片岡真,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095813-00</guid>
+      <dc:title>動向レビュー：ディスカバリ・インターフェース（次世代OPAC)の実装と今後の展望</dc:title>
+      <dc:creator>片岡真</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-20</dcterms:issued>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>研究文献レビュー：図書館の「広報」は進化しているか？ : 説明責任と自己アピールの時代に求められる理論と実践</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000096146-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 研究文献レビュー：図書館の「広報」は進化しているか？ : 説明責任と自己アピールの時代に求められる理論と実践</li>
+<li>責任表示： 仁上幸治,</li>
+</ul>]]>
+</description>
+      <author>仁上幸治,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000096146-00</guid>
+      <dc:title>研究文献レビュー：図書館の「広報」は進化しているか？ : 説明責任と自己アピールの時代に求められる理論と実践</dc:title>
+      <dc:creator>仁上幸治</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-20</dcterms:issued>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+    </item>
+    <item>
+      <title>シンガポール国立図書館のビジネス支援サービス</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000097742-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： シンガポール国立図書館のビジネス支援サービス</li>
+<li>責任表示： 長崎理絵,</li>
+</ul>]]>
+</description>
+      <author>長崎理絵,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000097742-00</guid>
+      <dc:title>シンガポール国立図書館のビジネス支援サービス</dc:title>
+      <dc:creator>長崎理絵</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-09-20</dcterms:issued>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+      <dcterms:isPartOf>13487450</dcterms:isPartOf>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2011-08-01 2011-08-30 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2011-08-01 mediatype=1 cnt=500 until=2011-08-30 </description>
+    <language>ja</language>
+    <openSearch:totalResults>80</openSearch:totalResults>
+    <openSearch:startIndex>80</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>地方における課税自主権の拡大に伴う経済的効果</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000095659-00</link>
+<description>
+<![CDATA[<p>国立国会図書館</p>
+<ul><li>タイトル： 地方における課税自主権の拡大に伴う経済的効果</li>
+<li>責任表示： 深澤映司,</li>
+</ul>]]>
+</description>
+      <author>深澤映司,</author>
+      <category>立法情報</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000095659-00</guid>
+      <dc:title>地方における課税自主権の拡大に伴う経済的効果</dc:title>
+      <dc:creator>深澤映司</dc:creator>
+      <dc:publisher>国立国会図書館</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2011-08</dcterms:issued>
+      <dcterms:isPartOf>1349208X</dcterms:isPartOf>
+      <dcterms:isPartOf>00342912</dcterms:isPartOf>
+    </item>
+  </channel>
+</rss>

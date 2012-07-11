@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+  <channel>
+    <title>1 2010-01-04 2010-01-04 - 国立国会図書館サーチ OpenSearch</title>
+    <link>iss.ndl.go.jp</link>
+    <description>Search results for from=2010-01-04 mediatype=1 cnt=500 until=2010-01-04 </description>
+    <language>ja</language>
+    <openSearch:totalResults>26</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>500</openSearch:itemsPerPage>
+    <item>
+      <title>東京都公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000065564-00</link>
+<description>
+<![CDATA[<p>平成22年,東京都</p>
+<ul><li>タイトル： 東京都公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000065564-00</guid>
+      <dc:title>東京都公報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>東京都</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>日本海海況旬報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000070261-00</link>
+<description>
+<![CDATA[<p>気象庁</p>
+<ul><li>タイトル： 日本海海況旬報</li>
+<li>責任表示： 舞鶴海洋気象台,</li>
+</ul>]]>
+</description>
+      <author>舞鶴海洋気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000070261-00</guid>
+      <dc:title>日本海海況旬報</dc:title>
+      <dc:creator>舞鶴海洋気象台</dc:creator>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>北陸地方の天候経過 : 北陸地方の天候の特徴と気象トピックス</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000045851-00</link>
+<description>
+<![CDATA[<p>2009年,気象庁</p>
+<ul><li>タイトル： 北陸地方の天候経過 : 北陸地方の天候の特徴と気象トピックス</li>
+<li>責任表示： 新潟地方気象台,</li>
+</ul>]]>
+</description>
+      <author>新潟地方気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000045851-00</guid>
+      <dc:title>北陸地方の天候経過 : 北陸地方の天候の特徴と気象トピックス</dc:title>
+      <dc:creator>新潟地方気象台</dc:creator>
+      <dcndl:volume>2009年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>長野県内の天候</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000052986-00</link>
+<description>
+<![CDATA[<p>2009年,気象庁</p>
+<ul><li>タイトル： 長野県内の天候</li>
+<li>責任表示： 長野地方気象台,</li>
+</ul>]]>
+</description>
+      <author>長野地方気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000052986-00</guid>
+      <dc:title>長野県内の天候</dc:title>
+      <dc:creator>長野地方気象台</dc:creator>
+      <dcndl:volume>2009年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>東北地方週間地震概況</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000053402-00</link>
+<description>
+<![CDATA[<p>2010年,気象庁</p>
+<ul><li>タイトル： 東北地方週間地震概況</li>
+<li>責任表示： 仙台管区気象台,</li>
+</ul>]]>
+</description>
+      <author>仙台管区気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000053402-00</guid>
+      <dc:title>東北地方週間地震概況</dc:title>
+      <dc:creator>仙台管区気象台</dc:creator>
+      <dcndl:volume>2010年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>沖縄県農業気象速報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000004181-00</link>
+<description>
+<![CDATA[<p>2009年,気象庁</p>
+<ul><li>タイトル： 沖縄県農業気象速報</li>
+<li>責任表示： 沖縄県,沖縄気象台,</li>
+</ul>]]>
+</description>
+      <author>沖縄県,沖縄気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000004181-00</guid>
+      <dc:title>沖縄県農業気象速報</dc:title>
+      <dc:creator>沖縄県</dc:creator>
+      <dc:creator>沖縄気象台</dc:creator>
+      <dcndl:volume>2009年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>徳島県農業気象速報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000004033-00</link>
+<description>
+<![CDATA[<p>29,気象庁</p>
+<ul><li>タイトル： 徳島県農業気象速報</li>
+<li>責任表示： 徳島県,徳島地方気象台,</li>
+</ul>]]>
+</description>
+      <author>徳島県,徳島地方気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000004033-00</guid>
+      <dc:title>徳島県農業気象速報</dc:title>
+      <dc:creator>徳島県</dc:creator>
+      <dc:creator>徳島地方気象台</dc:creator>
+      <dcndl:volume>29</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>沖縄地方の天候</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000020923-00</link>
+<description>
+<![CDATA[<p>平成21年,気象庁</p>
+<ul><li>タイトル： 沖縄地方の天候</li>
+<li>責任表示： 沖縄県,沖縄気象台,</li>
+</ul>]]>
+</description>
+      <author>沖縄県,沖縄気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000020923-00</guid>
+      <dc:title>沖縄地方の天候</dc:title>
+      <dc:creator>沖縄県</dc:creator>
+      <dc:creator>沖縄気象台</dc:creator>
+      <dcndl:volume>平成21年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>天候</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000030078-00</link>
+<description>
+<![CDATA[<p>2009年,気象庁</p>
+<ul><li>タイトル： 天候</li>
+<li>責任表示： 気象庁,</li>
+</ul>]]>
+</description>
+      <author>気象庁,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000030078-00</guid>
+      <dc:title>天候</dc:title>
+      <dc:creator>気象庁</dc:creator>
+      <dcndl:volume>2009年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>和歌山県農業気象速報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000006694-00</link>
+<description>
+<![CDATA[<p>29,気象庁</p>
+<ul><li>タイトル： 和歌山県農業気象速報</li>
+<li>責任表示： 和歌山県,和歌山地方気象台,</li>
+</ul>]]>
+</description>
+      <author>和歌山県,和歌山地方気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000006694-00</guid>
+      <dc:title>和歌山県農業気象速報</dc:title>
+      <dc:creator>和歌山県</dc:creator>
+      <dc:creator>和歌山地方気象台</dc:creator>
+      <dcndl:volume>29</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>滋賀県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000042485-00</link>
+<description>
+<![CDATA[<p>滋賀県</p>
+<ul><li>タイトル： 滋賀県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000042485-00</guid>
+      <dc:title>滋賀県公報</dc:title>
+      <dc:publisher>滋賀県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>東海地方の天候</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000020484-00</link>
+<description>
+<![CDATA[<p>2009年,気象庁</p>
+<ul><li>タイトル： 東海地方の天候</li>
+<li>責任表示： 名古屋地方気象台,</li>
+</ul>]]>
+</description>
+      <author>名古屋地方気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000020484-00</guid>
+      <dc:title>東海地方の天候</dc:title>
+      <dc:creator>名古屋地方気象台</dc:creator>
+      <dcndl:volume>2009年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>宮崎県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000007395-00</link>
+<description>
+<![CDATA[<p>平成19年,宮崎県</p>
+<ul><li>タイトル： 宮崎県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000007395-00</guid>
+      <dc:title>宮崎県公報</dc:title>
+      <dcndl:volume>平成19年</dcndl:volume>
+      <dc:publisher>宮崎県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>東北地方の天候</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000071403-00</link>
+<description>
+<![CDATA[<p>2009年,気象庁</p>
+<ul><li>タイトル： 東北地方の天候</li>
+<li>責任表示： 仙台管区気象台,</li>
+</ul>]]>
+</description>
+      <author>仙台管区気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000071403-00</guid>
+      <dc:title>東北地方の天候</dc:title>
+      <dc:creator>仙台管区気象台</dc:creator>
+      <dcndl:volume>2009年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>福岡県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000033961-00</link>
+<description>
+<![CDATA[<p>福岡県</p>
+<ul><li>タイトル： 福岡県公報</li>
+<li>責任表示： 福岡県総務部行政経営企画課,</li>
+</ul>]]>
+</description>
+      <author>福岡県総務部行政経営企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000033961-00</guid>
+      <dc:title>福岡県公報</dc:title>
+      <dc:creator>福岡県総務部行政経営企画課</dc:creator>
+      <dc:publisher>福岡県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>天候</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000045246-00</link>
+<description>
+<![CDATA[<p>2009年,気象庁</p>
+<ul><li>タイトル： 天候</li>
+<li>責任表示： 気象庁,</li>
+</ul>]]>
+</description>
+      <author>気象庁,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000045246-00</guid>
+      <dc:title>天候</dc:title>
+      <dc:creator>気象庁</dc:creator>
+      <dcndl:volume>2009年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>東北地方の気候統計値</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000077421-00</link>
+<description>
+<![CDATA[<p>2009年,気象庁</p>
+<ul><li>タイトル： 東北地方の気候統計値</li>
+<li>責任表示： 仙台管区気象台,</li>
+</ul>]]>
+</description>
+      <author>仙台管区気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000077421-00</guid>
+      <dc:title>東北地方の気候統計値</dc:title>
+      <dc:creator>仙台管区気象台</dc:creator>
+      <dcndl:volume>2009年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>青森県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000083314-00</link>
+<description>
+<![CDATA[<p>青森県</p>
+<ul><li>タイトル： 青森県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000083314-00</guid>
+      <dc:title>青森県報</dc:title>
+      <dc:publisher>青森県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>長野県内の天候</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000030007-00</link>
+<description>
+<![CDATA[<p>2009年,気象庁</p>
+<ul><li>タイトル： 長野県内の天候</li>
+<li>責任表示： 長野地方気象台,</li>
+</ul>]]>
+</description>
+      <author>長野地方気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000030007-00</guid>
+      <dc:title>長野県内の天候</dc:title>
+      <dc:creator>長野地方気象台</dc:creator>
+      <dcndl:volume>2009年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>技本弘報 : 防衛省技術研究本部弘報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000019254-00</link>
+<description>
+<![CDATA[<p>防衛省</p>
+<ul><li>タイトル： 技本弘報 : 防衛省技術研究本部弘報</li>
+<li>責任表示： 技術研究本部総務部総務課,</li>
+</ul>]]>
+</description>
+      <author>技術研究本部総務部総務課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000019254-00</guid>
+      <dc:title>技本弘報 : 防衛省技術研究本部弘報</dc:title>
+      <dc:creator>技術研究本部総務部総務課</dc:creator>
+      <dc:publisher>防衛省</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>福岡県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000019782-00</link>
+<description>
+<![CDATA[<p>福岡県</p>
+<ul><li>タイトル： 福岡県公報</li>
+<li>責任表示： 福岡県総務部行政経営企画課,</li>
+</ul>]]>
+</description>
+      <author>福岡県総務部行政経営企画課,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000019782-00</guid>
+      <dc:title>福岡県公報</dc:title>
+      <dc:creator>福岡県総務部行政経営企画課</dc:creator>
+      <dc:publisher>福岡県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>広島県報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000043440-00</link>
+<description>
+<![CDATA[<p>平成22年,広島県</p>
+<ul><li>タイトル： 広島県報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000043440-00</guid>
+      <dc:title>広島県報</dc:title>
+      <dcndl:volume>平成22年</dcndl:volume>
+      <dc:publisher>広島県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>東海地方の天候</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000020842-00</link>
+<description>
+<![CDATA[<p>平成21年,気象庁</p>
+<ul><li>タイトル： 東海地方の天候</li>
+<li>責任表示： 名古屋地方気象台,</li>
+</ul>]]>
+</description>
+      <author>名古屋地方気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000020842-00</guid>
+      <dc:title>東海地方の天候</dc:title>
+      <dc:creator>名古屋地方気象台</dc:creator>
+      <dcndl:volume>平成21年</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>兵庫県農業気象速報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000064787-00</link>
+<description>
+<![CDATA[<p>29,気象庁</p>
+<ul><li>タイトル： 兵庫県農業気象速報</li>
+<li>責任表示： 兵庫県,神戸海洋気象台,</li>
+</ul>]]>
+</description>
+      <author>兵庫県,神戸海洋気象台,</author>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000064787-00</guid>
+      <dc:title>兵庫県農業気象速報</dc:title>
+      <dc:creator>兵庫県</dc:creator>
+      <dc:creator>神戸海洋気象台</dc:creator>
+      <dcndl:volume>29</dcndl:volume>
+      <dc:publisher>気象庁</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>滋賀県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000030763-00</link>
+<description>
+<![CDATA[<p>滋賀県</p>
+<ul><li>タイトル： 滋賀県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000030763-00</guid>
+      <dc:title>滋賀県公報</dc:title>
+      <dc:publisher>滋賀県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+    <item>
+      <title>宮崎県公報</title>
+      <link>http://iss.ndl.go.jp/books/R100000040-I000051311-00</link>
+<description>
+<![CDATA[<p>宮崎県</p>
+<ul><li>タイトル： 宮崎県公報</li>
+</ul>]]>
+</description>
+      <category>デジタル資料</category>
+      <guid isPermaLink="true">http://iss.ndl.go.jp/books/R100000040-I000051311-00</guid>
+      <dc:title>宮崎県公報</dc:title>
+      <dc:publisher>宮崎県</dc:publisher>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2010-01-04</dcterms:issued>
+    </item>
+  </channel>
+</rss>
