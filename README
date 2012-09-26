@@ -1,0 +1,18 @@
+HOT TO USE
+
+1) get datas from opensearch
+get 500 datas/file * 50 times * 12 monthes on YYYY
+
+$ ls
+get_from_opensearch.rb
+$ ruby get_from_opensearch YYYY
+
+
+2) create csv file
+create file to import from datas in import/YYYY directory
+*before create, set shelf info on create_csv.rb
+*if you want to modify item_identifier prefix, set 'pre' value setted on top of the .rb
+
+$ ls
+create_csv.rb
+$ ruby create_csv.rb YYYY
