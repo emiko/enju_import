@@ -10,16 +10,16 @@ require "rexml/document"
 require "time"
 require 'csv'
 
+arg = ARGV[0]
 12.times do |month|
   month += 1
   datas = []
-  arg = ARGV[0]
   Dir["./import/#{arg}/datas#{month}*.xml"].each do |file|
     begin
       doc = REXML::Document.new File.new(file)
       doc.elements.each("rss/channel/item") do |item|
         data = Hash.new
-        data[:isbn] = item.elements["dcndl:ISBN"].text rescue nil
+        data[:isbn] = item.elements["dc:identifier xsi:type=\"dcndl:ISBN\""].text rescue nil
         data[:original_title] = item.elements["title"].text rescue nil
         data[:title_transcription] = item.elements["dcndl:titleTranscription"].text rescue nil
         data[:volume_number_string] = item.elements["dcndl:volume"].text rescue nil
@@ -40,7 +40,7 @@ end
       p e
     end
   end
-  p datas.size
+  p "#{arg}-#{month}: #{datas.size}"
   next if datas.size == 0
 # export TSV
   CSV.open("import_#{arg}#{month}.txt", 'w', {:col_sep => "\t"}) do |row|
